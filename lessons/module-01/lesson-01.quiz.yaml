@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    It is your first shift as a barback. The bartender is busy and the ice well is almost empty.
+    Which job is clearly yours?
+  options:
+    - Taking the next guest's order so the bartender can catch up.
+    - Deciding whether the loud guest at the end of the bar should be refused.
+    - Refilling the ice well and bringing clean glasses to the station.
+    - Changing the house spec of the Margarita to speed things up.
+  correct: 2
+  explanation: >-
+    A barback keeps the bartender supplied: ice, glass, bottles, bins. Orders and service decisions
+    belong to the bartender and the shift manager; specs are set by the head bartender or bar manager.
+- id: q2
+  question: >-
+    A guest gets aggressive and you think he should be refused. On this shift the owner is away.
+    Who do you tell first?
+  options:
+    - The achmash, the person in charge of the shift.
+    - The barback, so he can stop bringing the guest drinks.
+    - The guest's friends, so they can take him home.
+    - Nobody; you serve him slowly until he leaves.
+  correct: 0
+  explanation: >-
+    The achmash (אחמ"ש, shift manager) is responsible for the shift and for decisions such as
+    refusing service or removing a guest. Tell them early, before the situation grows.
+- id: q3
+  question: >-
+    A bar owner asks what qualification this course gives you. Which answer is accurate?
+  options:
+    - A recognised Israeli bartending licence, valid once you pass Module 11.
+    - An IBA certificate, because the course uses IBA cocktail specifications.
+    - A government diploma, provided all quizzes are passed with 70% or more.
+    - No licence or certificate; it is self-study and you can show your technique.
+  correct: 3
+  explanation: >-
+    The course is not accredited and grants no licence or certificate. Using IBA specs does not make
+    it an IBA course. Your proof is what you can demonstrate on a trial shift.
+- id: q4
+  question: >-
+    In the baseline drill your five free pours aimed at 30 ml weighed 31, 24, 37, 29 and 34 g.
+    What is the most useful conclusion?
+  options:
+    - Your average is close to 30 ml, so you can skip the jigger at work.
+    - The 13 ml spread between pours is the real problem, so measure every pour.
+    - Only the 37 g pour matters, because over-pouring is the sole costly error.
+    - The scale is probably wrong, since water does not weigh 1 g per ml.
+  correct: 1
+  explanation: >-
+    The average (31 ml) hides a spread from 24 to 37 ml, which makes the same drink taste different
+    each time. Consistency is why bars measure. Water weighs about 1 g per ml, so the scale method is sound.

@@ -1,0 +1,127 @@
+- id: q1
+  question: >-
+    On a trial shift the head bartender says, "Back up the well and keep me in ice and glass." You
+    have never worked a bar. What is the most useful first action?
+  options:
+    - Start taking orders at the far end so the head bartender has fewer guests.
+    - Check the ice level and the clean-glass rack, and refill whichever is lower.
+    - Re-arrange the speed rail into alphabetical order so bottles are easier to find.
+    - Start cutting extra garnish, since a full tray always helps the rush.
+  correct: 1
+  explanation: >-
+    You were asked to do a barback's job: keep the station supplied. Taking orders and changing the
+    rail are not your call, and garnish was not what was asked for.
+- id: q2
+  question: >-
+    A spec says 1½ oz bourbon, ¾ oz lemon, ½ oz syrup. You have a 30/45 ml jigger with a 15 ml
+    line inside the small cup. Which pours are correct by bar convention?
+  options:
+    - 45 ml bourbon, 30 ml lemon, 15 ml syrup.
+    - 40 ml bourbon, 20 ml lemon, 10 ml syrup.
+    - 45 ml bourbon, 22.5 ml lemon, 15 ml syrup.
+    - 50 ml bourbon, 25 ml lemon, 15 ml syrup.
+  correct: 2
+  explanation: >-
+    With 1 oz treated as 30 ml, 1½ oz = 45, ¾ oz = 22.5 and ½ oz = 15 ml. Pouring 30 ml of lemon uses
+    the wrong line and makes the drink sour.
+- id: q3
+  question: >-
+    Your jigger drill at 30 ml reads 30, 31, 26, 30, 29 g. Which statement is correct?
+  options:
+    - Four of five pours are in tolerance; the 26 g pour shows a slip to find on video.
+    - All five pours pass because the average is close to 30 ml.
+    - Only the 30 g pours pass, because tolerance means hitting the exact target.
+    - None pass, because water must be weighed at 4 °C to be accurate.
+  correct: 0
+  explanation: >-
+    For 30 ml the tolerance on a whole-gram scale is 29–31 g, so four pours pass. The average hides the
+    26 g pour, which usually comes from a slow tip or under-filling.
+- id: q4
+  question: >-
+    You stir a drink in a mixing glass and need to strain it into a chilled coupe with no ice shards.
+    The julep strainer is in the wash. What is the best option?
+  options:
+    - Pour slowly over the lip and hold back the ice with the bar spoon.
+    - Pour through a fine strainer alone, held over the coupe.
+    - Pour into a shaker tin first, then pour into the coupe.
+    - Use a Hawthorne strainer on the mixing glass instead.
+  correct: 3
+  explanation: >-
+    A Hawthorne also fits a mixing glass and holds back the ice. A fine strainer alone clogs, and a
+    spoon or an extra pour makes a mess or warms the drink.
+- id: q5
+  question: >-
+    During prep your colleague cuts limes on a board on a wet steel counter, with the knife pointing
+    towards her body between cuts. What do you say?
+  options:
+    - Nothing; experienced bartenders cut this way all the time.
+    - Suggest she switches to a bigger chef's knife for more control.
+    - Put a damp cloth under the board and rest the knife blade away from her.
+    - Ask her to cut faster so the knife is out for less time.
+  correct: 2
+  explanation: >-
+    A board on a wet hard surface slides, and a blade pointing at the body is how slips become injuries.
+    A damp cloth under the board and safe knife placement fix both.
+- id: q6
+  question: >-
+    A guest orders a gin and tonic. The only clean glasses are a 450 ml wine glass and a 300 ml
+    highball. Which do you use, and why?
+  options:
+    - The wine glass, because a bigger glass looks more generous.
+    - The highball, because a tall straight glass full of ice suits a long drink.
+    - The wine glass, because tonic keeps its bubbles longer in a wide bowl.
+    - Either one, because the glass makes no difference to a long drink.
+  correct: 1
+  explanation: >-
+    A gin and tonic is a long drink: tall glass, full of ice. A wide bowl releases bubbles faster, and
+    a big glass makes a correct pour look short.
+- id: q7
+  question: >-
+    You notice a chip on the rim of a coupe just as you are about to strain a drink into it. The bar is
+    out of chilled coupes. What do you do?
+  options:
+    - Use it, but turn the chip away from where the guest will drink.
+    - Use it, and warn the guest about the chip when you serve.
+    - Strain the drink back into the tin and serve it on the rocks instead.
+    - Remove the coupe from service and chill another glass with ice and water.
+  correct: 3
+  explanation: >-
+    A chipped glass leaves service immediately. A clean glass can be chilled in under a minute with ice
+    and water while the drink waits in the tin.
+- id: q8
+  question: >-
+    A barback drops a bottle cap into the ice well during the rush. What is the right response?
+  options:
+    - Treat it as contamination - stop using that well and burn the ice, working from another station.
+    - Fish out the cap with the scoop and carry on serving from that well.
+    - Fish out the cap with your fingers, since it is only a cap, not glass.
+    - Leave it until closing, since metal is easy to spot when the ice is emptied.
+  correct: 0
+  explanation: >-
+    Anything that falls into the ice contaminates it. Mark the well, work from another station, burn
+    the ice and clean the well before refilling.
+- id: q9
+  question: >-
+    You want a Mojito very cold and well diluted quickly, and an Old Fashioned that dilutes slowly as
+    the guest sips. Which ice choice fits?
+  options:
+    - Cubes for the Mojito and crushed ice for the Old Fashioned.
+    - Crushed ice for both, since crushed ice always chills best.
+    - Crushed ice for the Mojito and one large cube for the Old Fashioned.
+    - One large cube for both, since it melts slowest.
+  correct: 2
+  explanation: >-
+    Small pieces have more surface, so they chill and dilute fast; a large cube has little surface and
+    melts slowly, which suits a sipped spirit-forward drink.
+- id: q10
+  question: >-
+    At closing you have 10 minutes. Which order is correct for the station?
+  options:
+    - Sanitise the surfaces, then wipe off the sugar, then empty the ice well.
+    - Leave garnish out overnight for tomorrow, then wash the tools.
+    - Empty the ice well into the bin with your hands to save time, then wipe.
+    - Discard or label perishables, empty the ice, wash and sanitise tools, then clean the surfaces.
+  correct: 3
+  explanation: >-
+    Perishables are handled first, the ice well emptied and dried, tools washed and sanitised, and
+    surfaces cleaned before they are sanitised, ending with a floor check and hand wash.

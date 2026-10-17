@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A drink of about 100 ml is shaken, strained and served with no ice. Which glass suits it best?
+  options:
+    - A chilled coupe.
+    - A highball filled with ice.
+    - A double old fashioned glass.
+    - A 500 ml wine glass at room temperature.
+  correct: 0
+  explanation: >-
+    Drinks served up go into a chilled stemmed glass sized to the drink. The stem keeps the hand from
+    warming it; a big wine glass would make 100 ml look short, and it is not chilled.
+- id: q2
+  question: >-
+    While polishing glasses you notice a small chip on the rim of a rocks glass. It is busy and you
+    are short of glasses. What do you do?
+  options:
+    - Use it for a drink with a salted rim, which hides the chip.
+    - Use it for a neat spirit only, since there is no ice to knock it.
+    - Put it in the broken-glass container and take another glass.
+    - Turn the chip to the back so the guest drinks from the other side.
+  correct: 2
+  explanation: >-
+    A chipped glass can cut a guest and can shed glass into the drink. It leaves service immediately,
+    however busy the bar is.
+- id: q3
+  question: >-
+    A glass comes out of the glasswasher still hot and you need it for a highball now. What is the
+    safest move?
+  options:
+    - Fill it with ice at once; the ice will cool it quickly.
+    - Rinse it with cold water first, or take a cooler glass.
+    - Put it in the freezer for a minute before adding ice.
+    - Use it without ice and add the mixer straight away.
+  correct: 1
+  explanation: >-
+    A sudden temperature change (thermal shock) can crack a hot glass, especially in ice or a freezer.
+    Rinse it with cold water or use a glass that has cooled.
+- id: q4
+  question: >-
+    You serve 90 ml of Negroni over ice in a tall 350 ml highball. The guest says it looks like half a
+    drink. What was the real mistake?
+  options:
+    - The pour was too small; a Negroni should be at least 150 ml.
+    - The highball should have been chilled in the freezer first.
+    - Negroni must always be served up in a coupe, never on ice.
+    - The glass was too large for the drink; a rocks glass fits it.
+  correct: 3
+  explanation: >-
+    Spirit-forward drinks on ice go in a rocks glass. Choose the glass by working capacity so a correct
+    pour fills it to about 1 cm below the rim.
+- id: q5
+  question: >-
+    You need to chill a coupe quickly while you shake a drink. Which method is correct?
+  options:
+    - Scoop ice into the coupe with the scoop, add water, then dump it just before straining.
+    - Dip the coupe into the ice well to fill it with ice, then dump it before straining.
+    - Run the coupe under the hot tap first so it chills faster afterwards.
+    - Leave the coupe empty on the bar mat, since the shaken drink is already cold.
+  correct: 0
+  explanation: >-
+    Ice and water in the glass chills it in the time it takes to make the drink. A glass must never be
+    dipped into the ice well, because it can chip and leave invisible shards in the ice.

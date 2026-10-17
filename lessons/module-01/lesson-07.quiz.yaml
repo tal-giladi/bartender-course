@@ -1,0 +1,64 @@
+- id: q1
+  question: >-
+    The bar top is sticky with syrup at the end of a round. A colleague sprays sanitiser on it and
+    wipes. Why is this not enough?
+  options:
+    - Sanitiser only works on glass, not on bar-top materials.
+    - Sanitiser needs to be mixed with detergent to work properly.
+    - The sugar shields germs; the surface must be cleaned and rinsed first.
+    - The surface must be dried with a glass towel before spraying.
+  correct: 2
+  explanation: >-
+    Sanitising works only on a clean surface. The order is clean, rinse, sanitise, air-dry. Mixing
+    sanitiser with other chemicals is a hazard, and the glass towel is for glass only.
+- id: q2
+  question: >-
+    You took a bag of empties out to the bin and come back to cut garnish. What do you do first?
+  options:
+    - Wash your hands at the hand sink.
+    - Put on gloves straight away to save time.
+    - Rinse your hands in the bar sink beside the ice well.
+    - Wipe your hands on the dry glass towel.
+  correct: 0
+  explanation: >-
+    Moving from a dirty task to a clean one means washing hands with soap for at least 20 seconds at
+    the hand sink. Gloves over dirty hands carry the dirt with them.
+- id: q3
+  question: >-
+    At setup you find a bottle of lime juice in the fridge with no label. It looks and smells fine.
+    What do you do?
+  options:
+    - Use it first, since it is probably from yesterday.
+    - Taste it, and use it if it is not bitter.
+    - Label it with today's date and use it tonight.
+    - Throw it away and squeeze fresh juice, labelled.
+  correct: 3
+  explanation: >-
+    Without a label nobody knows when it was made, so it cannot be used safely. Discard it and label
+    every new container with name and date (and time for juice).
+- id: q4
+  question: >-
+    In your first drill run setup takes 10:40. The video shows you walking to the cupboard four times
+    and searching for the peeler. What is the best fix for run 2?
+  options:
+    - Skip the calibration pours, which take the most time.
+    - Give every item a fixed place within reach, using your station map.
+    - Work faster with your hands, especially when cutting garnish.
+    - Leave the knife and peeler out from the previous run to save time.
+  correct: 1
+  explanation: >-
+    Most setup time is lost to walking and searching. Fixed positions from the station map remove both.
+    Skipping steps or rushing the knife trades time for quality and safety.
+- id: q5
+  question: >-
+    Your run 3 times are all within target, but the video shows you once took ice with a glass. How
+    is the run scored?
+  options:
+    - As a fail, because a safety item failed whatever the times.
+    - As a pass, because all three phases were within target.
+    - As a pass with a note, since it happened only once.
+    - As a fail on the setup phase only; reset and close still pass.
+  correct: 0
+  explanation: >-
+    Scooping ice with a glass is a safety-critical failure: it fails the run regardless of time. It is
+    also a safety-critical failure in the final assessment.

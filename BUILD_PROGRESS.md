@@ -24,7 +24,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] commit + push
 
 ## Modules
-- [ ] M01
+- [x] M01
 - [ ] M02
 - [ ] M03
 - [ ] M04
@@ -59,5 +59,6 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - none
 
 ## Now working
-- agent: M01
+- agent: M03
 - agent: M02
+- M01 done; M03 spawned.

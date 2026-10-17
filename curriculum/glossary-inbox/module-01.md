@@ -1,0 +1,106 @@
+# Glossary inbox — Module 01
+
+- **Barback** — the bartender's assistant who keeps the station supplied with ice, glass, bottles and garnish (lessons/module-01/lesson-01.md)
+- **Bartender** — the person who takes orders, prepares and serves drinks, handles payment and keeps the station clean and safe (lessons/module-01/lesson-01.md)
+- **Head bartender** — senior bartender who runs the bar during a shift, trains staff and sets specs (lessons/module-01/lesson-01.md)
+- **Bar manager** — manages ordering, costing, menus, schedules and compliance (lessons/module-01/lesson-01.md)
+- **Achmash** — Hebrew acronym for the shift manager, the person in charge of the shift (lessons/module-01/lesson-01.md)
+- **Mise en place** — French for "everything in its place"; the prep done before service (lessons/module-01/lesson-01.md)
+- **Station** — the area one bartender works from: ice, speed rail, tools, glass, sink and POS within reach (lessons/module-01/lesson-02.md)
+- **Bar mat (rail)** — ribbed rubber mat or drip tray where drinks are built and served (lessons/module-01/lesson-02.md)
+- **Ice well** — insulated bin of ice built into the counter in front of the bartender (lessons/module-01/lesson-02.md)
+- **Speed rail** — metal shelf on the front of the ice well holding the most-used bottles (lessons/module-01/lesson-02.md)
+- **Well** — the ice well together with the speed rail; "well spirits" are the house pours (lessons/module-01/lesson-02.md)
+- **Back bar** — shelves and fridges behind the bartender for display and premium bottles, wine and beer (lessons/module-01/lesson-02.md)
+- **POS** — point of sale: the till or touchscreen where orders are entered and paid (lessons/module-01/lesson-02.md)
+- **Jigger** — double-ended measuring cup, e.g. 30/60 or 30/45 ml (lessons/module-01/lesson-03.md)
+- **Bar convention (oz)** — treating 1 US fl oz (29.57 ml) as 30 ml behind the bar (lessons/module-01/lesson-03.md)
+- **Barspoon** — long twisted-stem spoon; as a measure about 5 ml (lessons/module-01/lesson-03.md)
+- **Dash** — a quick shake from a bitters bottle, about 0.8 ml in this course (lessons/module-01/lesson-03.md)
+- **Boston shaker** — two-piece shaker: large tin with a small tin (tin-on-tin) or a mixing glass (lessons/module-01/lesson-03.md)
+- **Cobbler shaker** — three-piece shaker with a built-in strainer and cap (lessons/module-01/lesson-03.md)
+- **French (Parisian) shaker** — two-piece metal shaker with no built-in strainer (lessons/module-01/lesson-03.md)
+- **Mixing glass** — thick vessel of about 500–700 ml for stirring drinks (lessons/module-01/lesson-03.md)
+- **Hawthorne strainer** — flat strainer with a spring around the edge, used on tins and mixing glasses (lessons/module-01/lesson-03.md)
+- **Julep strainer** — perforated spoon-shaped strainer used in a mixing glass (lessons/module-01/lesson-03.md)
+- **Fine strainer** — small conical mesh sieve for double straining (lessons/module-01/lesson-03.md)
+- **Double straining** — straining through a Hawthorne and a fine strainer together to remove ice shards and pulp (lessons/module-01/lesson-03.md)
+- **Muddler** — stick for pressing fruit, herbs or sugar in a tin or glass (lessons/module-01/lesson-03.md)
+- **Pour spout (speed pourer)** — spout fitted to a bottle for a steady stream (lessons/module-01/lesson-03.md)
+- **Hand press (Mexican elbow)** — hinged citrus juicer; fruit goes in cut side down (lessons/module-01/lesson-04.md)
+- **Y-peeler** — peeler with the blade across the handle, for wide twists (lessons/module-01/lesson-04.md)
+- **Channel knife** — tool that cuts a long thin strip of peel (lessons/module-01/lesson-04.md)
+- **Pith** — the bitter white layer under citrus skin (lessons/module-01/lesson-04.md)
+- **Twist (peel)** — strip of citrus skin used for its aromatic oils (lessons/module-01/lesson-04.md)
+- **Claw grip** — holding food with fingertips tucked and knuckles guiding the blade (lessons/module-01/lesson-04.md)
+- **Served up** — chilled, strained and served without ice, usually in a stemmed glass (lessons/module-01/lesson-05.md)
+- **On the rocks** — served over ice in a short glass (lessons/module-01/lesson-05.md)
+- **Long drink** — topped with a mixer over ice in a tall glass (lessons/module-01/lesson-05.md)
+- **Coupe** — stemmed glass with a shallow rounded bowl (lessons/module-01/lesson-05.md)
+- **Nick & Nora** — small stemmed glass with a tall rounded bowl (lessons/module-01/lesson-05.md)
+- **Rocks (old fashioned) glass** — short heavy glass, 180–300 ml (lessons/module-01/lesson-05.md)
+- **Highball** — tall straight glass, 240–350 ml (lessons/module-01/lesson-05.md)
+- **Collins glass** — taller, narrower glass, about 300–410 ml (lessons/module-01/lesson-05.md)
+- **Thermal shock** — cracking caused by a sudden temperature change in glass (lessons/module-01/lesson-05.md)
+- **Working capacity** — the volume a glass holds about 1 cm below the rim (lessons/module-01/lesson-05.md)
+- **Cracked ice** — cubes broken into 2–4 pieces (lessons/module-01/lesson-06.md)
+- **Crushed (pebble) ice** — small pieces of ice for juleps, swizzles and tiki drinks (lessons/module-01/lesson-06.md)
+- **Wet ice / dry ice (bar sense)** — ice at 0 °C with surface water versus very cold freezer ice; not to be confused with dry ice, frozen CO2 (lessons/module-01/lesson-06.md)
+- **Dilution** — water added to a drink by melting ice (lessons/module-01/lesson-06.md)
+- **Clear ice** — ice without trapped air, made by directional freezing (lessons/module-01/lesson-06.md)
+- **Burning the ice** — discarding and melting all ice in a well after glass breakage or contamination (lessons/module-01/lesson-06.md)
+- **Cleaning** — removing visible dirt and sugar with detergent and water (lessons/module-01/lesson-07.md)
+- **Sanitising** — reducing germs on a clean surface to a safe level with an approved sanitiser or heat (lessons/module-01/lesson-07.md)
+- **FIFO** — first in, first out: use the oldest stock or prep first (lessons/module-01/lesson-07.md)
+- **Setup / reset / close** — preparing the station before service, restoring it after each round, and cleaning it down at the end (lessons/module-01/lesson-07.md)
+
+## Hebrew
+
+Usage is professional judgment (common Israeli bar usage as of 2026-10-17), not official terms.
+
+- Bartender — ברמן / ברמנית (barmen / barmanit) — bartender, male / female
+- Barback — בַּרְבֶּק / עוזר בר (barbek / ozer bar) — bartender's assistant
+- Head bartender — ברמן ראשי (barmen rashi) — senior bartender
+- Bar manager — מנהל/ת בר (menahel/et bar) — bar manager
+- Shift manager — אחמ"ש (achmash) — acronym of אחראי משמרת, person in charge of the shift
+- Shift — משמרת (mishmeret) — a working period
+- Trial shift — משמרת ניסיון (mishmeret nisayon) — unpaid or paid try-out shift
+- Station — עמדה (emda) — a bartender's working area
+- Prep — הכנות (hachanot) — mise en place
+- Order — הזמנה (hazmana) — what a guest or waiter asks for
+- Tips — טיפים (tipim) — gratuities
+- Out of stock — נגמר (nigmar) — "it's finished"
+- Bar — בר (bar) — the counter and the venue
+- Drip tray — מגש ניקוז (magash nikuz) — bar mat / drip tray
+- Ice well — מיכל קרח (mekhal kerach) — ice container in the station
+- Back bar — בק בר (bek bar) — shelves behind the bartender
+- Hand sink — כיור ידיים (kiyor yadayim) — sink for hand washing only
+- Glasswasher — מדיח (mediach) — glass dishwasher
+- Till — קופה (kupa) — POS / cash register
+- Jigger — ג'יגר (jigger) — measuring cup
+- Shaker — שייקר (sheyker) — shaker
+- Bar spoon — כף בר (kaf bar) — bar spoon
+- Natural juice — מיץ טבעי (mitz tiv'i) — fresh-squeezed juice
+- Peeler — קולפן (kolfan) — peeler
+- Knife — סכין (sakin) — also the call-out when carrying a knife behind someone
+- Small knife — סכין קטנה (sakin ktana) — paring knife
+- Cutting board — קרש חיתוך (kresh chituch) — cutting board
+- Glass — כוס / כוסות (kos / kosot) — drinking glass / glasses
+- Low glass — כוס נמוכה (kos nemucha) — rocks glass
+- Tall glass — כוס גבוהה (kos gvoha) — highball
+- Wine glass — כוס יין (kos yayin) — wine glass
+- Shot — צ'ייסר (chaser) — a shot, or a shot glass
+- Third — שליש (shlish) — 330 ml beer serving
+- Half — חצי (chatzi) — 500 ml beer serving
+- Ice — קרח (kerach) — ice
+- Ice cubes — קוביות קרח (kubiyot kerach) — cubed ice
+- Crushed ice — קרח גרוס (kerach garus) — crushed ice
+- Ice machine — מכונת קרח (mechonat kerach) — ice machine
+- Ice scoop — סקופ / כף קרח (skup / kaf kerach) — ice scoop
+- Glass! — זכוכית (zchuchit) — "glass", the call-out after breakage
+- Cleaning — ניקיון (nikayon) — cleaning
+- Sanitising — חיטוי (chitui) — sanitising / disinfecting
+- Cloth — סמרטוט (smartut) — wiping cloth
+- Towel — מגבת (magevet) — towel
+- Opening / closing — פתיחה / סגירה (ptiha / sgira) — opening / closing the bar
+- Date — תאריך (ta'arich) — date on a prep label

@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are cutting limes before service and your knife slides off the counter. What do you do?
+  options:
+    - Catch it by the handle quickly before it hits anyone's feet.
+    - Step back and let it fall, then pick it up and wash it.
+    - Block it with your knee so it does not hit the floor.
+    - Grab a towel and catch it with the towel over your hand.
+  correct: 1
+  explanation: >-
+    Never try to catch a falling knife: step back and let it fall. Then pick it up by the handle,
+    wash it and check the blade. A knife at the counter edge is the habit to fix.
+- id: q2
+  question: >-
+    Your orange twists make the drink taste bitter, and the back of each peel is thick and white.
+    What should you change?
+  options:
+    - Use a lemon instead, since orange peel is always bitter.
+    - Peel the fruit after juicing it, when the skin is softer.
+    - Press more lightly with the Y-peeler and trim leftover pith with the knife.
+    - Switch to a channel knife, because it cuts more pith per strip.
+  correct: 2
+  explanation: >-
+    The white pith is bitter. A light stroke with the Y-peeler takes mostly skin; any pith left can be
+    shaved off with the paring knife, blade moving away from your fingers.
+- id: q3
+  question: >-
+    You put half a lime in a hand press with the cut side facing up, and get little juice and a spray.
+    What went wrong?
+  options:
+    - The cut side must face down, towards the holes.
+    - The lime should have been quartered, not halved.
+    - The lime needed to be chilled before pressing.
+    - Hand presses only work with lemons, not limes.
+  correct: 0
+  explanation: >-
+    Place the half cut side down, towards the holes. The press turns the skin inside out and forces the
+    juice through. Cut side up squeezes against the skin and sprays.
+- id: q4
+  question: >-
+    A colleague is cutting wedges on a plastic board placed directly on a wet steel counter. What is
+    the main risk you should point out?
+  options:
+    - Plastic boards blunt knives faster than steel counters.
+    - The lime juice will react with the steel and stain it.
+    - Wet boards make wedges uneven because the fruit swells.
+    - The board can slide, and the knife can slip into her hand.
+  correct: 3
+  explanation: >-
+    A board on a wet hard surface slides easily, the most common cause of prep cuts. Put a damp cloth
+    or non-slip mat under it so it stays still.

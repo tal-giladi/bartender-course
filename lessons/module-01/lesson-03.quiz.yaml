@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    An American recipe calls for 1½ oz gin and ¾ oz lime. Your bar works in ml using the bar
+    convention. What do you pour?
+  options:
+    - 40 ml gin and 20 ml lime.
+    - 45 ml gin and 22.5 ml lime.
+    - 50 ml gin and 25 ml lime.
+    - 42 ml gin and 21 ml lime.
+  correct: 1
+  explanation: >-
+    Bar convention treats 1 oz as 30 ml, so 1½ oz = 45 ml and ¾ oz = 22.5 ml. Using the exact
+    29.57 ml gives almost the same result; the other options mix up the conversion.
+- id: q2
+  question: >-
+    In your jigger drill every 30 ml pour weighs 27–28 g. The jigger is level and filled to the brim.
+    What is the most likely fault?
+  options:
+    - The scale is reading low because water weighs more than 1 g per ml.
+    - The jigger is a 25 ml UK size, so the brim is the wrong line.
+    - You tip the jigger slowly, so liquid clings to the steel.
+    - You hold the jigger over the tin instead of over the bar top.
+  correct: 2
+  explanation: >-
+    A slow or partial tip leaves 1–3 ml clinging inside. Water weighs about 1 g per ml, and holding the
+    jigger over the tin is correct. A 25 ml jigger would weigh about 25 g, not 27–28 g.
+- id: q3
+  question: >-
+    You stirred a Martini in a mixing glass and want to strain it into a chilled glass. Which strainer
+    setup fits best?
+  options:
+    - A julep strainer held in the mouth of the mixing glass.
+    - A fine strainer alone, held over the glass.
+    - No strainer; pour slowly and hold the ice back with a finger.
+    - A cobbler shaker top pressed onto the mixing glass.
+  correct: 0
+  explanation: >-
+    The julep strainer is made to fit inside a mixing glass; a Hawthorne also works. A fine strainer
+    alone clogs with ice, and fingers in the drink are a hygiene failure.
+- id: q4
+  question: >-
+    A recipe asks for 2 dashes of bitters and 1 barspoon of syrup. Using this course's values, roughly
+    how much liquid is that in total?
+  options:
+    - About 2 ml.
+    - About 15 ml.
+    - About 10 ml.
+    - About 7 ml.
+  correct: 3
+  explanation: >-
+    A dash is about 0.8 ml and a barspoon about 5 ml, so 2 × 0.8 + 5 ≈ 6.6 ml, roughly 7 ml. Small
+    amounts like these still change the taste, which is why they are measured.

@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are setting up a new station. Which item should sit closest to the centre of your reach?
+  options:
+    - The premium whisky collection, so guests can see it.
+    - The ice well with the most-used house spirits on the rail in front of it.
+    - The POS till, because every order passes through it.
+    - The spare glass racks, so you never run out of glasses.
+  correct: 1
+  explanation: >-
+    Almost every drink needs ice and a house spirit, so the ice well and speed rail sit at the centre.
+    Premium bottles go on the back bar, and the POS and spare glass can be a step away.
+- id: q2
+  question: >-
+    Mid-shift you finish a drink and leave the jigger on the bar top instead of in its usual spot.
+    What is the main cost of this habit?
+  options:
+    - The jigger warms up and measures less accurately.
+    - The jigger may be counted as missing in the stock count.
+    - The guest may think the drink was not measured.
+    - Next time you must search for it, and a colleague cannot find it either.
+  correct: 3
+  explanation: >-
+    Fixed positions let you and anyone covering your station grab tools without looking. A tool out of
+    its place costs a search every time it is needed.
+- id: q3
+  question: >-
+    A colleague washes her hands in the bar sink beside the ice well because the hand sink is two
+    steps away. What is the problem?
+  options:
+    - Splashes from hand washing can reach the ice and glassware nearby.
+    - The bar sink drains more slowly, so it will block during the rush.
+    - Hand soap leaves a smell on her hands that guests notice in the drinks.
+    - It wastes water, since the bar sink runs at a higher flow rate.
+  correct: 0
+  explanation: >-
+    A dedicated hand sink keeps hand washing away from ice, glass and food. Ice is served to guests
+    and is treated as food, so contamination near it is a hygiene problem.
+- id: q4
+  question: >-
+    You have ₪150 to start your home station and already own a knife, a board and ice trays. Which
+    purchase gives you the most useful training feedback first?
+  options:
+    - A designer cocktail shaker set with matching spoon.
+    - A set of six coupe glasses for presentation practice.
+    - A jigger with inner lines and a kitchen scale with 1 g steps.
+    - A large ice bucket with a stainless steel lid.
+  correct: 2
+  explanation: >-
+    The jigger and the scale turn your practice into numbers you can track. Glasses, buckets and fancy
+    shakers can be replaced by kitchen items without losing training value.

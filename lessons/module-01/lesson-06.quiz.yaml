@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A barback drops a glass, which shatters on the rim of your ice well. You see no glass in the ice.
+    What do you do?
+  options:
+    - Scoop carefully from the far side of the well, away from the break.
+    - Burn the ice - empty it, melt the rest, clean the well and refill.
+    - Remove the top layer of ice, since glass stays on the surface.
+    - Keep working but use tongs instead of the scoop until closing.
+  correct: 1
+  explanation: >-
+    Glass in ice is nearly invisible and can be anywhere in the well. Any breakage near ice means
+    burning all of it and cleaning the well before new ice goes in.
+- id: q2
+  question: >-
+    You shake a drink and pour everything, ice included, into the glass. The guest says it tastes
+    watery after a few minutes. Why?
+  options:
+    - Shaker ice is broken and wet, so it keeps melting quickly in the glass.
+    - The drink was shaken too briefly, so it was not diluted enough.
+    - Freezer ice is colder, so it should have been used in the shaker instead.
+    - The glass was not chilled, which caused the drink to separate.
+  correct: 0
+  explanation: >-
+    Shaking breaks and wets the ice, so it melts fast. Strain the drink onto fresh ice in the glass
+    and throw the shaker ice away.
+- id: q3
+  question: >-
+    In the melt test, 100 g of crushed ice and 100 g of cubes go into the same water for 30 seconds.
+    What result do you expect?
+  options:
+    - Both melt the same amount, since the weight of ice is the same.
+    - The cubes melt more, because they hold more cold inside them.
+    - The crushed ice melts more and the water gets colder, because it has more surface.
+    - The crushed ice melts less, because the pieces stick together.
+  correct: 2
+  explanation: >-
+    Melting happens at the surface. The same weight in small pieces has far more surface, so crushed
+    ice chills and dilutes faster than cubes.
+- id: q4
+  question: >-
+    A colleague puts two bottles of white wine into the ice well to chill them quickly. What is the
+    problem?
+  options:
+    - Wine should never be chilled below room temperature.
+    - The bottles will melt the ice and make the well overflow.
+    - The bottles cool too slowly in ice; they should go in the freezer.
+    - The bottles' outsides are not clean, and the well's ice is served to guests.
+  correct: 3
+  explanation: >-
+    Ice in the well is food. Anything placed in it can contaminate it; bottles are chilled in a
+    separate ice bucket or fridge, and that ice is never served.

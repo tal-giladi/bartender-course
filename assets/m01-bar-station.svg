@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="t d">
+  <title id="t">Top-down plan of one bartender's station</title>
+  <desc id="d">Seen from above. Guests sit at the bar top at the bottom. Behind it is the bar mat where drinks are made. The bartender stands behind the mat. Directly in front of the bartender's knees is the ice well with the speed rail of most-used bottles on its front edge. To the left are the hand sink and the glasswasher, to the right the garnish tray, tool tray and POS till. Behind the bartender is the back bar with shelves of bottles and under-counter fridges.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill: #1f2933; }
+    .small { font-size: 12px; fill: #3e4c59; }
+    .box { stroke: #1f2933; stroke-width: 2; }
+  </style>
+  <rect x="0" y="0" width="760" height="520" fill="#ffffff"/>
+  <!-- back bar -->
+  <rect class="box" x="40" y="20" width="680" height="70" fill="#e4e7eb"/>
+  <text x="380" y="50" text-anchor="middle">Back bar: display and premium bottles, under-counter fridges</text>
+  <text x="380" y="72" text-anchor="middle" class="small">(behind you — one turn away)</text>
+  <!-- bartender -->
+  <circle class="box" cx="380" cy="160" r="34" fill="#fde68a"/>
+  <text x="380" y="165" text-anchor="middle">You</text>
+  <!-- working counter -->
+  <rect class="box" x="40" y="215" width="680" height="150" fill="#f5f7fa"/>
+  <!-- hand sink -->
+  <rect class="box" x="55" y="230" width="110" height="60" fill="#bae6fd"/>
+  <text x="110" y="257" text-anchor="middle">Hand sink</text>
+  <text x="110" y="276" text-anchor="middle" class="small">hands only</text>
+  <!-- glasswasher -->
+  <rect class="box" x="55" y="295" width="110" height="60" fill="#c7d2fe"/>
+  <text x="110" y="322" text-anchor="middle">Glasswasher</text>
+  <text x="110" y="341" text-anchor="middle" class="small">+ clean glass</text>
+  <!-- speed rail -->
+  <rect class="box" x="190" y="230" width="380" height="28" fill="#fca5a5"/>
+  <text x="380" y="249" text-anchor="middle">Speed rail: most-used bottles, labels out</text>
+  <!-- ice well -->
+  <rect class="box" x="190" y="262" width="380" height="70" fill="#e0f2fe"/>
+  <text x="380" y="292" text-anchor="middle">Ice well</text>
+  <text x="380" y="314" text-anchor="middle" class="small">scoop in its holder, never a glass in the ice</text>
+  <!-- tools -->
+  <rect class="box" x="590" y="230" width="115" height="60" fill="#d9f99d"/>
+  <text x="647" y="257" text-anchor="middle">Garnish tray</text>
+  <text x="647" y="276" text-anchor="middle" class="small">covered</text>
+  <rect class="box" x="590" y="295" width="115" height="60" fill="#e9d5ff"/>
+  <text x="647" y="322" text-anchor="middle">Tools + POS</text>
+  <text x="647" y="341" text-anchor="middle" class="small">tins, jiggers, spoon</text>
+  <!-- bar mat -->
+  <rect class="box" x="190" y="380" width="380" height="40" fill="#cbd2d9"/>
+  <text x="380" y="405" text-anchor="middle">Bar mat (rail): build and serve drinks here</text>
+  <!-- bar top -->
+  <rect class="box" x="40" y="430" width="680" height="45" fill="#d6bc8a"/>
+  <text x="380" y="458" text-anchor="middle">Bar top</text>
+  <text x="380" y="505" text-anchor="middle">Guests</text>
+</svg>
