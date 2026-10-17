@@ -118,7 +118,7 @@ def sidebar():
     out = ["- [Home](/)", "- [Course map](COURSE-MAP.md)", "- [Recipe library](references/recipe-library.md)",
            "- [Hebrew at the bar](references/hebrew-bar-terms.md)", "- [Glossary](glossary.md)",
            "- [Templates](templates/README.md)", "- [Simulations](simulations/README.md)",
-           "- [References](references/README.md)", ""]
+           "- [References](references/README.md)", "- [Research log](references/research-log.md)", ""]
     all_ls = list(lessons())
     for m, (title, _) in enumerate(MODULES, 1):
         if m in STAGES:

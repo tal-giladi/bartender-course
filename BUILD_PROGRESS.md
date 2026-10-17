@@ -16,12 +16,12 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] GitHub repo public: tal-giladi/bartender-course
 
 ## Foundations (main session, before the first module agent)
-- [ ] `_sidebar.md` (py scripts/manifest.py), README.md, COURSE-MAP.md
-- [ ] glossary.md stub, references/README.md, references/hebrew-bar-terms.md stub, references/recipe-library.md stub
-- [ ] templates/ (the nine in outline §10) + templates/README.md
-- [ ] simulations/README.md, simulations/common/ stubs (sim.css, sim.js, bar-math.js)
-- [ ] curriculum/recipes.yaml (empty list) + scripts/build_recipes.py
-- [ ] commit + push
+- [x] `_sidebar.md` (py scripts/manifest.py), README.md, COURSE-MAP.md
+- [x] glossary.md stub, references/README.md, references/hebrew-bar-terms.md stub, references/recipe-library.md stub
+- [x] templates/ (the nine in outline §10) + templates/README.md
+- [x] simulations/README.md, simulations/common/ stubs (sim.css, sim.js, bar-math.js)
+- [x] curriculum/recipes.yaml (empty list) + scripts/build_recipes.py
+- [x] commit + push
 
 ## Modules
 - [ ] M01
@@ -59,4 +59,5 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - none
 
 ## Now working
-- nobody (waiting for Tal's go)
+- agent: M01
+- agent: M02
