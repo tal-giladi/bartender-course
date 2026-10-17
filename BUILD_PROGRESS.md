@@ -26,7 +26,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 ## Modules
 - [x] M01
 - [x] M02
-- [ ] M03
+- [x] M03
 - [ ] M04
 - [ ] M05
 - [ ] M06
@@ -59,7 +59,8 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - none
 
 ## Now working
-- agent: M03
+- agent: M05
 - agent: M04
 - M01 done; M03 spawned.
 - M02 done; M04 spawned.
+- M03 done; M05 spawned.

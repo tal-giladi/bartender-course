@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your target is 45 ml. Five free pours weigh 44, 47, 48, 45 and 43 g of water. Using this course's
+    ±5% tolerance, how many are in?
+  options:
+    - Three, because 48 and 43 g are both outside 42.75–47.25 g.
+    - Four, because only the 48 g pour is outside 42.75–47.25 g.
+    - Five, because every pour is within 3 g of the target.
+    - Two, because only 44 and 45 g are within 1 g of the target.
+  correct: 1
+  explanation: >-
+    ±5% of 45 ml is ±2.25 ml, so 42.75–47.25 g of water. Only 48 g (+6.7%) is out; 43 g is −4.4%
+    and still in. A fixed ±1 g tolerance is only used for very small targets like 15 ml.
+- id: q2
+  question: >-
+    You check a 22.5 ml jigger of 1:1 sugar syrup on a scale. Which reading shows an accurate pour?
+  options:
+    - 22 g, because 1 ml of any bar liquid weighs about 1 g.
+    - 18 g, because syrup is lighter than water once sugar dissolves.
+    - 33 g, because syrup weighs about one and a half times water.
+    - 28 g, because 1:1 syrup weighs about 1.23 g per ml.
+  correct: 3
+  explanation: >-
+    Grams = ml × density = 22.5 × 1.23 ≈ 27.7 g, so 28 g is right. Only water weighs 1 g per ml;
+    dissolved sugar makes syrup denser, not lighter.
+- id: q3
+  question: >-
+    Your 4-count free pours are always 26–27 g instead of 30 g. You turn the bottle over slowly and
+    start counting as soon as you start turning. What should you change first?
+  options:
+    - Turn the bottle over quickly and start the count when the stream starts.
+    - Add a fifth count, since four counts is too short for everyone.
+    - Switch to a wider pourer so more liquid comes out per second.
+    - Pause for a moment after the last count before turning up.
+  correct: 0
+  explanation: >-
+    A slow turn means the first part of the count is a trickle. Fix the movement first; changing the
+    count or the pourer hides the fault, and pausing creates inconsistent over-pours.
+- id: q4
+  question: >-
+    A colleague pours 35 ml instead of the house 30 ml in every spirit serve. What is the main
+    problem, beyond cost?
+  options:
+    - The drink becomes weaker because the extra spirit adds volume.
+    - Nothing, since ±5 ml is inside normal bar tolerance for spirits.
+    - The drink is about 17% stronger than the menu and other bartenders' drinks.
+    - The ice melts faster, so only the dilution changes.
+  correct: 2
+  explanation: >-
+    5 ml over 30 ml is +17%, far beyond ±5%. Guests get stronger, inconsistent drinks, which matters
+    for both taste and responsible service, and the bar loses stock.

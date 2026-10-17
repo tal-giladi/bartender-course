@@ -1,0 +1,133 @@
+- id: q1
+  question: >-
+    An event needs 30 stirred drinks of 60 ml spirit, 30 ml vermouth and 2 dashes of bitters, poured
+    from a cold bottle with no ice-mixing. You plan 40% dilution. Roughly how much will the full batch
+    measure?
+  options:
+    - About 2.7 litres, the undiluted volume, because the fridge does the rest.
+    - About 3.4 litres, with 25% water because that is the standard figure.
+    - About 3.8 litres, the undiluted 2.75 litres plus about 1.1 litres of water.
+    - About 4.5 litres, because water is added equal to half of every drink.
+  correct: 2
+  explanation: >-
+    One drink is 91.6 ml (2 dashes = 1.6 ml); × 30 = 2,748 ml. Water = 2,748 × 0.40 ≈ 1,099 ml, so the
+    batch is about 3.85 litres. A cold bottle chills but adds no water, and 25% is not the plan.
+- id: q2
+  question: >-
+    A guest's recipe card from abroad says "1½ oz rum, ¾ oz lime, ½ oz syrup". Your bar uses ml with
+    the bar convention. What do you pour?
+  options:
+    - 45 ml rum, 22.5 ml lime, 15 ml syrup.
+    - 44 ml rum, 22 ml lime, 14 ml syrup.
+    - 40 ml rum, 20 ml lime, 10 ml syrup.
+    - 50 ml rum, 25 ml lime, 15 ml syrup.
+  correct: 0
+  explanation: >-
+    The bar convention treats 1 oz as 30 ml: 1½ → 45, ¾ → 22.5, ½ → 15 ml. The exact 29.57 ml gives
+    nearly the same figures, but a team should use one convention so drinks match.
+- id: q3
+  question: >-
+    You check your 4-count free pour: 33, 32, 34, 31 and 33 g of water against a 30 ml target. What
+    should you conclude?
+  options:
+    - Your pours are accurate, since they are all within 4 ml of the target.
+    - Your count is too fast, so you should add a fifth beat.
+    - The scale must be wrong, because water weighs less than 1 g per ml.
+    - You are consistent but over-pouring; most pours are above +5%, so slow the count or cut sooner.
+  correct: 3
+  explanation: >-
+    ±5% of 30 ml is 28.5–31.5 g; only 31 g is in. The pours are close to each other (consistent) but
+    high (inaccurate). Adding a beat would make them even larger.
+- id: q4
+  question: >-
+    A cold, well-shaken sour tastes balanced to you, but a colleague tastes it five minutes later from a
+    glass left on the bar and says it is too sweet. What is the most likely explanation?
+  options:
+    - The sugar settled to the bottom as the drink stood.
+    - As the drink warmed, sweetness became easier to perceive.
+    - The citrus lost all its acid in five minutes.
+    - The dilution made the sugar more concentrated.
+  correct: 1
+  explanation: >-
+    Sweet taste is weaker at low temperatures, so the same drink tastes sweeter as it warms. That is
+    why you balance and taste at serving temperature, not after it has stood.
+- id: q5
+  question: >-
+    The bar switches its house syrup from 1:1 to 2:1, both made by weight. The sour spec says 22.5 ml
+    of 1:1 syrup. What should the new spec say?
+  options:
+    - 11 ml of 2:1, because it is twice as sweet.
+    - 22.5 ml of 2:1, because ratios do not change sweetness per ml.
+    - About 15 ml of 2:1, about two thirds of the old amount.
+    - 30 ml of 2:1, because rich syrup is thicker and pours less.
+  correct: 2
+  explanation: >-
+    By weight, 2:1 carries about 1.4 times the sugar per ml of 1:1, so about two thirds of the volume
+    keeps the sweetness: 22.5 → about 15 ml. Halving assumes it is twice as sweet, which it is not.
+- id: q6
+  question: >-
+    It is 23:30 and your fridge holds three bottles: lime juice labelled 17:00 today, 1:1 syrup made
+    yesterday, and unlabelled orange juice. The venue has no written policy. What is the right call
+    for tomorrow's service?
+  options:
+    - Discard the lime and the unlabelled orange juice; keep the labelled syrup.
+    - Keep everything, because it has all been refrigerated.
+    - Discard the syrup, since syrups spoil faster than juice.
+    - Pour the old lime juice into tomorrow's fresh juice to avoid waste.
+  correct: 0
+  explanation: >-
+    Fresh juice is untreated and is best used within the shift; anything unlabelled is unknown and goes.
+    A labelled, refrigerated 1:1 syrup from yesterday is within a normal working shelf life. Never mix
+    old into new.
+- id: q7
+  question: >-
+    You shake a mix for 15 seconds. It weighed 120 g before ice and 156 g after straining. A colleague
+    says that is "25% dilution". What is it really?
+  options:
+    - About 23%, because 36 g is 23% of 156 g.
+    - About 36%, because 36 g of water was added.
+    - About 25%, since a shaken drink always gets 25%.
+    - About 30%, because 36 g is 30% of the 120 g starting weight.
+  correct: 3
+  explanation: >-
+    Dilution % = (after − before) ÷ before × 100 = 36 ÷ 120 × 100 = 30%. Dividing by the final weight
+    understates it, and there is no fixed figure for every drink.
+- id: q8
+  question: >-
+    A stirred, spirit-forward drink and a non-alcoholic practice version of it are stirred for the same
+    time with the same ice. Which result do you expect?
+  options:
+    - Both end at the same temperature and dilution, because the method is the same.
+    - The spirit-forward drink ends colder and more diluted than the non-alcoholic one.
+    - The non-alcoholic drink ends colder, because water freezes more easily.
+    - The spirit-forward drink ends warmer, because alcohol resists the ice.
+  correct: 1
+  explanation: >-
+    Alcohol lowers the freezing point, so the strong drink can drop below 0 °C and keeps melting ice,
+    taking on more water. The water-based version stops near 0 °C and dilutes less.
+- id: q9
+  question: >-
+    Highballs keep coming back flat. The soda is cold and freshly opened. Watching the bartender, you
+    see three cubes in the glass, soda poured from high above, and a long stir. What do you change?
+  options:
+    - Switch to a different soda brand with more gas in it.
+    - Shake the spirit and soda together so they mix without stirring.
+    - Add more soda so the extra gas makes up for what is lost.
+    - Fill the glass with solid cubes, pour low and gently, and lift once instead of stirring.
+  correct: 3
+  explanation: >-
+    Few cubes, a high pour and long stirring all release CO2. A full glass of solid ice, a gentle pour
+    and one lift keep the fizz. Shaking carbonated drinks is unsafe and flattens them.
+- id: q10
+  question: >-
+    A practice sour tastes thin, pale and weak in every way. It was shaken with wet crushed ice and
+    left in the tin while you served another guest. What is the right fix?
+  options:
+    - Remake it with fresh dry cubes and strain immediately.
+    - Add 5 ml syrup and 5 ml lemon to bring the flavour back.
+    - Add two drops of saline to make the flavours stand out.
+    - Shake it again with fresh ice to sharpen it up.
+  correct: 0
+  explanation: >-
+    It is over-diluted, and water cannot be taken out. Adding ingredients makes a bigger, still-thin
+    drink, saline is for bitterness, and more ice adds more water.

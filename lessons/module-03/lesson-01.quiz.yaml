@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A drink is written as 2 : ¾ : ¾ parts and you want it to be 105 ml before ice. How much of the
+    "2 parts" ingredient do you pour?
+  options:
+    - 70 ml, because two of the three ingredients are the base.
+    - 52.5 ml, because two parts out of four is half the drink.
+    - 60 ml, because the parts add up to 3.5 and one part is 30 ml.
+    - 45 ml, because 105 divided by 2.33 gives the base.
+  correct: 2
+  explanation: >-
+    Add the parts (2 + 0.75 + 0.75 = 3.5), divide the total by that sum (105 ÷ 3.5 = 30 ml per part),
+    then multiply: 2 × 30 = 60 ml. The other answers use the wrong sum of parts.
+- id: q2
+  question: >-
+    You batch 10 stirred drinks of 91.6 ml each (including 2 dashes of bitters). They will be poured
+    straight from a cold bottle with no ice-mixing, planned dilution 40%. How much water goes in?
+  options:
+    - About 366 ml, which is 40% of the 916 ml undiluted batch.
+    - About 400 ml, which is 40% of one litre, the bottle size.
+    - None, because the cold bottle adds the dilution by itself.
+    - About 229 ml, which is 25% of the undiluted batch.
+  correct: 0
+  explanation: >-
+    Water = undiluted volume × planned dilution = 916 × 0.40 ≈ 366 ml. A cold bottle chills but adds
+    no water, and 25% is a common rule of thumb, not the dilution you planned.
+- id: q3
+  question: >-
+    A colleague batches 20 sours for a party, adds 25% water to the bottle, and then shakes each
+    serve on ice as usual. Guests say the drinks are thin. What went wrong?
+  options:
+    - The sours needed 40% water because shaken drinks always take more.
+    - The lemon was scaled by 20 but should have been scaled less.
+    - The batch should have been stirred, not shaken, once water was added.
+    - The ice already adds water during shaking, so the batch was diluted twice.
+  correct: 3
+  explanation: >-
+    Batch water replaces the dilution ice would give. If each serve is still shaken on ice, the
+    drink gets both and turns thin. Scaling every line by the same N is correct.
+- id: q4
+  question: >-
+    You convert a recipe for a 40-drink batch and round ¾ oz to 25 ml instead of 22.5 ml. How much
+    extra of that ingredient ends up in the batch?
+  options:
+    - About 25 ml, a single extra pour spread across the batch.
+    - About 100 ml, because 2.5 ml extra in each of 40 drinks adds up.
+    - About 10 ml, since rounding errors cancel out at large sizes.
+    - Nothing, because 22.5 and 25 ml are both standard for ¾ oz.
+  correct: 1
+  explanation: >-
+    Rounding errors multiply with the batch: 2.5 ml × 40 = 100 ml. Convert exactly, scale, and only
+    round the final batch amounts.

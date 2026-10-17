@@ -1,0 +1,10 @@
+ingredient,ml_per_drink,drinks,scaled_ml,notes
+base,45,12,,multiply ml_per_drink by drinks
+lemon,20,12,,
+syrup,15,12,,
+bitters (1 dash = 0.8 ml),0.8,12,,
+undiluted_total,,,,sum of scaled_ml
+planned_dilution,0.30,,,fraction; use 0 if each serve is shaken or stirred on ice
+water_to_add,,,,undiluted_total x planned_dilution
+batch_total,,,,undiluted_total + water_to_add
+one_serving,,,,batch_total / drinks

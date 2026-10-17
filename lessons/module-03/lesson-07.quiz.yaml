@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A shaken practice sour tastes too sweet and too sharp at the same time, and feels thick. The mix
+    weighed 110 g before ice and 116 g after straining. What is the main fault?
+  options:
+    - Too much syrup, because sweetness is the first thing you notice.
+    - Too much lemon, because the drink is sharp and puckering.
+    - Under-diluted, because only about 5% water was added and the drink is warm.
+    - Over-diluted, because shaking always adds too much water.
+  correct: 2
+  explanation: >-
+    6 g on 110 g is about 5% dilution, far below the 20–30% a proper 15-second shake gives. A warm,
+    under-diluted drink tastes both sweeter and sharper, so fix temperature and dilution first.
+- id: q2
+  question: >-
+    A sour is thin and watery and every flavour tastes weak. Your scale shows 52% dilution against a
+    normal 26%. What do you do?
+  options:
+    - Remake it, because the extra water cannot be taken out.
+    - Add 10 ml of syrup and 10 ml of lemon to strengthen it.
+    - Shake it again with fresh ice to tighten the flavours.
+    - Add two drops of saline to bring the flavours forward.
+  correct: 0
+  explanation: >-
+    Over-dilution can only be fixed by removing water, which is impossible. Adding more of everything
+    makes a bigger, still-unbalanced drink; more ice adds even more water.
+- id: q3
+  question: >-
+    A tea-based practice sour has a bitter finish and a drying grip on the tongue, while sweet and sour
+    seem balanced. What is the best quick rescue?
+  options:
+    - Add 5 ml syrup, since sweetness covers bitterness.
+    - Add 5 ml lemon juice to cut through the bitterness.
+    - Shake it again with fresh ice to dilute the bitterness.
+    - Add one or two drops of saline, then fix the tea next time.
+  correct: 3
+  explanation: >-
+    Salt suppresses bitterness more than other tastes, so a drop or two softens the drink without
+    unbalancing sweet and sour. The cause, over-brewed tea, still needs fixing in the next batch.
+- id: q4
+  question: >-
+    You are given a drink that tastes "off" and you want to fix it. Which approach follows this
+    module's method?
+  options:
+    - Add a little syrup and a little lemon together, then taste.
+    - Check temperature and dilution first, name one fault, make one change, taste again.
+    - Remake every drink from scratch, since rescuing is never acceptable.
+    - Ask the guest what they would like changed and add that.
+  correct: 1
+  explanation: >-
+    Warmth and dilution change how sweet and sour taste, so they are checked first. One named fault
+    and one change keep the cause clear; changing two things at once hides what helped.

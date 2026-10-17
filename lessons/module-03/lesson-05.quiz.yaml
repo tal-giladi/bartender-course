@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A colleague says, "Use freezer ice at −18 °C; it chills the drink without watering it down." Why
+    is this mostly wrong?
+  options:
+    - Freezer ice is warmer than machine ice once it reaches the tin.
+    - Freezer ice melts faster, so it dilutes much more than machine ice.
+    - Ice chills only by contact, so temperature makes no difference at all.
+    - Nearly all chilling comes from melting, so colder ice changes dilution only a little.
+  correct: 3
+  explanation: >-
+    Melting absorbs about 80 calories per gram; warming ice by one degree absorbs about 0.5. The extra
+    cold of freezer ice is small compared with melting, so you still dilute to chill. Dry freezer ice
+    does avoid the extra surface water of wet ice.
+- id: q2
+  question: >-
+    You shake the same recipe once with water as the base and once with a 40% spirit as the base, for
+    15 seconds with the same ice. What do you expect?
+  options:
+    - The spirit version ends colder and more diluted.
+    - Both end at exactly 0 °C with the same dilution.
+    - The water version ends colder because it has no alcohol to warm it.
+    - The spirit version ends warmer because alcohol does not mix with ice.
+  correct: 0
+  explanation: >-
+    Alcohol lowers the freezing point, so the spirit drink can drop below 0 °C and keeps melting ice,
+    gaining more water. The water-based drink stops near 0 °C, which is why practice mixes dilute less.
+- id: q3
+  question: >-
+    Your mix weighs 110 g before ice and 143 g after shaking and straining. What is the dilution?
+  options:
+    - About 23%, because 33 g is 23% of 143 g.
+    - About 30%, because 33 g is 30% of the 110 g starting weight.
+    - About 33%, because 33 g of water was added.
+    - About 77%, because 110 g is 77% of 143 g.
+  correct: 1
+  explanation: >-
+    Dilution % = (after − before) ÷ before × 100 = 33 ÷ 110 × 100 ≈ 30%. Dividing by the final
+    weight (23%) is the most common slip, and grams of water are not a percentage.
+- id: q4
+  question: >-
+    A sour starts at about 23% ABV before ice and is shaken to 60% dilution. Roughly how strong is the
+    drink in the glass?
+  options:
+    - About 23%, because water does not change ABV.
+    - About 9%, because 60% of the alcohol is lost to the ice.
+    - About 14%, because 23 divided by 1.6 is about 14.
+    - About 17%, because dilution removes about a quarter of the strength.
+  correct: 2
+  explanation: >-
+    ABV after = ABV before ÷ (1 + dilution) = 23 ÷ 1.6 ≈ 14%. The alcohol is still all there; it is
+    spread through a bigger volume.
+- id: q5
+  question: >-
+    During a rush you shake a sour, then leave the tin sitting with the ice in it for a minute while you
+    take a payment. What happens to the drink?
+  options:
+    - Nothing, because dilution stops once you stop shaking.
+    - It keeps diluting on the ice, so it will taste thinner when you strain it.
+    - It gets stronger, because the ice absorbs water from the drink.
+    - It warms up, because the ice stops chilling once shaking ends.
+  correct: 1
+  explanation: >-
+    The ice is still melting into the drink, so it keeps taking on water. Strain at once, or re-shake
+    briefly with fresh ice only if the spec and your bar allow it.

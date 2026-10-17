@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A guest says their highball is flat. The tonic was cold and freshly opened. Which build step is the
+    most likely cause?
+  options:
+    - The glass was filled to the top with solid ice cubes.
+    - The tonic was poured gently down the inside of the glass.
+    - The bartender lifted the drink once with a bar spoon.
+    - The drink was built over crushed ice and stirred round several times.
+  correct: 3
+  explanation: >-
+    Crushed ice gives many nucleation sites and stirring adds agitation, so CO2 escapes fast. A full
+    glass of solid cubes, a gentle pour and one lift are the habits that keep fizz.
+- id: q2
+  question: >-
+    Why should mixers be kept in the fridge rather than on the back bar?
+  options:
+    - Cold liquids hold more dissolved CO2 and melt less ice in the glass.
+    - Cold mixers taste sweeter, so drinks need less syrup.
+    - Warm mixers contain more sugar, which makes drinks heavier.
+    - Health rules require all bottles to be stored below 5 °C.
+  correct: 0
+  explanation: >-
+    Gas is more soluble in cold liquid, so cold soda keeps its fizz, and it needs less ice melting to
+    reach serving temperature. Cold actually makes sweetness taste weaker, not stronger.
+- id: q3
+  question: >-
+    You balance a lemon-and-syrup mix with still water, then serve the same recipe topped with soda.
+    Guests say it is a little too sharp. Why?
+  options:
+    - Soda water contains added lemon flavouring.
+    - The bubbles carry sugar out of the drink as they rise.
+    - Dissolved CO2 forms a little carbonic acid, so the drink tastes more sour.
+    - Soda water dilutes the syrup more than still water does.
+  correct: 2
+  explanation: >-
+    Carbonated water is slightly acidic (about pH 5–6) and the tingle reads as sharpness, so fizzy
+    versions of a mix often need slightly more sweetness. Volumes and dilution are the same.
+- id: q4
+  question: >-
+    A new colleague wants to save time by shaking the soda together with the juice and syrup in a
+    closed tin. What do you tell them?
+  options:
+    - That is fine if the shake is short, under five seconds or so.
+    - Never shake it; pressure can force the tin open and the soda goes flat.
+    - That is fine, but only in a cobbler shaker with its cap held down.
+    - Shake it, but double strain so the extra bubbles are caught.
+  correct: 1
+  explanation: >-
+    Shaking releases CO2 inside a sealed tin, which builds pressure and can spray the drink, and the
+    soda ends up flat. Shake the other ingredients, then add the soda in the glass.

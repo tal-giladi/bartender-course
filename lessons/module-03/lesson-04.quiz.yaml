@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    A spec calls for 15 ml of 1:1 syrup, but your bar only has 2:1 syrup made by weight today. What
+    do you pour to keep the drink equally sweet?
+  options:
+    - 7.5 ml, because 2:1 is twice as sweet per ml.
+    - 15 ml, because syrups of any ratio taste the same in a drink.
+    - 20 ml, because rich syrup is thicker and needs more volume.
+    - About 10 ml, because 2:1 is roughly 1.4 times as sweet per ml.
+  correct: 3
+  explanation: >-
+    A ml of 2:1 carries about 0.89 g of sugar against 0.62 g for 1:1, about 1.4 times as much, so
+    about two thirds of the amount (10 ml) matches. Halving it assumes twice the sweetness, which is
+    wrong because the sugar also takes up volume.
+- id: q2
+  question: >-
+    You weigh 500 g sugar and 500 g water to make 1:1 syrup. About how much syrup will you have?
+  options:
+    - About 1,000 ml, because 1 g of liquid is 1 ml.
+    - About 810 ml, because the syrup weighs about 1.23 g per ml.
+    - About 500 ml, because the sugar dissolves into the water's space.
+    - About 1,230 ml, because dissolved sugar expands the water.
+  correct: 1
+  explanation: >-
+    Volume = weight ÷ density = 1,000 g ÷ 1.23 ≈ 813 ml. Only water weighs 1 g per ml; dissolved
+    sugar does add volume, but less than its weight in water.
+- id: q3
+  question: >-
+    Tonight's sours all taste sweeter than usual. The syrup was made this morning by a colleague who
+    "let it boil to make sure it dissolved". What is the most likely reason?
+  options:
+    - Boiling evaporated water, so the syrup is now stronger than 1:1.
+    - Boiling turns sugar sour, so the drinks need more syrup to balance.
+    - Hot syrup measures smaller in a jigger, so bartenders over-pour.
+    - Boiling kills the sweetness of sugar until the syrup is cold.
+  correct: 0
+  explanation: >-
+    Boiling drives off water while the sugar stays, so each ml carries more sugar than a true 1:1.
+    Warm only until clear, and weigh if in doubt: a 1:1 should be about 1.23 g per ml.
+- id: q4
+  question: >-
+    At close you have 300 ml of lime juice squeezed at 18:00, kept on ice all shift. There is no
+    written venue policy. What do you do?
+  options:
+    - Keep it in the fridge for tomorrow, since it was cold all night.
+    - Pour it into tomorrow's fresh juice so nothing is wasted.
+    - Discard it, wash the bottle and squeeze fresh juice before the next service.
+    - Leave it on the bar overnight so it ages into better-tasting juice.
+  correct: 2
+  explanation: >-
+    Fresh juice is untreated and loses aroma within hours; without a written policy the safe practice
+    is to discard it at close. Mixing old into new contaminates the fresh batch, and leaving it out is a
+    food-safety risk.

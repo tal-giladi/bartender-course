@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    You balanced a lemon-and-syrup mix at room temperature. After shaking it hard with ice, it tastes
+    sharper and less sweet, though nothing was added. What best explains this?
+  options:
+    - The ice removed some of the sugar by freezing it onto the cubes.
+    - Cold reduces how sweet we perceive things, so the acid stands out more.
+    - Shaking adds air, and air reacts with citric acid to make it stronger.
+    - The lemon juice became more acidic in the few seconds of shaking.
+  correct: 1
+  explanation: >-
+    Sweet taste responses fall as temperature drops, so a cold drink tastes less sweet and sharper.
+    That is why you balance at serving temperature. Sugar does not freeze out, and acid does not change
+    in seconds.
+- id: q2
+  question: >-
+    A guest finds a bitter aperitivo drink "harsh" but does not want it sweeter. What is the best
+    first adjustment to try?
+  options:
+    - Add 5 ml more syrup, since sugar is the usual cure for bitterness.
+    - Add more citrus so the sourness covers the bitterness.
+    - Add one or two drops of saline, which suppresses bitterness more than sweetness.
+    - Serve it warmer so the bitterness spreads out and feels softer.
+  correct: 2
+  explanation: >-
+    Salt suppresses bitterness more than other tastes, so a drop or two makes the drink rounder
+    without making it sweeter. More syrup is what the guest refused, and more acid adds a second
+    sharp note.
+- id: q3
+  question: >-
+    You test five syrup amounts and, at the same time, use iced water for some cups and tap water for
+    others. Why are the results hard to use?
+  options:
+    - Two variables changed together, so you cannot tell which caused each difference.
+    - Five samples is too many; a valid test compares only two cups.
+    - Syrup tests only work with alcohol, so water gives meaningless results.
+    - Tap water contains chlorine, which hides sweetness completely.
+  correct: 0
+  explanation: >-
+    A useful test changes one variable and keeps everything else fixed. Mixing temperature and sugar
+    changes means a cold cup with more syrup and a warm cup with less could taste the same.
+- id: q4
+  question: >-
+    A drink has the right sugar and acid on paper, but tastes flat and "missing something". The juice
+    was squeezed yesterday and no twist was added. Which part of flavour is most likely missing?
+  options:
+    - Umami, which citrus drinks need in order to taste complete.
+    - Salt, because every citrus drink needs a salt rim to taste full.
+    - Bitterness, which the spec forgot and which gives a drink length.
+    - Aroma, which comes from fresh juice and oils and drives flavour.
+  correct: 3
+  explanation: >-
+    Most of what we call flavour is smell, especially retronasal smell. Day-old juice and no expressed
+    peel lose aroma, so the drink tastes flat even when sweet and sour are balanced.

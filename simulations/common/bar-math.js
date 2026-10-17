@@ -49,16 +49,17 @@
     return vol > 0 ? alc / vol : 0;
   }
 
-  // Educational dilution model. Shake/stir curves after Dave Arnold, Liquid Intelligence (2014):
-  // fraction of water added relative to starting volume, as a function of starting ABV (fraction),
-  // at full chill (shake ~10-15 s, stir ~20-30 s with cracked/cubed ice). Time scales toward that plateau.
+  // Educational dilution model: fraction of water added relative to the starting volume, by method and
+  // starting ABV (fraction), approaching a plateau over time. Linear fit to two anchors per method:
+  // Dave Arnold, Cooking Issues (2010): shaken whiskey sour (~23% ABV) ~63%, stirred Manhattan (~32% ABV) ~50%;
+  // at 0% ABV chilling water to ~0 °C needs ~20-25% (lesson 03.5). Build and throw are rough estimates.
   function dilutionFraction(method, startAbv, seconds) {
     var a = Math.max(0, Math.min(startAbv, 0.6));
     var plateau, tau;
-    if (method === "shake") { plateau = 1.567 * a * a + 1.742 * a + 0.203; tau = 4; }
-    else if (method === "stir") { plateau = -1.21 * a * a + 1.597 * a + 0.06; tau = 10; }
-    else if (method === "build") { plateau = 0.6 * a + 0.05; tau = 120; }   // on cubes, slow melt
-    else if (method === "throw") { plateau = 1.2 * a + 0.08; tau = 8; }
+    if (method === "shake") { plateau = 0.20 + 1.85 * a; tau = 4; }          // ~98% of plateau by 15 s
+    else if (method === "stir") { plateau = 0.22 + 0.90 * a; tau = 15; }     // ~95% of plateau by 45 s
+    else if (method === "build") { plateau = 0.10 + 0.50 * a; tau = 120; }   // on cubes, slow melt
+    else if (method === "throw") { plateau = 0.15 + 1.20 * a; tau = 8; }
     else throw new Error("unknown method " + method);
     var t = seconds === undefined ? Infinity : Math.max(0, seconds);
     return plateau * (1 - Math.exp(-t / tau));
