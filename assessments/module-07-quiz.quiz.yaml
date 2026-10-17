@@ -1,0 +1,129 @@
+- id: q1
+  question: >-
+    On a hot night you serve a 6.5% IPA and a 9% Belgian-style strong ale straight from the coldest
+    shelf, both in 500 ml glasses. A regular says both "taste of nothing". What would have been better?
+  options:
+    - Serve both even colder, in frozen glasses, so the hops stay fresh.
+    - Serve the IPA at about 7–10 °C, the strong ale warmer in a smaller stemmed glass.
+    - Serve both at room temperature in the same 500 ml glasses.
+    - Serve both over ice so the extra dilution opens up the flavour.
+  correct: 1
+  explanation: >-
+    Very cold beer numbs flavour; ales and stronger beers are served warmer, and strong beers go in
+    smaller glasses. Frozen glasses make beer foam; ice waters it down.
+- id: q2
+  question: >-
+    A glass of draught lager has bubbles clinging to the sides and the head collapses in seconds.
+    The next glass, from a different rack, pours perfectly. What is the problem and the fix?
+  options:
+    - The keg is running out; change the keg before the next order.
+    - The gas pressure is too low; turn up the regulator.
+    - The first rack is not beer-clean; rewash it and check with the sheeting or salt test.
+    - The tap was opened fully; open it halfway for the next pours.
+  correct: 2
+  explanation: >-
+    One rack failing while another pours well points to the glasses: a film of grease or rinse aid.
+    Rewash and test. Opening the tap fully is correct technique.
+- id: q3
+  question: >-
+    Eight draught beers are on one ticket. Which pour gives a good head quickly without waste?
+  options:
+    - Glass straight upright under a half-open tap, then skim the foam.
+    - Glass at 45° with the tap fully open, upright at halfway, stop at a 2–3 cm head.
+    - Glass at 45° all the way to the brim, so no time is spent on foam.
+    - Nozzle inside the glass close to the beer, so the beer cannot splash.
+  correct: 1
+  explanation: >-
+    Tilt, fully open tap, upright at halfway, about a one-inch head: that is the Brewers Association
+    method. Half-open taps foam; a brim-full glass is over-pouring; the nozzle never touches the beer.
+- id: q4
+  question: >-
+    A guest asks for "a red that won't overpower my salmon". Your list has Cabernet Sauvignon,
+    Syrah, Merlot and Pinot Noir. Which do you suggest first?
+  options:
+    - Pinot Noir, because it is light-bodied with low tannin.
+    - Cabernet Sauvignon, because firm tannin balances oily fish.
+    - Syrah, because its pepper notes suit any fish.
+    - Merlot, because it is the fullest of the four.
+  correct: 0
+  explanation: >-
+    Light body and low tannin let the fish show; Pinot Noir is the classic choice. Cabernet and Syrah
+    are fuller and more tannic, and Merlot is not the fullest of the four.
+- id: q5
+  question: >-
+    A wine label from late 2026 says "Upper Galilee". A guest asks whether that guarantees all the
+    grapes came from there and whether it means the wine is better. What is accurate?
+  options:
+    - All the grapes must come from there, and region names are official quality grades.
+    - The name is only marketing; Israel has no official wine regions.
+    - At least half the grapes come from there, and Galilee wines rank highest by law.
+    - At least 85% of the grapes come from there; the map describes origin, not quality.
+  correct: 3
+  explanation: >-
+    Under Israel's 2026 region map (eight regions, 18 sub-regions), a wine naming a region needs at
+    least 85% of its grapes from it. The map is explicitly not a quality ranking.
+- id: q6
+  question: >-
+    You are about to loosen the cage on a bottle of brut sparkling wine at a table. Which handling is
+    correct?
+  options:
+    - Thumb on the cork, bottle at 30–45° pointing away from people, turn the bottle slowly.
+    - Take the cage off first, then point the bottle at the floor and push the cork out.
+    - Hold the cork still and twist it hard while the bottle rests on the table.
+    - Give the bottle a gentle shake so the cork comes out more easily.
+  correct: 0
+  explanation: >-
+    A cork can leave at about 13 m/s. Keep the thumb on it from the moment the cage is touched, point
+    away from everyone, turn the bottle not the cork, and release with a sigh, not a pop.
+- id: q7
+  question: >-
+    A table orders a bottle of red at 7 pm in summer; the bar is 27 °C and the bottle has been on the
+    back bar all day. What do you do?
+  options:
+    - Serve it straight away, because red wine is served at room temperature.
+    - Put it in the freezer for 30 minutes so it is cold.
+    - Chill it briefly in an ice-and-water bucket or the fridge, to about 15–18 °C.
+    - Add an ice cube to each glass to bring the temperature down.
+  correct: 2
+  explanation: >-
+    "Room temperature" means a cool room; full reds are served at about 15–18 °C. A few minutes in
+    ice and water or a short time in the fridge fixes it without diluting the wine.
+- id: q8
+  question: >-
+    A guest who is driving asks whether your alcohol-free beer is "zero". The label says
+    "alcohol-free, 0.5% vol". What do you say?
+  options:
+    - "It contains up to 0.5% alcohol; our 0.0 lager has none, if you'd prefer that."
+    - "Yes, alcohol-free means zero in every country."
+    - "Yes, anything under 1% counts as zero by law."
+    - "It's zero once it's poured, because the alcohol evaporates."
+  correct: 0
+  explanation: >-
+    Read the number, not the word: some "alcohol-free" products contain up to about 0.5%. State it and
+    offer a 0.0% option so the guest can decide.
+- id: q9
+  question: >-
+    A guest who avoids all alcohol and dislikes sweet drinks asks for "something grown-up". Your
+    first zero-proof attempt tastes like sweet juice. What is the best change?
+  options:
+    - Add more syrup to give it body.
+    - Add a few drops of a spirit for complexity; such a small amount does not matter.
+    - Serve it in a smaller, plain glass so it looks less like a cocktail.
+    - Add bitterness or bite (grapefruit, tonic, ginger, a pinch of salt) and serve with full garnish.
+  correct: 3
+  explanation: >-
+    Without alcohol, a drink needs something else for body, bite or bitterness; more sugar makes it
+    worse. Never add alcohol to a drink sold as alcohol-free, and present it like any other drink.
+- id: q10
+  question: >-
+    A guest asks for a kosher red for an observant friend. Your kosher Cabernet is not mevushal; your
+    kosher Merlot is mevushal. The guest says they like "smooth" reds. What do you do?
+  options:
+    - Recommend the Cabernet, because kosher is all that matters to observant guests.
+    - Recommend the Merlot, show the certification and "mevushal" on the label.
+    - Recommend any Israeli red, since all are kosher and mevushal.
+    - Open the Cabernet at the bar and bring the glasses already poured.
+  correct: 1
+  explanation: >-
+    Mevushal wine stays acceptable when any staff member opens and pours it, and Merlot is the smooth
+    choice. For a non-mevushal bottle, bring it sealed and ask how they want it opened.

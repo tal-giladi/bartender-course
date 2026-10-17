@@ -48,7 +48,7 @@ Difford's Guide adds a trick for the French 75: pour half the sparkling wine int
 
 ### Champagne and other sparkling wines
 
-**Champagne** is sparkling wine from the Champagne region of France; **Prosecco** (Italy) and **cava** (Spain) are other sparkling wines ([lesson 02.8](../module-02/lesson-08.md)). The IBA French 75 names Champagne. Most bars use a dry ("brut") sparkling wine they already pour by the glass; tell the guest if it is not Champagne, because the name on the menu creates an expectation (professional judgment). Opening sparkling wine safely is taught step by step in Module 7 (lesson 07.4).
+**Champagne** is sparkling wine from the Champagne region of France; **Prosecco** (Italy) and **cava** (Spain) are other sparkling wines ([lesson 02.8](../module-02/lesson-08.md)). The IBA French 75 names Champagne. Most bars use a dry ("brut") sparkling wine they already pour by the glass; tell the guest if it is not Champagne, because the name on the menu creates an expectation (professional judgment). Opening sparkling wine safely is taught step by step in Module 7 ([lesson 07.4](../module-07/lesson-04.md)).
 
 > [!WARNING]
 > A sparkling-wine cork can fly out at high speed and injure an eye. Keep a thumb or a cloth on the cork, point the bottle away from people and never open it by shaking.

@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A guest says, "What do you recommend?" and nothing else. What is the best next move?
+  options:
+    - Name the most popular drink on the menu so they can decide quickly.
+    - Ask two short questions, one about style and one about strength or occasion.
+    - Read out the full beer and wine list so they know all the choices.
+    - Recommend the most expensive wine, since guests asking for advice expect quality.
+  correct: 1
+  explanation: >-
+    Two questions (style plus strength or occasion) find what the guest wants; then offer two
+    options with one line each. Lists overwhelm, and price is not a recommendation.
+- id: q2
+  question: >-
+    A guest eating a spicy chilli dish asks for a white wine. Your list has a 14% oaked Chardonnay, a
+    12.5% Sauvignon Blanc and a 10% off-dry Riesling. Which fits best?
+  options:
+    - The oaked Chardonnay, because a full wine stands up to strong flavours.
+    - The Sauvignon Blanc, because high acidity cancels chilli heat.
+    - The off-dry Riesling, because a little sweetness and lower alcohol calm the heat.
+    - Any of them, because chilli overpowers every wine equally.
+  correct: 2
+  explanation: >-
+    Chilli heat makes alcohol burn more; off-dry, lower-alcohol whites soothe it. A 14% oaked white
+    would taste hot and bitter with chilli.
+- id: q3
+  question: >-
+    A guest who is slurring and has just spilled a drink asks politely for "your strongest beer".
+    What do you do?
+  options:
+    - Serve a 5% lager instead of the 9% ale, since it is a weaker choice.
+    - Serve the strong beer but in a smaller glass to limit the amount.
+    - Serve the beer only if his friends promise to take him home.
+    - Refuse alcohol calmly, offer water, food or a 0.0 drink, and tell the manager.
+  correct: 3
+  explanation: >-
+    Signs of intoxication turn this into a safety question: no more alcohol of any strength. Offer
+    alternatives and involve the manager; Module 9 covers refusing service.
+- id: q4
+  question: >-
+    A guest wants "a beer that's not bitter". Which pair of options do you offer?
+  options:
+    - A pale lager and a wheat beer.
+    - An IPA and a pale ale.
+    - An IPA and an alcohol-free IPA.
+    - A stout and a strong Belgian ale.
+  correct: 0
+  explanation: >-
+    Lagers and wheat beers have low hop bitterness. IPAs and pale ales are hop-forward; stouts are
+    roasty and can be bitter, and a strong ale is not what was asked.
+- id: q5
+  question: >-
+    A guest ordering for an observant friend wants a kosher red that "anyone can open and pour".
+    Which wine on your list do you recommend?
+  options:
+    - A kosher Cabernet Sauvignon that is not mevushal.
+    - A non-kosher Pinot Noir, opened by a Jewish colleague.
+    - A kosher Merlot labelled mevushal, showing them the label.
+    - Any Israeli red, since all Israeli wines are kosher and mevushal.
+  correct: 2
+  explanation: >-
+    Mevushal kosher wine stays acceptable when any staff member opens and pours it. Show the
+    certification and the word mevushal on the label rather than assuming.

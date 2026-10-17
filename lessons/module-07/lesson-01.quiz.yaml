@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A guest orders a 9% imperial stout and says the last one they had elsewhere "tasted of nothing".
+    How do you serve it?
+  options:
+    - From the coldest shelf in a frozen pint glass, so it stays crisp for longer.
+    - From the warmer part of the fridge, around 10 °C, in a smaller stemmed glass.
+    - At room temperature in a 500 ml glass, so the guest can let it breathe.
+    - Over ice in a tall glass, so the strong alcohol is softened.
+  correct: 1
+  explanation: >-
+    Strong and dark beers are served warmer (about 7–13 °C) so the malt and roast can be tasted, and
+    in smaller glasses because of the strength. Very cold beer hides flavour; ice dilutes it.
+- id: q2
+  question: >-
+    You pour a lager and see big bubbles stuck to the inside of the glass while the head collapses
+    within seconds. What is the most likely cause?
+  options:
+    - The beer is too cold, so the CO2 cannot form a head.
+    - The keg is nearly empty and the beer has gone flat.
+    - The glass is not beer-clean; a film of grease or rinse aid is breaking the foam.
+    - The glass is too narrow, so the head has no room to form.
+  correct: 2
+  explanation: >-
+    Bubbles clinging to the walls and a fast-collapsing head are classic signs of a glass with a film.
+    Replace the glass and check the batch with the sheeting or salt test.
+- id: q3
+  question: >-
+    Your manager asks why the bar serves its 10% Belgian ale in a 250 ml tulip instead of a pint.
+    Which answer is right?
+  options:
+    - Stronger beers go in smaller glasses for responsible portions, and the shape holds aroma and foam.
+    - Belgian law requires Belgian beers to be served only in their brewery's tulip glass.
+    - Tulip glasses keep beer colder than pint glasses because of their thicker walls.
+    - Strong beer foams more than lager, so it needs a glass with less volume.
+  correct: 0
+  explanation: >-
+    The Brewers Association chart says glass size should follow strength, and the tulip's bowl and
+    narrowing top concentrate aroma and support the head. No law requires the glass.
+- id: q4
+  question: >-
+    It is a hot night and a colleague puts a tray of wet beer glasses in the freezer "to make the
+    lagers extra cold". What do you tell them?
+  options:
+    - Good idea, but only for stouts, since they are served at the coldest temperature.
+    - Freeze them dry instead, because only the water on the glass causes problems.
+    - Freeze them, but rinse each glass with hot water just before pouring.
+    - Don't; ice forms inside a frozen glass and makes the beer foam. Chill glasses dry.
+  correct: 3
+  explanation: >-
+    The Brewers Association says never to use frozen glasses: a sheet of ice forms inside and makes
+    the beer foam. Chill glasses dry in a fridge or glass chiller instead.

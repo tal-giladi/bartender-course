@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A couple wants "a red, but not heavy, to go with grilled fish". By the glass you have Cabernet
+    Sauvignon, Syrah and Pinot Noir. What do you suggest?
+  options:
+    - The Syrah, because its spice notes match grilled food.
+    - The Pinot Noir, because it is light-bodied with low tannin.
+    - The Cabernet Sauvignon, because firm tannin cuts through fish oils.
+    - Any of the three, because all reds go equally well with fish.
+  correct: 1
+  explanation: >-
+    Pinot Noir is typically light to medium-bodied with low tannin, so it does not overpower fish.
+    Cabernet Sauvignon and Syrah are fuller and more tannic.
+- id: q2
+  question: >-
+    A guest asks if the house white is mevushal because an observant friend is joining. The label
+    shows a kosher certification but you are not sure about mevushal. What do you do?
+  options:
+    - Say yes, because all kosher wines made in Israel are mevushal.
+    - Say no, because only red wines can be mevushal.
+    - Read the label or ask the manager, and do not guess.
+    - Say it does not matter once the wine is in a glass.
+  correct: 2
+  explanation: >-
+    Kosher and mevushal are different: many fine kosher wines are not mevushal. The guest relies on
+    your answer, so check the label or ask; never guess.
+- id: q3
+  question: >-
+    A tourist asks how Israel's wine regions are organised today (October 2026). Which answer is
+    accurate?
+  options:
+    - Since 2026 there is an official map with eight regions and 18 sub-regions; naming one needs 85% of the grapes from it.
+    - There are five regions (Galilee, Shomron, Samson, Judean Hills, Negev) and no plans to change them.
+    - Israel has no wine regions; every bottle is labelled only "Israel" by law.
+    - There are eight regions, and a region name on the label means the wine is of higher quality.
+  correct: 0
+  explanation: >-
+    The Ministries of Agriculture and Health launched an eight-region map with 18 sub-regions in
+    September 2026. Region labelling is optional, needs 85% of the grapes from the region, and is
+    about origin, not quality.
+- id: q4
+  question: >-
+    Two whites on your list: a Sauvignon Blanc at 12.5% and an oaked Chardonnay at 14%. A guest
+    wants "something rich and creamy". Which do you suggest, and why?
+  options:
+    - The Sauvignon Blanc, because high acidity makes a wine feel creamy.
+    - The Sauvignon Blanc, because lower alcohol always means a richer taste.
+    - Either, because white grapes all give the same body.
+    - The oaked Chardonnay, because oak and higher alcohol give a fuller, creamier wine.
+  correct: 3
+  explanation: >-
+    Body rises with alcohol, and oak adds creamy, toasty notes. Sauvignon Blanc is typically crisp
+    and zesty rather than rich.
+- id: q5
+  question: >-
+    A guest says they want "a dry white, not sour". What is the most useful next question?
+  options:
+    - "Would you prefer crisp and fresh, or softer and rounder?"
+    - "Would you like a sweet white instead?"
+    - "Red or white?"
+    - "Which vintage would you like?"
+  correct: 0
+  explanation: >-
+    Guests often say "dry" when they mean "not too acidic". Asking crisp or round finds the style;
+    dry wine has no noticeable sugar, which is a different thing from acidity.

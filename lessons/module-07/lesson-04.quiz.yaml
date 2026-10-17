@@ -1,0 +1,64 @@
+- id: q1
+  question: >-
+    You are opening a bottle of cava at a table. You have removed the foil and are about to loosen the
+    wire cage. What must you do at this moment?
+  options:
+    - Take the cage off completely first so the cork is easier to grip.
+    - Point the bottle at the floor between the guests so the cork cannot fly up.
+    - Put your thumb on the cork, point the bottle away from people, then untwist the cage.
+    - Shake the bottle gently so the cork loosens before you twist it.
+  correct: 2
+  explanation: >-
+    From the moment the cage is touched, the thumb stays on the cork and the bottle points away from
+    everyone. A cork can leave at about 13 m/s; shaking raises the pressure further.
+- id: q2
+  question: >-
+    The cork is held firmly in your hand. How do you get it out of a sparkling bottle?
+  options:
+    - Twist the cork hard while holding the bottle perfectly still.
+    - Turn the bottle slowly by its base so the cork eases out quietly.
+    - Push the cork up with both thumbs until it pops out of the neck.
+    - Use the waiter's friend worm and lever, exactly as for still wine.
+  correct: 1
+  explanation: >-
+    Turning the bottle, not the cork, gives control and avoids snapping the cork. A pop wastes gas
+    and wine; a quiet release is the professional standard.
+- id: q3
+  question: >-
+    A guest orders a bottle of Sauvignon Blanc that is at room temperature, and wants it in 20
+    minutes. What is the fastest correct way to chill it?
+  options:
+    - Put it in the freezer for 20 minutes.
+    - Put it in the fridge and serve when the guest is ready.
+    - Pour it over ice cubes in each glass.
+    - Put it in a bucket of ice and water up to the neck.
+  correct: 3
+  explanation: >-
+    Ice with water touches the whole bottle and chills it to about 8–10 °C in 20–30 minutes. A fridge
+    is too slow, a freezer risks forgetting it, and ice in the glass waters the wine down.
+- id: q4
+  question: >-
+    You open a bottle of red and the host smells it and says it is musty, like wet cardboard. What
+    does that suggest and what do you do?
+  options:
+    - The wine is probably corked; smell it, apologise and replace the bottle.
+    - The wine needs to breathe; pour it into a decanter and wait.
+    - The wine is too cold; warm the glass in your hands and serve again.
+    - Red wines often smell like that; explain this to the guest politely.
+  correct: 0
+  explanation: >-
+    A musty, wet-cardboard smell is typical of cork taint, one of the faults the WSET course names.
+    Check it, apologise and replace; do not argue.
+- id: q5
+  question: >-
+    At the end of the night you have half a bottle of still red and half a bottle of Prosecco, both
+    for by-the-glass service tomorrow. How do you store them?
+  options:
+    - Red on the back bar at room temperature with its cork; Prosecco with a teaspoon in the neck.
+    - Red recorked or vacuum-stoppered in the fridge; Prosecco with a sparkling stopper in the fridge; both dated.
+    - Both standing on the back bar with their original corks pushed in, no date needed.
+    - Pour both into one jug for cocktails, because opened wine cannot be served again.
+  correct: 1
+  explanation: >-
+    Opened still wine keeps best stoppered and cold, reds too; sparkling needs a proper stopper (the
+    spoon is a myth). Dating each bottle makes sure it is used in time.

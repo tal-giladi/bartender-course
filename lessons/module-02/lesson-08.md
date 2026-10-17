@@ -7,7 +7,7 @@ prerequisites: ["02.1"]
 objectives:
   - Tell ales from lagers and name five common beer styles with their typical character.
   - Explain how red, white, rosé, orange and sparkling wines get their colour and bubbles.
-  - Name Israel's five registered wine regions.
+  - Name the five long-standing Israeli wine regions still seen on many labels.
   - Read the ABV and alcohol-free claims on a label and explain what "0.0%" and "less than 0.5%" mean for a guest.
 volatility: concept
 sources:
@@ -77,7 +77,7 @@ Fortified and aromatised wines (port, sherry, vermouth) were covered in lesson 0
 
 ### Israeli wine regions
 
-Israel has five registered wine regions, set in the 1960s and registered abroad: **Galilee** (גליל, including the Golan Heights as a sub-region), **Shomron** (שומרון), **Samson** (שמשון, the coastal plain and Judean lowlands), **Judean Hills** (הרי יהודה) and **Negev** (נגב). Updates to these regions have been discussed for years, so check current sources before teaching guests the details. Module 7 covers grapes and Israeli wineries.
+For decades Israel used five registered wine regions, set in the 1960s and registered abroad: **Galilee** (גליל, including the Golan Heights as a sub-region), **Shomron** (שומרון), **Samson** (שמשון, the coastal plain and Judean lowlands), **Judean Hills** (הרי יהודה) and **Negev** (נגב). In September 2026 a new official map with eight regions and 18 sub-regions was launched; older bottles and lists will keep the five names for years. [Lesson 07.3](../module-07/lesson-03.md) explains the new map, grapes and Israeli wineries.
 
 ### Alcohol-free and low-alcohol drinks
 
@@ -164,7 +164,7 @@ A shelf shows you labels, not how a beer pours or how a wine tastes; pouring and
 - Lagers use bottom-fermenting yeast at cool temperatures and taste clean and crisp; ales ferment warmer and taste fruitier.
 - Wine colour comes from grape skins: red with skins, white without, rosé briefly, orange from white grapes with skins.
 - Sparkling wine gets bubbles from a second fermentation: in the bottle (traditional method) or in a tank (most Prosecco).
-- Israel has five registered wine regions: Galilee (with the Golan), Shomron, Samson, Judean Hills and Negev.
+- Israel's five long-standing wine regions are Galilee (with the Golan), Shomron, Samson, Judean Hills and Negev; a new eight-region map arrived in 2026 ([lesson 07.3](../module-07/lesson-03.md)).
 - Read the exact ABV on alcohol-free products; only 0.0% suits a guest who avoids all alcohol.
 
 ## Sources

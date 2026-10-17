@@ -1,0 +1,55 @@
+- id: q1
+  question: >-
+    A pregnant guest asks for an alcohol-free beer. You have a "0.0%" lager and an alcohol-free IPA
+    labelled 0.4%. What do you say?
+  options:
+    - Recommend the IPA, since 0.4% is so little it counts as zero.
+    - Offer either and let her pick without mentioning the numbers.
+    - Tell her neither is suitable, because all beer-style drinks contain alcohol.
+    - Recommend the 0.0% lager and tell her the IPA contains 0.4% alcohol.
+  correct: 3
+  explanation: >-
+    The Israeli Ministry of Health advises avoiding alcohol completely in pregnancy. Recommend 0.0%
+    first and state the exact number of anything else so the choice is hers.
+- id: q2
+  question: >-
+    A guest says the alcohol-free beer tastes "sweet and a bit like cereal". What is the most likely
+    explanation?
+  options:
+    - It was made by stopping fermentation early, which leaves a sweeter, "worty" taste.
+    - It was made by removing alcohol under vacuum, which adds sugar to the beer.
+    - It has gone off, because alcohol-free beer always tastes exactly like regular beer.
+    - It was served too cold, which turns hop bitterness into sweetness.
+  correct: 0
+  explanation: >-
+    Biological methods (limited or stopped fermentation, special yeasts) leave unfermented sugars and
+    a "worty" note. Physical removal tends to lose aroma and feel thinner instead.
+- id: q3
+  question: >-
+    Under the UK's low-alcohol guidance, which statement is correct?
+  options:
+    - >-
+      "Alcohol-free" and "de-alcoholised" both mean no more than 0.5% ABV.
+    - >-
+      "Alcohol-free" means no more than 0.05% ABV; "low alcohol" means 1.2% or less.
+    - >-
+      "Low alcohol" means no more than 0.05% ABV; "alcohol-free" means 0.5% or less.
+    - >-
+      "Non-alcoholic" means less than 0.5% ABV for any beer in the UK.
+  correct: 1
+  explanation: >-
+    The UK guidance (2018) sets alcohol-free at 0.05% or less, de-alcoholised at 0.5% or less and low
+    alcohol at 1.2% or less; "non-alcoholic" is reserved for communion wine. US rules differ.
+- id: q4
+  question: >-
+    A driver orders an alcohol-free version of a Moscow Mule. Your first attempt tastes like plain,
+    sweet ginger beer. What improves it most?
+  options:
+    - Add more sugar syrup so it feels fuller.
+    - Serve it in a plastic cup so staff can tell it apart quickly.
+    - Add fresh ginger or a pinch of pepper for bite, and keep the full garnish and glass.
+    - Add a dash of the regular vodka for body; such a small amount does not count.
+  correct: 2
+  explanation: >-
+    Without alcohol a drink loses warmth and bite, so add bite or bitterness rather than sugar, and
+    present it like any other drink. Never add alcohol to a drink sold as alcohol-free.

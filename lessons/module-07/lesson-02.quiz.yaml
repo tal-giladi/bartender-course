@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A new barback pours a draught lager with the tap half open "to keep it slow and controlled". The
+    glass fills with foam. What do you teach them?
+  options:
+    - Keep the tap half open but hold the glass upright from the start.
+    - Open the tap fully and control the head with the glass angle instead.
+    - Run the tap for a few seconds before every pour to settle the foam.
+    - Put the nozzle into the beer as it fills so the foam has nowhere to form.
+  correct: 1
+  explanation: >-
+    A partly open faucet causes turbulence and foam. Open it fully, start at 45° and bring the glass
+    upright at about halfway. The nozzle must never touch or dip into the beer.
+- id: q2
+  question: >-
+    A guest complains that their pint has "too much head" and asks for it filled to the brim with
+    liquid. What is the professional view?
+  options:
+    - The guest is right; the standard is a brim-full glass with almost no foam.
+    - A head is only for show, so either way is equally correct.
+    - A head of about 2–3 cm is the standard; it carries aroma and foam is partly beer.
+    - The head should be at least half the glass, as with all draught beers.
+  correct: 2
+  explanation: >-
+    The Brewers Association recommends about a one-inch (2.5 cm) collar of foam: it releases aroma,
+    and foam is about 25% beer. You can still top up politely if house policy allows.
+- id: q3
+  question: >-
+    Every draught beer you pour tonight foams heavily, even with a clean glass, a fully open tap and a
+    correct 45° start. What is the right next step?
+  options:
+    - Tell the manager; the beer may be too warm or the pressure or lines may be at fault.
+    - Pour every beer with the glass upright to reduce the foam.
+    - Change the gas pressure on the regulator until the foam stops.
+    - Keep pouring and skim the foam off each glass with a spoon.
+  correct: 0
+  explanation: >-
+    When technique and glass are right, heavy foam points to the system: temperature, pressure or
+    dirty lines. Bartenders report it; the manager or installer adjusts the system.
+- id: q4
+  question: >-
+    You open a German hefeweizen (wheat beer) with yeast at the bottom of the bottle. How do you
+    finish the pour?
+  options:
+    - Leave the yeast in the bottle, because yeast in a glass is always a fault.
+    - Shake the full bottle before opening so the yeast is mixed through.
+    - Pour the whole bottle quickly upright so the yeast rises with the foam.
+    - Swirl the last part in the bottle and add it, since the yeast is part of the style.
+  correct: 3
+  explanation: >-
+    In a hefeweizen the yeast is expected, so swirl the last bit and pour it in. In other
+    bottle-conditioned beers you usually leave the yeast behind unless the guest wants it.

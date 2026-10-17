@@ -50,7 +50,7 @@
     Demi-sec is noticeably sweet.
 - id: q5
   question: >-
-    A tourist asks which wine regions Israel has. Which list is correct?
+    An older Israeli wine list groups bottles by the five long-standing registered regions. Which list matches it?
   options:
     - Galilee, Shomron, Samson, Judean Hills and Negev.
     - Golan, Galilee, Carmel, Jerusalem and Eilat.
@@ -59,4 +59,4 @@
   correct: 0
   explanation: >-
     Israel's five registered wine regions are Galilee (with the Golan as a sub-region), Shomron,
-    Samson, Judean Hills and Negev.
+    Samson, Judean Hills and Negev; a new eight-region map arrived in 2026 (lesson 07.3).

@@ -30,7 +30,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] M04
 - [x] M05
 - [x] M06
-- [ ] M07
+- [x] M07
 - [ ] M08
 - [ ] M09
 - [ ] M10
@@ -57,14 +57,15 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - Dilution model in bar-math.js refit to Arnold anchors (shaken sour ~63%, stirred Manhattan ~50%, water ~20–25%); outline "20–30%" applies only to near-0% ABV mixes.
 
 ## Open questions
-- Paused after M06 at Tal's request (2026-10-17). Resume: spawn M07 and M08.
 - 06.3 mentions 07.4 without a link: add the link once M07 exists.
 - none
 
 ## Now working
+- agent: M08
 - M01 done; M03 spawned.
 - M02 done; M04 spawned.
 - M03 done; M05 spawned.
 - M04 done; M06 spawned.
 - M05 done.
 - M06 done.
+- M07 done.
