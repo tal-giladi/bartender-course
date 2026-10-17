@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    On your recall grid you wrote the Margarita as "tequila 50, triple sec 20, lime 25, shake, chilled
+    cocktail glass, half salt rim". How many of its 4 points do you score?
+  options:
+    - 4, because the three ingredients are all named correctly.
+    - 2, because the lime and the glass are both wrong.
+    - 1, because one wrong amount cancels the whole drink.
+    - 3, because only the ingredient cell is wrong.
+  correct: 3
+  explanation: >-
+    The IBA lime is 15 ml; 25 ml is 10 ml off, outside the ±5 ml tolerance, so the ingredient cell is
+    lost. Method, chilled cocktail glass and half salt rim are right: 3 of 4.
+- id: q2
+  question: >-
+    You plan a home session for all twelve drinks with one shaker, one mixing glass and one muddler.
+    Which order wastes the least time?
+  options:
+    - Alphabetical order, so you can tick drinks off and never forget one.
+    - Prep first, then stirred, shaken, coffee and long drinks in blocks.
+    - Long drinks first while the soda is cold, then the rest at random.
+    - The hardest drinks first, washing every tool after each drink.
+  correct: 1
+  explanation: >-
+    Blocking by method means each tool is used in one run and washed once, and prep done first means
+    you never stop mid-session to juice limes, the same logic as sequencing tickets on a shift.
+- id: q3
+  question: >-
+    After the session your log shows the Mojito took 1:40, the Whiskey Sour foam was thin, and you
+    forgot the syrup in the Espresso Martini. What is the most useful next step?
+  options:
+    - Put those three cards in Leitner box 1 and practise them again in a few days.
+    - Repeat the full twelve-drink session tomorrow in the same way.
+    - Reread the three lessons once and consider them learned.
+    - Drop those three drinks from your list, since you will learn them at work.
+  correct: 0
+  explanation: >-
+    Targeted, spaced retesting of the weak drinks closes the gaps fastest. Rereading tests nothing, and
+    a full repeat spends most of the time on drinks you already know.
+- id: q4
+  question: >-
+    Your recall score is 35 of 48. What does that mean for this module?
+  options:
+    - You passed, because more than half the cells are right.
+    - You passed, because the final exam allows 70% on recall.
+    - Below the 80% standard; review the missed drinks and retest in a few days.
+    - You must restart Module 5 from lesson 05.1.
+  correct: 2
+  explanation: >-
+    35/48 is about 73%, under the 80% (39 points) used here and in the final recipe recall exam. The fix
+    is focused review and a retest, not starting over.

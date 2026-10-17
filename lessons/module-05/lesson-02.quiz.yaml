@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A guest orders "a Martini" with no other details, and your bar follows the IBA spec. What goes
+    into the mixing glass?
+  options:
+    - 60 ml gin and 15 ml dry vermouth.
+    - 60 ml gin and 10 ml dry vermouth.
+    - 50 ml gin and 20 ml dry vermouth.
+    - 60 ml gin and 10 ml sweet red vermouth.
+  correct: 1
+  explanation: >-
+    The IBA Dry Martini is 60 ml gin and 10 ml dry vermouth, stirred. 60:15 is Difford's 4:1 version,
+    and sweet vermouth belongs in a Manhattan, not a Martini.
+- id: q2
+  question: >-
+    A guest asks for a Manhattan "made with bourbon, the way I always get it." The menu lists the IBA
+    rye spec. What is the best response?
+  options:
+    - Refuse, because the IBA Manhattan is made with rye only.
+    - Make it with rye anyway, since the guest will not notice.
+    - Make it with bourbon and the same measures, confirming the swap with the guest.
+    - Make it with bourbon and double the vermouth to balance the sweetness.
+  correct: 2
+  explanation: >-
+    Bourbon Manhattans are a common, accepted variation. Swap the base spirit at the same measures and
+    confirm it; doubling the vermouth would make it sweeter still, not more balanced.
+- id: q3
+  question: >-
+    Your stirred Manhattan comes out cloudy with small ice chips floating on top. What most likely
+    happened?
+  options:
+    - The glass was not chilled before straining.
+    - The vermouth was opened too long ago.
+    - The bitters were added after the whiskey.
+    - It was shaken instead of stirred.
+  correct: 3
+  explanation: >-
+    Shaking whips in air and breaks ice into chips, so the drink turns cloudy. Spirit-only drinks are
+    stirred to stay clear and silky; a warm glass or old vermouth changes taste, not clarity.
+- id: q4
+  question: >-
+    A guest orders a Dry Martini "with a twist". What garnish do you give?
+  options:
+    - Lemon peel oil squeezed over the drink, with the peel as garnish.
+    - Two green olives on a pick resting in the glass.
+    - A lemon wedge dropped into the drink.
+    - A cocktail cherry, the standard stirred garnish.
+  correct: 0
+  explanation: >-
+    "Twist" means citrus peel: you express its oil over the surface, as the IBA spec describes. An
+    olive is the alternative only when requested, and a wedge adds juice instead of aroma.

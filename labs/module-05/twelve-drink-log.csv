@@ -1,0 +1,13 @@
+order,drink,version_made,target_seconds,actual_seconds,spec_error_yes_no,volume_measured_ml,what_went_wrong,fix_next_time
+1,Negroni,home-practice,45,,,,,
+2,Old Fashioned,home-practice,90,,,,,
+3,Manhattan,home-practice,75,,,,,
+4,Dry Martini,home-practice,75,,,,,
+5,Daiquiri,home-practice,75,,,,,
+6,Margarita,home-practice,90,,,,,
+7,Cosmopolitan,home-practice,60,,,,,
+8,Whiskey Sour,home-practice (aquafaba),90,,,,,
+9,Espresso Martini,home-practice,75,,,,,
+10,Mojito,alcohol-free (Virgin Mojito),90,,,,,
+11,Moscow Mule,alcohol-free,30,,,,,
+12,Aperol Spritz,home-practice,35,,,,,

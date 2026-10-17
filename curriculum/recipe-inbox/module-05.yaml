@@ -1,0 +1,260 @@
+# Module 05 recipes — IBA specs checked on iba-world.com 2026-10-17.
+# Variations are listed with their own source; they are not the default spec.
+# Ingredient amounts: ml as numbers; dashes, cubes, sprigs, bar spoons, teaspoons and "to top" as amount strings.
+
+- id: dry-martini
+  name: Dry Martini
+  family: martini-manhattan
+  method: stir
+  glass: martini glass (chilled)
+  ice: none
+  garnish: "lemon peel oil squeezed over the drink; green olive if requested"
+  ingredients:
+    - {item: gin, ml: 60}
+    - {item: dry vermouth, ml: 10}
+  source: {title: "IBA — Dry Martini", url: "https://iba-world.com/cocktails/dry-martini/"}
+  lesson: "05.2"
+  na_analogue: null
+  variations:
+    - name: Dry Martini 4:1 (Difford's Guide)
+      spec: "60 ml gin, 15 ml dry vermouth, 1 dash orange bitters (optional); stir, fine strain, chilled martini glass; lemon twist and/or olive"
+      source: {title: "Difford's Guide — Dry Martini (4:1 ratio)", url: "https://www.diffordsguide.com/cocktails/recipe/4964/dry-martini-41-ratio"}
+
+- id: manhattan
+  name: Manhattan
+  family: martini-manhattan
+  method: stir
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "cocktail cherry"
+  ingredients:
+    - {item: rye whiskey, ml: 50}
+    - {item: sweet red vermouth, ml: 20}
+    - {item: Angostura bitters, amount: 1 dash}
+  source: {title: "IBA — Manhattan", url: "https://iba-world.com/cocktails/manhattan/"}
+  lesson: "05.2"
+  na_analogue: null
+  variations:
+    - name: Manhattan (Difford's Guide)
+      spec: "45 ml bourbon, 15 ml rye (50% ABV), 30 ml sweet vermouth, 1 dash Angostura; stir, fine strain, chilled coupe; orange zest expressed and discarded, maraschino cherry"
+      source: {title: "Difford's Guide — Manhattan (sweet)", url: "https://www.diffordsguide.com/cocktails/recipe/1247/manhattan"}
+
+- id: old-fashioned
+  name: Old Fashioned
+  family: old-fashioned
+  method: build
+  glass: old fashioned glass
+  ice: cubes
+  garnish: "orange slice or zest, and a cocktail cherry"
+  ingredients:
+    - {item: bourbon or rye whiskey, ml: 45}
+    - {item: sugar cube, amount: 1 cube}
+    - {item: Angostura bitters, amount: few dashes}
+    - {item: plain water, amount: few dashes}
+  source: {title: "IBA — Old Fashioned", url: "https://iba-world.com/cocktails/old-fashioned/"}
+  lesson: "05.3"
+  na_analogue: null
+  variations:
+    - name: Old Fashioned (Difford's Guide)
+      spec: "60 ml bourbon, 12.5 ml 2:1 sugar syrup, 3 dashes Angostura; stir with ice, strain onto fresh ice (large cube) in a chilled old fashioned glass; orange zest twist"
+      source: {title: "Difford's Guide — Old Fashioned", url: "https://www.diffordsguide.com/cocktails/recipe/4782/old-fashioned"}
+
+- id: negroni
+  name: Negroni
+  family: martini-manhattan
+  method: build
+  glass: old fashioned glass (chilled)
+  ice: cubes
+  garnish: "half orange slice"
+  ingredients:
+    - {item: gin, ml: 30}
+    - {item: Campari, ml: 30}
+    - {item: sweet red vermouth, ml: 30}
+  source: {title: "IBA — Negroni", url: "https://iba-world.com/cocktails/negroni/"}
+  lesson: "05.3"
+  na_analogue: >-
+    Equal parts alcohol-free gin alternative, alcohol-free red bitter aperitif and alcohol-free red
+    vermouth alternative over ice with orange; lighter in body ("Negroni-style").
+  variations:
+    - name: Negroni (Difford's Guide)
+      spec: "30 ml each gin, red bitter liqueur, sweet vermouth; built on ice, stirred; orange wedge, slice or zest twist"
+      source: {title: "Difford's Guide — Negroni", url: "https://www.diffordsguide.com/cocktails/recipe/1392/negroni-cocktail"}
+    - name: Negroni Sbagliato (Difford's Guide)
+      spec: "30 ml sweet vermouth, 30 ml red bitter, 60 ml Prosecco; built on ice, brief stir; orange slice"
+      source: {title: "Difford's Guide — Negroni Sbagliato", url: "https://www.diffordsguide.com/cocktails/recipe/2515/negroni-sbagliato"}
+
+- id: daiquiri
+  name: Daiquiri
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "none in the IBA spec"
+  ingredients:
+    - {item: white rum, ml: 60}
+    - {item: fresh lime juice, ml: 20}
+    - {item: superfine sugar, amount: 2 bar spoons}
+  source: {title: "IBA — Daiquiri", url: "https://iba-world.com/cocktails/daiquiri/"}
+  lesson: "05.4"
+  na_analogue: >-
+    Alcohol-free rum alternative (or cold water with a drop of vanilla) with 20 ml lime and 15 ml 1:1
+    syrup, shaken; close in balance, lighter in body.
+  variations:
+    - name: Daiquiri (Difford's Guide)
+      spec: "50 ml light white rum, 15 ml lime, 10 ml 2:1 syrup, optional bitters, 7.5 ml chilled water if ice is dry; shake, fine strain, chilled coupe; lime zest discarded, lime wedge"
+      source: {title: "Difford's Guide — Daiquiri (Difford's recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/611/daiquiri-diffords-recipe"}
+
+- id: margarita
+  name: Margarita
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "half salt rim (optional)"
+  ingredients:
+    - {item: tequila 100% agave, ml: 50}
+    - {item: triple sec, ml: 20}
+    - {item: fresh lime juice, ml: 15}
+  source: {title: "IBA — Margarita", url: "https://iba-world.com/cocktails/margarita/"}
+  lesson: "05.4"
+  na_analogue: >-
+    15 ml lime, 30 ml orange juice, 10 ml agave or 1:1 syrup, 30 ml cold water and a pinch of salt,
+    shaken, half salt rim; close in taste, no agave spirit character.
+  variations:
+    - name: The Original Margarita (Difford's Guide)
+      spec: "50 ml blanco tequila, 30 ml triple sec, 20 ml lime; shake, strain over ice in a salt-rimmed old fashioned glass; lime wheel. Same page cites the 1937 Picador as 60 ml tequila, 30 ml Cointreau, 30 ml lime"
+      source: {title: "Difford's Guide — The Original Margarita", url: "https://www.diffordsguide.com/cocktails/recipe/7884/the-original-margarita"}
+
+- id: whiskey-sour
+  name: Whiskey Sour
+  family: sour
+  method: shake
+  glass: cobbler glass (or old fashioned glass on ice for on the rocks)
+  ice: none
+  garnish: "half orange slice and maraschino cherry (orange zest optional)"
+  ingredients:
+    - {item: bourbon whiskey, ml: 45}
+    - {item: fresh lemon juice, ml: 25}
+    - {item: sugar syrup 1:1, ml: 20}
+    - {item: pasteurised egg white (optional), amount: few drops}
+  source: {title: "IBA — Whiskey Sour", url: "https://iba-world.com/cocktails/whiskey-sour/"}
+  lesson: "05.5"
+  na_analogue: >-
+    45 ml strong black tea (or alcohol-free whiskey alternative), 25 ml lemon, 20 ml 1:1 syrup, 15 ml
+    aquafaba, reverse dry shaken; close in balance and texture.
+  variations:
+    - name: Whiskey Sour (Difford's Guide)
+      spec: "60 ml bourbon, 30 ml lemon, 20 ml 2:1 syrup, 3 dashes Angostura, 2 drops saline (optional), 15 ml pasteurised egg white or egg-free foamer; shake with ice, strain back, dry shake, fine strain onto ice in an old fashioned glass; lemon wheel and cherry"
+      source: {title: "Difford's Guide — Whiskey Sour (Difford's recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/2083/whiskey-sour-diffords-recipe"}
+
+- id: cosmopolitan
+  name: Cosmopolitan
+  family: sour
+  method: shake
+  glass: large cocktail glass (chilled)
+  ice: none
+  garnish: "lemon twist"
+  ingredients:
+    - {item: citrus vodka, ml: 40}
+    - {item: Cointreau, ml: 15}
+    - {item: fresh lime juice, ml: 15}
+    - {item: cranberry juice, ml: 30}
+  source: {title: "IBA — Cosmopolitan", url: "https://iba-world.com/cocktails/cosmopolitan/"}
+  lesson: "05.5"
+  na_analogue: >-
+    45 ml cranberry drink, 15 ml lime, 20 ml orange juice, 5 ml 1:1 syrup, 20 ml cold water, shaken,
+    lemon twist; close in taste and colour.
+  variations:
+    - name: Cosmopolitan (Dale DeGroff, via Difford's Guide)
+      spec: "45 ml citrus vodka, 22.5 ml triple sec, 30 ml sweetened cranberry, 7.5 ml lime; shake, fine strain, chilled martini glass; flamed orange zest (course: express the zest, no flame)"
+      source: {title: "Difford's Guide — Cosmopolitan (Dale DeGroff's recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/473/cosmopolitan-cocktail-dale-degroffs-recipe"}
+
+- id: mojito
+  name: Mojito
+  family: highball
+  method: build
+  glass: highball glass (IBA names none)
+  ice: cubes
+  garnish: "mint sprigs and lime slice"
+  ingredients:
+    - {item: white rum, ml: 45}
+    - {item: fresh lime juice, ml: 20}
+    - {item: mint, amount: 6 sprigs}
+    - {item: white cane sugar, amount: 2 tsp}
+    - {item: soda water, amount: to top}
+  source: {title: "IBA — Mojito", url: "https://iba-world.com/cocktails/mojito/"}
+  lesson: "05.6"
+  na_analogue: >-
+    Virgin Mojito: muddle mint with 20 ml lime and 2 tsp sugar (or 15 ml 1:1 syrup), fill with ice, top
+    with about 120 ml soda, stir lightly; faithful.
+  variations:
+    - name: Mojito (Difford's Guide)
+      spec: "14 mint leaves, 60 ml light rum, 15 ml lime, 10 ml 2:1 syrup, 15 ml soda; churn with crushed ice in a Collins glass; mint sprig bouquet"
+      source: {title: "Difford's Guide — Mojito", url: "https://www.diffordsguide.com/cocktails/recipe/1341/mojito-cocktail"}
+
+- id: moscow-mule
+  name: Moscow Mule
+  family: highball
+  method: build
+  glass: mule cup (lined) or rocks glass
+  ice: cubes
+  garnish: "lime slice"
+  ingredients:
+    - {item: vodka, ml: 45}
+    - {item: ginger beer, ml: 120}
+    - {item: fresh lime juice, ml: 10}
+  source: {title: "IBA — Moscow Mule", url: "https://iba-world.com/cocktails/moscow-mule/"}
+  lesson: "05.6"
+  na_analogue: >-
+    10–15 ml lime and 150 ml ginger beer on ice with a lime slice; close, without the vodka's dryness.
+  variations:
+    - name: Moscow Mule (Difford's Guide)
+      spec: "60 ml vodka, 15 ml lime, 10 ml 2:1 syrup, 90 ml ginger beer; copper mug or Collins glass two-thirds filled with cubed ice, crowned with crushed ice; lime wheel and mint"
+      source: {title: "Difford's Guide — Moscow Mule", url: "https://www.diffordsguide.com/cocktails/recipe/1366/moscow-mule"}
+
+- id: aperol-spritz
+  name: Aperol Spritz
+  family: spritz-sparkling
+  method: build
+  glass: wine glass
+  ice: cubes
+  garnish: "orange slice"
+  ingredients:
+    - {item: Prosecco, ml: 90}
+    - {item: Aperol, ml: 60}
+    - {item: soda water, amount: splash}
+  source: {title: "IBA — Spritz", url: "https://iba-world.com/cocktails/spritz/"}
+  lesson: "05.7"
+  na_analogue: >-
+    Alcohol-free bitter orange aperitif with alcohol-free sparkling wine and soda, built the same way;
+    or 60 ml orange juice, 10 ml grapefruit, 120 ml soda with an orange slice; close in look and
+    freshness.
+  variations:
+    - name: Aperol Spritz 3-2-1 (Aperol brand recipe)
+      spec: "90 ml Prosecco, 60 ml Aperol, 30 ml soda, poured in that order over ice in a wine glass; orange slice. Same page also shows 75/50/25 ml"
+      source: {title: "Aperol — Aperol Spritz recipe", url: "https://www.aperol.com/en-ie/aperol-spritz-recipe/"}
+
+- id: espresso-martini
+  name: Espresso Martini
+  family: coffee
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "3 coffee beans"
+  ingredients:
+    - {item: vodka, ml: 50}
+    - {item: coffee liqueur (Kahlúa), ml: 30}
+    - {item: sugar syrup 1:1, ml: 10}
+    - {item: strong espresso, fresh, amount: 1 shot (about 30 ml)}
+  source: {title: "IBA — Espresso Martini", url: "https://iba-world.com/cocktails/espresso-martini/"}
+  lesson: "05.7"
+  na_analogue: >-
+    Fresh espresso, 20 ml 1:1 or coffee syrup and 40 ml cold water or alcohol-free coffee liqueur
+    alternative, shaken hard, coffee beans; close in taste and foam; contains caffeine.
+  variations:
+    - name: Espresso Martini (Difford's Guide)
+      spec: "45 ml vodka, 30 ml hot espresso, 20 ml coffee liqueur, 2 drops saline (optional), no added sugar; shake, fine strain, chilled martini glass; lemon zest discarded, 3 coffee beans"
+      source: {title: "Difford's Guide — Espresso Martini", url: "https://www.diffordsguide.com/cocktails/recipe/725/espresso-martini"}
+    - name: Espresso Martini, 3 equal parts (Difford's Guide)
+      spec: "30 ml each vodka, coffee liqueur, espresso; shake, fine strain, martini glass; 3 coffee beans"
+      source: {title: "Difford's Guide — Espresso Martini (simple 3 equal parts recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/4106/espresso-martini-simple-3-equal-parts-recipe"}

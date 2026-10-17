@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    On your first shift the bar's written Manhattan is 60 ml bourbon and 30 ml sweet vermouth, but
+    you learned the IBA spec of 50 ml rye and 20 ml vermouth. A guest orders a Manhattan. What do you
+    make?
+  options:
+    - The IBA spec, because it is the official international version.
+    - The house spec, because a bar's own written spec is what you serve there.
+    - A version halfway between the two, to keep both sides happy.
+    - Whichever one the guest seems to prefer after you describe both at length.
+  correct: 1
+  explanation: >-
+    The IBA spec is the course default for learning, but at work you follow the house spec so every
+    bartender's drink is the same. Mixing two specs produces a drink nobody wrote.
+- id: q2
+  question: >-
+    You have studied twelve specs by rereading your notes every evening for a week, yet you blank on
+    half of them when a friend quizzes you. What change is most likely to help?
+  options:
+    - Read the notes twice as often, morning and evening, for another week.
+    - Copy each spec out ten times in a row in one long sitting.
+    - Read the specs aloud slowly while looking at each card in turn.
+    - Recall each spec before turning the card; review misses more often.
+  correct: 3
+  explanation: >-
+    Active recall (testing yourself) and spacing reviews make memory last; rereading and copying in
+    one block feel productive but test nothing. A Leitner box sends the cards you miss back for more
+    frequent review.
+- id: q3
+  question: >-
+    Which group of Module 5 drinks shares the "base + citrus + sweet, shaken" template?
+  options:
+    - Daiquiri, Margarita, Whiskey Sour and Cosmopolitan.
+    - Martini, Manhattan, Negroni and Old Fashioned.
+    - Mojito, Moscow Mule, Aperol Spritz and Daiquiri.
+    - Margarita, Negroni, Espresso Martini and Mojito.
+  correct: 0
+  explanation: >-
+    The four sours each pair a base spirit with fresh citrus and a sweet part (syrup, sugar or a
+    liqueur) and are shaken. The stirred group has no citrus; the Mojito and Mule are built long with a
+    fizzy mixer.
+- id: q4
+  question: >-
+    In a Leitner session you recall the Daiquiri's ingredients perfectly but say "rocks glass with
+    ice" instead of a chilled cocktail glass with no ice. What do you do with the card?
+  options:
+    - Move it up one box, since the liquid part was correct.
+    - Leave it in the same box and skip it next time.
+    - Put it back in box 1 and note the glass on its recall log.
+    - Remove it from the boxes, because you clearly know the drink.
+  correct: 2
+  explanation: >-
+    A pass needs every part right: ml, method, glass and ice, and garnish. A miss goes back to box 1
+    so it comes up daily until the weak part sticks.

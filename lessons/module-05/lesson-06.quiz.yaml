@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Following the IBA Mojito method, in what order do you build the drink in the glass?
+  options:
+    - Ice, rum, soda, then muddle mint, sugar and lime on top.
+    - Rum and soda first, then mint, sugar and lime, then ice.
+    - Muddle mint with sugar and lime, splash of soda, fill with ice, rum, top with soda, stir lightly.
+    - Muddle mint with rum, add ice, then sugar and lime, and shake in the glass.
+  correct: 2
+  explanation: >-
+    The IBA builds the flavour base first (mint, sugar, lime), adds a splash of soda, then ice and
+    rum, and tops with soda last so it keeps its fizz.
+- id: q2
+  question: >-
+    Your Mojitos taste grassy and bitter and guests complain about bits of leaf in their straws.
+    What is the most likely cause?
+  options:
+    - The mint was ground and twisted hard instead of pressed gently.
+    - The soda water was too cold when it was added.
+    - There was too much ice in the glass.
+    - The lime was squeezed fresh instead of bottled.
+  correct: 0
+  explanation: >-
+    Mint's aroma sits on the leaf surface; a few gentle presses release it. Grinding tears the leaves
+    into small bits that clog straws and, in many bartenders' experience, taste grassy.
+- id: q3
+  question: >-
+    The bar has only solid, unlined copper mugs. A guest orders a Moscow Mule "in the copper mug".
+    What do you do?
+  options:
+    - Serve it in the copper mug, since that is the classic presentation.
+    - Serve it in the copper mug but leave out the lime to keep the pH up.
+    - Serve it in the copper mug with crushed ice so it is drunk faster.
+    - Serve it in a highball or rocks glass and explain unlined copper reacts with acidic drinks.
+  correct: 3
+  explanation: >-
+    Copper dissolves into drinks with a pH below 6.0, and lime makes a Mule acidic. The accepted
+    practice is lined copper, stainless or glass; dropping the lime changes the drink.
+- id: q4
+  question: >-
+    Which is the IBA Moscow Mule spec?
+  options:
+    - 60 ml vodka, 15 ml lime, 10 ml rich syrup, 90 ml ginger beer.
+    - 45 ml vodka, 120 ml ginger beer, 10 ml lime.
+    - 45 ml vodka, 120 ml ginger ale, 20 ml lime.
+    - 50 ml vodka, 100 ml ginger beer, 15 ml lime, 2 dashes bitters.
+  correct: 1
+  explanation: >-
+    The IBA spec is 45 ml vodka, 120 ml ginger beer and 10 ml lime. 60/15/10/90 is Difford's version
+    with added syrup; ginger ale is a milder, sweeter mixer and not the spec.

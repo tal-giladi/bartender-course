@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You are building an Aperol Spritz the way Aperol's own recipe describes. What goes into the iced
+    wine glass first?
+  options:
+    - The Aperol, so it is easy to measure.
+    - The soda water, to chill the glass.
+    - The Prosecco, then the Aperol, then the soda.
+    - Aperol and soda together, then Prosecco on top.
+  correct: 2
+  explanation: >-
+    Prosecco first, then Aperol, then soda: the heavier Aperol mixes on its way down, so one gentle
+    stir is enough and the bubbles survive.
+- id: q2
+  question: >-
+    Your Espresso Martinis come out flat, with almost no foam. The coffee was made an hour ago and
+    kept in a jug in the fridge. What is the best fix?
+  options:
+    - Make a fresh espresso for each drink and shake it with ice right away.
+    - Add more sugar syrup so the drink foams.
+    - Stir the drink instead of shaking it to protect the foam.
+    - Double the coffee liqueur to replace the missing crema.
+  correct: 0
+  explanation: >-
+    The foam comes from fresh espresso's crema (oils and gas) whipped by a hard shake. Old, cold coffee
+    has lost it; sugar or extra liqueur cannot bring it back, and stirring makes no foam.
+- id: q3
+  question: >-
+    A guest says: "I'll have three Espresso Martinis, the coffee will keep me sober for the drive."
+    What is true?
+  options:
+    - Caffeine speeds up how fast the body clears the alcohol.
+    - Caffeine cancels about half of the alcohol's effect on driving.
+    - Caffeine has no effect at all on how drunk a person feels.
+    - Alcohol's effects stay the same; the guest may only feel less drunk.
+  correct: 3
+  explanation: >-
+    The U.S. CDC says caffeine does not reduce the effects of alcohol on the body; it can change how
+    drunk a person feels, which can lead to drinking more. Never present the drink as a way to stay
+    sober, and follow responsible service rules.
+- id: q4
+  question: >-
+    Which is the IBA Espresso Martini spec?
+  options:
+    - 30 ml vodka, 30 ml coffee liqueur, 30 ml espresso, no syrup.
+    - 50 ml vodka, 30 ml coffee liqueur, 10 ml sugar syrup, 1 strong espresso.
+    - 45 ml vodka, 20 ml coffee liqueur, 30 ml espresso, 2 drops saline.
+    - 50 ml gin, 30 ml coffee liqueur, 10 ml dry vermouth, 1 espresso.
+  correct: 1
+  explanation: >-
+    IBA: 50 ml vodka, 30 ml Kahlúa, 10 ml sugar syrup and a strong espresso, shaken. The equal-parts and
+    the 45/20/30 versions are Difford's Guide variations.

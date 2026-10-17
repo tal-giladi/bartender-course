@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You are making an IBA-style Old Fashioned with a sugar cube. In what order do you work?
+  options:
+    - Ice, whiskey, then drop in the cube and bitters and stir until it dissolves.
+    - Cube, bitters and a little water, muddle until dissolved, then ice and whiskey, stir.
+    - Whiskey and cube in a shaker with ice, shake hard, strain onto fresh ice.
+    - Cube and whiskey together, muddle, then bitters and ice on top without stirring.
+  correct: 1
+  explanation: >-
+    Sugar hardly dissolves in cold spirit, so the IBA method dissolves it first in bitters and a few
+    dashes of water, then adds ice and whiskey and stirs gently.
+- id: q2
+  question: >-
+    A ticket reads "4 Negroni". The bar follows the IBA spec. Which plan is fastest and correct?
+  options:
+    - Shake each one separately with ice and strain over fresh ice.
+    - Stir all four in one mixing glass and strain into four glasses without ice.
+    - Four iced glasses; pour 30 ml gin, Campari and vermouth bottle by bottle across all four; stir each.
+    - Four iced glasses; pour 45 ml gin and 22.5 ml each of Campari and vermouth; stir each.
+  correct: 2
+  explanation: >-
+    The IBA Negroni is equal parts, 30 ml each, built on ice in the glass and stirred. Pouring one
+    bottle across all glasses means each bottle is handled once.
+- id: q3
+  question: >-
+    A guest finishes an Old Fashioned and points to a layer of grainy sugar at the bottom. What went
+    wrong, and what fixes it next time?
+  options:
+    - The ice was added before the sugar fully dissolved; muddle until smooth first or use syrup.
+    - The whiskey was too strong; use a lower-proof bourbon so the sugar dissolves.
+    - Too many dashes of bitters; use one dash so the sugar can dissolve.
+    - The glass was not chilled; chill it so the sugar melts faster.
+  correct: 0
+  explanation: >-
+    Once ice and spirit go in, sugar barely dissolves. Dissolve the cube completely with bitters and
+    water before adding them, or switch to sugar syrup as most busy bars do.
+- id: q4
+  question: >-
+    A guest asks for "a Negroni, but lighter and fizzy". Which known variation fits, and what is its
+    spec according to Difford's Guide?
+  options:
+    - Boulevardier: whiskey, Campari and vermouth in equal parts on ice.
+    - Americano: Campari and vermouth topped with ginger beer.
+    - Spritz: 90 ml Prosecco, 60 ml Aperol and a splash of soda.
+    - Negroni Sbagliato: 30 ml sweet vermouth, 30 ml red bitter and 60 ml Prosecco on ice.
+  correct: 3
+  explanation: >-
+    The Sbagliato replaces gin with Prosecco, so it is lighter and sparkling. The Boulevardier is
+    heavier, and the Spritz is a different drink built on Aperol.

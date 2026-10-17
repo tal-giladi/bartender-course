@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    A guest orders a Whiskey Sour. Your house spec includes egg white. What do you do before you start?
+  options:
+    - Nothing special, since egg white is part of the classic spec.
+    - Leave the egg white out silently, to be safe for everyone.
+    - Tell the guest it contains egg white and offer an egg-free foam if they prefer.
+    - Ask the guest whether they would like the drink shaken or stirred.
+  correct: 2
+  explanation: >-
+    Egg is a major allergen and some guests avoid it, so you tell them before making the drink and
+    offer aquafaba or a foamer. Leaving it out silently changes the house drink without asking.
+- id: q2
+  question: >-
+    You want a thicker foam on an aquafaba sour. Which sequence is a reverse dry shake?
+  options:
+    - Shake without ice, add ice, shake again, strain.
+    - Shake with ice, strain back into the empty tin, shake again without ice, fine strain.
+    - Stir with ice for 30 seconds, then shake once without ice.
+    - Shake with crushed ice for 30 seconds and pour everything into the glass.
+  correct: 1
+  explanation: >-
+    Reverse dry shake means ice first, then a second shake without ice to whip air into the chilled
+    liquid. Shaking without ice first, then with ice, is the ordinary dry shake.
+- id: q3
+  question: >-
+    Your Cosmopolitan comes out deep red and tastes like fruit juice. Which pour was most likely
+    wrong?
+  options:
+    - Too much cranberry juice.
+    - Too little Cointreau.
+    - Too much fresh lime juice.
+    - Too short a shake with ice.
+  correct: 0
+  explanation: >-
+    Cranberry gives the colour and much of the sweetness. The IBA spec uses only 30 ml, which keeps the
+    drink pale pink and tart; more turns it red and juicy.
+- id: q4
+  question: >-
+    Your bar's Whiskey Sour spec says 20 ml sugar syrup, meaning 1:1, but today only 2:1 syrup is
+    made. What do you pour to keep it equally sweet?
+  options:
+    - 20 ml, since syrup is syrup.
+    - 30 ml, because rich syrup is thicker.
+    - 10 ml, because 2:1 is twice as sweet.
+    - About 13–15 ml, about two thirds of the amount.
+  correct: 3
+  explanation: >-
+    2:1 syrup is about 1.4 times as sweet per ml as 1:1 (lesson 03.4), so you pour about two thirds:
+    13–15 ml. Halving it assumes it is twice as sweet, which it is not.
+- id: q5
+  question: >-
+    A guest asks for a Cosmopolitan "with the flamed orange peel like I saw online". What do you do?
+  options:
+    - Flame the peel quickly over the glass while the guest stands back.
+    - Express the orange zest without fire; it still sprays the oil.
+    - Refuse to make the drink at all, since the request is unsafe.
+    - Light a little vodka on the drink's surface for the same show.
+  correct: 1
+  explanation: >-
+    Flame near spirits and guests is a burn and fire risk and is not taught in this course. Expressing
+    the zest still sprays the orange oil over the drink; there is no reason to refuse the drink itself.

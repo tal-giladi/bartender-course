@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your bar follows the IBA Margarita spec. Which pour is correct?
+  options:
+    - 50 ml tequila, 30 ml triple sec, 20 ml lime.
+    - 60 ml tequila, 30 ml triple sec, 30 ml lime.
+    - 50 ml tequila, 20 ml triple sec, 15 ml lime.
+    - 50 ml tequila, 15 ml triple sec, 20 ml lime.
+  correct: 2
+  explanation: >-
+    The IBA Margarita is 50 ml 100% agave tequila, 20 ml triple sec and 15 ml lime. 50/30/20 is
+    Difford's Original Margarita and 60/30/30 the 1937 Picador ratio; swapping the triple sec and lime
+    amounts makes it too sour.
+- id: q2
+  question: >-
+    You have no superfine sugar for an IBA Daiquiri, only 1:1 syrup made by weight. What do you pour
+    instead of the 2 bar spoons of sugar?
+  options:
+    - About 15 ml of 1:1 syrup.
+    - About 5 ml of 1:1 syrup.
+    - About 30 ml of 1:1 syrup.
+    - About 10 ml of plain water.
+  correct: 0
+  explanation: >-
+    Two bar spoons of sugar are about 8 g, close to the sugar in 15 ml of 1:1 syrup (about 0.62 g per
+    ml). 5 ml is far too little, 30 ml far too sweet, and water adds no sweetness at all.
+- id: q3
+  question: >-
+    A guest sends back a Margarita saying "every sip is salty". You see salt crystals floating in the
+    drink. What should you change?
+  options:
+    - Use fine table salt instead of coarse salt so it dissolves faster.
+    - Skip the lime wedge and wet the rim with water instead.
+    - Add 5 ml more syrup to cover the salt in the next drink.
+    - Salt only the outside of half the rim and wipe the inside edge clean.
+  correct: 3
+  explanation: >-
+    The IBA garnish is a half salt rim: salt on the outside of half the rim only, so the guest chooses
+    when to taste it and no salt falls into the drink. Fine salt dissolves into the drink even faster.
+- id: q4
+  question: >-
+    You serve a Daiquiri up in a chilled coupe and small ice chips float on top. What prevents this?
+  options:
+    - Shake for 30 seconds so the chips melt completely.
+    - Double strain through a Hawthorne and a fine strainer.
+    - Stir the drink instead of shaking it.
+    - Add the lime juice after shaking, straight into the glass.
+  correct: 1
+  explanation: >-
+    A fine strainer under the Hawthorne catches the chips. A longer shake over-dilutes, stirring a
+    citrus drink loses its lively texture, and lime added later is not mixed or chilled.

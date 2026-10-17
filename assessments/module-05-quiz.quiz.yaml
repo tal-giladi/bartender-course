@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    A ticket comes in: one Negroni, one Daiquiri, one Moscow Mule. Which pairing of drink and method
+    is right for all three?
+  options:
+    - Negroni shaken, Daiquiri stirred, Mule built in the glass.
+    - Negroni built on ice and stirred, Daiquiri shaken, Mule built on ice.
+    - Negroni stirred and strained up, Daiquiri built on ice, Mule shaken.
+    - All three shaken with ice, then strained over fresh ice.
+  correct: 1
+  explanation: >-
+    Spirit-only drinks are stirred (the IBA Negroni is built on ice in the glass), citrus sours are
+    shaken, and drinks topped with a fizzy mixer are built so the bubbles survive.
+- id: q2
+  question: >-
+    A guest asks for a Manhattan "the way Difford's does it". Your bar's house spec is the IBA one.
+    What do you know about the difference?
+  options:
+    - Difford's uses dry vermouth instead of sweet.
+    - Difford's version is shaken and served on the rocks.
+    - Difford's uses bourbon with some rye and 30 ml vermouth instead of 50 ml rye and 20 ml.
+    - Difford's uses gin in place of whiskey and adds orange bitters.
+  correct: 2
+  explanation: >-
+    Difford's Manhattan is 45 ml bourbon plus 15 ml rye with 30 ml sweet vermouth, stirred. The IBA is
+    50 ml rye and 20 ml. Knowing the variation lets you discuss it; the house decides what you make.
+- id: q3
+  question: >-
+    You are out of superfine sugar during service and a guest orders a Mojito and a Daiquiri. The bar
+    has 1:1 syrup. What do you do?
+  options:
+    - Use about 15 ml of 1:1 syrup in place of the sugar in each drink.
+    - Use 30 ml of 1:1 syrup in each, since syrup is weaker than sugar.
+    - Leave the sweetener out; the lime balances the rum on its own.
+    - Use triple sec instead, since it is sweet and already on the rail.
+  correct: 0
+  explanation: >-
+    Two bar spoons or two teaspoons of sugar are about 8–10 g, close to the sugar in 15 ml of 1:1
+    syrup. Leaving it out makes the drinks harsh, and triple sec turns them into different drinks.
+- id: q4
+  question: >-
+    Your bar makes its Whiskey Sour with egg white. A guest orders one and mentions nothing about
+    allergies. What is the right action?
+  options:
+    - Make it as specced, since the guest did not mention allergies.
+    - Make it without egg white and say nothing, to be safe.
+    - Make it with raw shell egg white, which foams better than pasteurised.
+    - Tell the guest it contains egg white and offer an aquafaba version.
+  correct: 3
+  explanation: >-
+    Guests often do not think to mention allergies, so you disclose egg before making the drink and
+    offer an egg-free foam. Use pasteurised egg white, never raw shell eggs, because of Salmonella risk.
+- id: q5
+  question: >-
+    A trainee builds an Aperol Spritz: Aperol first, then Prosecco, then soda, and stirs it hard four
+    times. The guest says it is flat. What do you correct?
+  options:
+    - The amounts, because the IBA spec has equal parts Aperol and Prosecco.
+    - The order and the stir: Prosecco, Aperol, soda, then one gentle stir.
+    - The glass, because a spritz belongs in a chilled coupe without ice.
+    - The soda, because the IBA spec uses tonic water rather than soda.
+  correct: 1
+  explanation: >-
+    Pouring Aperol first leaves it at the bottom, so the trainee stirred hard and knocked out the CO2.
+    Prosecco first, then Aperol, then soda mixes on the way down and needs only a gentle stir.
+- id: q6
+  question: >-
+    A guest wants an Espresso Martini. The espresso machine is down and you have a jug of coffee made
+    three hours ago. What do you tell the guest?
+  options:
+    - Nothing; shake the old coffee longer and it will foam the same.
+    - That you will add an extra 10 ml of syrup so it foams properly.
+    - That without fresh espresso it will have little foam, and offer it anyway or another drink.
+    - That you will stir it instead, because stirring keeps old coffee's crema.
+  correct: 2
+  explanation: >-
+    The foam comes from fresh espresso's crema shaken at once; old coffee has lost it, and neither a
+    longer shake nor more syrup brings it back. Be honest and let the guest choose.
+- id: q7
+  question: >-
+    Six Mojitos arrive on one ticket. Which approach is both fast and correct?
+  options:
+    - Make each one fully, start to finish, before touching the next glass.
+    - Muddle all the mint hard in one jug, then pour it into six glasses.
+    - Build all six in a large shaker with crushed ice and pour them out.
+    - Work across six glasses: mint, sugar, lime, press, ice, rum, soda.
+  correct: 3
+  explanation: >-
+    Working across the line handles each ingredient once and keeps the soda for last, so all six keep
+    their fizz. Hard muddling shreds the mint, and shaking a soda-topped drink kills the bubbles.
+- id: q8
+  question: >-
+    A regular asks for "a Margarita like the 1937 original" and you want to show you know the
+    history. Which proportions does Difford's Guide give for that 1937 recipe?
+  options:
+    - 60 ml tequila, 30 ml Cointreau, 30 ml lime.
+    - 50 ml tequila, 20 ml triple sec, 15 ml lime.
+    - 45 ml tequila, 22.5 ml triple sec, 22.5 ml lime.
+    - 50 ml tequila, 30 ml triple sec, 20 ml lime.
+  correct: 0
+  explanation: >-
+    Difford's cites the 1937 Picador as 2:1:1 (60/30/30). 50/20/15 is the IBA spec, and 50/30/20 is
+    Difford's own Original Margarita.
+- id: q9
+  question: >-
+    A guest orders a Moscow Mule and a Martini. The bar's copper mugs are solid, unlined copper, and
+    the dry vermouth was opened two months ago and kept on the back bar. What should you do?
+  options:
+    - Serve both as normal; copper and vermouth age are matters of taste.
+    - Serve the Mule in a glass and use a fresh, refrigerated vermouth for the Martini.
+    - Serve the Mule in copper without lime, and the Martini with less vermouth.
+    - Serve both but warn the guest that the drinks may taste different.
+  correct: 1
+  explanation: >-
+    Acidic drinks should not sit in unlined copper (pH below 6.0), and vermouth is a wine that goes dull
+    once opened, so it belongs in the fridge. A glass and fresh vermouth fix both without changing the
+    specs.
+- id: q10
+  question: >-
+    During a recall drill you keep mixing up the Margarita (lime 15 ml) and the Daiquiri (lime 20 ml).
+    Which study change is most likely to fix it?
+  options:
+    - Reread both cards five times every evening.
+    - Study only the Margarita until it is perfect, then the Daiquiri next week.
+    - Write both specs out ten times in a row the night before a test.
+    - Recall both from memory in mixed sessions, and send the missed card back to box 1.
+  correct: 3
+  explanation: >-
+    Active recall, interleaving similar drinks and a Leitner box that repeats misses train you to tell
+    close specs apart. Rereading and massed copying feel productive but fade quickly.
