@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    A draft menu has twelve drinks: seven shaken sours (two with egg white), three stirred drinks and two
+    highballs. What is the most important change before service?
+  options:
+    - Add two more stirred drinks so the menu feels stronger.
+    - Swap some sours for long, sparkling or savory drinks so fewer drinks are shaken.
+    - Replace the highballs with more sours, which guests order most.
+    - Keep it as it is and add a second bartender on busy nights.
+  correct: 1
+  explanation: >-
+    Seven shaken drinks, two with foam, slow the bar and give guests little choice of style. Swapping
+    some for built or stirred drinks from other families fixes both speed and balance.
+- id: q2
+  question: >-
+    Your menu has a Gin Basil Smash and nothing else uses basil. What does cross-utilisation suggest?
+  options:
+    - Remove all herbs from the menu to keep prep simple.
+    - Buy dried basil, which keeps longer and does the same job.
+    - Keep it; one single-use ingredient never affects waste.
+    - Use basil in a second drink, or swap the Smash for another drink.
+  correct: 3
+  explanation: >-
+    An ingredient used in only one drink is extra prep and waste if that drink does not sell. Using it
+    twice, or swapping the drink, keeps prep short. Dried basil does not work in a Smash.
+- id: q3
+  question: >-
+    You change the house Daiquiri to 50 ml rum, 20 ml lime and 15 ml 1:1 syrup to fit your glass. What
+    should the spreadsheet say?
+  options:
+    - Spec source "IBA", because it is still a Daiquiri.
+    - Nothing; small changes do not need to be written.
+    - Spec source "house spec, adapted from IBA", with the exact ml.
+    - Spec source "Difford's Guide", because it is close to their version.
+  correct: 2
+  explanation: >-
+    A changed spec is a house spec: write it with exact ml and its origin, so every bartender makes it the
+    same way and Module 10 costing uses the right amounts. Calling it IBA or Difford's would be inaccurate.
+- id: q4
+  question: >-
+    Which pair of alcohol-free drinks best meets the lesson's standard for a menu?
+  options:
+    - A Virgin Mary and a grapefruit-basil soda, each with a recipe card and allergens.
+    - A Virgin Mary and a "Mai Tai without rum" containing almond orgeat, with no allergen notes.
+    - Two drinks named only "Mocktail of the day", made from whatever is left.
+    - Orange juice and cola, listed under "soft drinks".
+  correct: 0
+  explanation: >-
+    Real alcohol-free options have written specs, care in balance and allergen notes. Plain juices,
+    unnamed leftovers or drinks without allergen information do not give guests a real choice.

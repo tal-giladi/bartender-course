@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    A guest who loves Negronis asks for "something similar but with whiskey". You make a Boulevardier
+    to the IBA spec. Which pour is correct?
+  options:
+    - 60 ml bourbon, 15 ml Campari, 15 ml dry vermouth, stirred.
+    - 30 ml bourbon, 30 ml Campari, 30 ml sweet vermouth, stirred.
+    - 45 ml bourbon, 22.5 ml Campari, 22.5 ml sweet vermouth, shaken.
+    - 45 ml bourbon or rye, 30 ml Campari, 30 ml sweet vermouth, stirred.
+  correct: 3
+  explanation: >-
+    The IBA Boulevardier has more base than a Negroni: 45/30/30, stirred. Equal 30s is the Negroni
+    pattern; 2:1:1 is Difford's variation and it is stirred, never shaken.
+- id: q2
+  question: >-
+    You make a Penicillin and the guest says "I can't smell any smoke". What most likely went wrong?
+  options:
+    - The ginger was muddled before the other ingredients went in.
+    - The drink was fine strained into a glass with ice.
+    - The Islay malt was shaken with the rest instead of floated on top at the end.
+    - The honey syrup was thinner than straight honey.
+  correct: 2
+  explanation: >-
+    The smoky Islay malt is floated last so its aroma reaches the nose first. Shaken in, it is diluted
+    into the drink. Muddling ginger first, fine straining and using honey syrup are all part of the spec.
+- id: q3
+  question: >-
+    A trainee's Caipirinhas taste bitter at the finish. They use the IBA amounts. What do you check
+    first?
+  options:
+    - Whether they use cracked ice instead of cubes.
+    - Whether they grind the lime instead of pressing it gently.
+    - Whether they stir after adding the cachaça.
+    - Whether the glass is a double old fashioned.
+  correct: 1
+  explanation: >-
+    Grinding the white pith releases bitterness; the IBA says to muddle gently, pressing out juice and
+    peel oil. Cracked ice, a gentle stir and the double old fashioned glass are all in the spec.
+- id: q4
+  question: >-
+    A colleague tells a guest "our Hugo Spritz is the official IBA recipe". What is accurate?
+  options:
+    - Not accurate; it is not on the IBA list, and the card uses Difford's Guide.
+    - Correct; every spritz on a menu follows the IBA Spritz page.
+    - Partly; only the Prosecco amount comes from the IBA.
+    - Correct; the IBA lists the Hugo Spritz among its New Era drinks.
+  correct: 0
+  explanation: >-
+    The Hugo Spritz (like the Gimlet) is not an IBA drink. The course card names Difford's Guide as its
+    source; house specs vary, so call it the house or Difford's spec, not "official".

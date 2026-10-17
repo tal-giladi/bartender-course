@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    A colleague shakes Bloody Marys hard "to mix the spices". Guests complain the drink looks pale and
+    separates. What do you suggest?
+  options:
+    - Shake for longer so the froth settles into the drink.
+    - Blend it with ice so the spices are fully mixed.
+    - Stir gently in a mixing glass or roll it, as in the IBA and Difford's methods.
+    - Build it in the glass without any ice to keep it thick.
+  correct: 2
+  explanation: >-
+    Hard shaking beats air into tomato juice, making it frothy and thin, and it separates. Stirring
+    (IBA) or rolling (Difford's) mixes and chills gently. Blending dilutes and aerates even more.
+- id: q2
+  question: >-
+    A guest orders a Bloody Mary and says she is allergic to fish. Which response is correct?
+  options:
+    - Make it as normal; Worcestershire is only a few drops and contains no fish.
+    - Leave out the Worcestershire, which lists anchovies, and check the other labels.
+    - Swap the Worcestershire for extra Tabasco, which is made from anchovies too.
+    - Refuse to serve any tomato drink, because tomato juice always contains fish.
+  correct: 1
+  explanation: >-
+    Classic Worcestershire sauce lists anchovies (fish), so it must go; the other seasonings should be
+    checked on their labels. Tomato juice and Tabasco are not fish products, and a few drops still count
+    for an allergy.
+- id: q3
+  question: >-
+    Which list matches the IBA Mai Tai?
+  options:
+    - 30 ml Jamaican rum, 30 ml Martinique molasses rum, 15 ml curaçao, 15 ml orgeat, 30 ml lime, 7.5 ml syrup.
+    - 60 ml aged rum, 15 ml dry curaçao, 22.5 ml lime, 10 ml orgeat, 7.5 ml rich syrup.
+    - 45 ml white rum, 30 ml pineapple juice, 15 ml grenadine, 15 ml lime, 15 ml orgeat.
+    - 30 ml Jamaican rum, 30 ml Martinique rum, 15 ml triple sec, 15 ml grenadine, 15 ml lime.
+  correct: 0
+  explanation: >-
+    The IBA Mai Tai uses two rums, curaçao, orgeat, 30 ml lime and 7.5 ml syrup. The 60/15/22.5/10/7.5
+    list is Difford's Trader Vic version; pineapple juice and grenadine belong to other tropical drinks.
+- id: q4
+  question: >-
+    A guest with a tree-nut allergy asks for a Mai Tai. What is the best response?
+  options:
+    - Make it with half the orgeat so the amount is too small to matter.
+    - Make it with orgeat but use a fresh shaker so nothing else contaminates it.
+    - Replace the orgeat with almond extract, which is lighter than syrup.
+    - Explain that the Mai Tai's orgeat is almond syrup and offer a different rum drink without nuts.
+  correct: 3
+  explanation: >-
+    Orgeat is made from almonds, so any amount is a risk, and almond extract is almonds too. A Mai Tai
+    without orgeat is not really a Mai Tai, so offering another drink is honest and safe.

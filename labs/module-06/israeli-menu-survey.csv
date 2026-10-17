@@ -1,0 +1,2 @@
+bar,city,source_url,date_accessed,drink_name_as_written,languages,family,base_spirit,israeli_product_or_local_ingredient,alcohol_free,notes
+EXAMPLE ROW - delete,Tel Aviv,https://example.org/menu,2026-10-17,Arak Grapefruit,Hebrew+English,highball,arak,arak (brand not named),no,format example only - not real data

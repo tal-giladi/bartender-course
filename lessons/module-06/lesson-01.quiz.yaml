@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A new menu drink is mezcal, fresh lime juice, agave syrup and a top of grapefruit soda, built in a
+    tall glass over ice. Which family do you file it under to learn it fastest?
+  options:
+    - Highball, because a spirit is lengthened with a fizzy mixer over ice.
+    - Sour, because it has lime and a sweetener.
+    - Tiki and punch, because it has more than one sweet ingredient.
+    - Spritz and sparkling, because it is long and fizzy.
+  correct: 0
+  explanation: >-
+    A spirit lengthened with a fizzy mixer other than soda water, built over ice, is a highball (like the
+    Paloma). It would be a sour only with no top; spritz needs sparkling wine as the long part.
+- id: q2
+  question: >-
+    You are checking a colleague's new house sour spec: 50 ml gin, 45 ml lemon juice, 10 ml 1:1 syrup.
+    What does the IBA sour pattern suggest?
+  options:
+    - It fits the pattern, because the base is still the largest pour.
+    - The gin is too low; IBA sours always use exactly 60 ml of base.
+    - The citrus is well above 15–30 ml and the syrup far below; check it.
+    - It is fine for a fizz but not for a sour, because fizzes use more citrus.
+  correct: 2
+  explanation: >-
+    IBA sours use 15–30 ml of citrus with a sweetener close to that amount. 45 ml lemon with 10 ml syrup
+    will be very sour, so the spec is worth checking. Bases range from 40 to 60 ml, not exactly 60.
+- id: q3
+  question: >-
+    A guest orders a Gin Fizz. Which serve matches the IBA spec?
+  options:
+    - Built in a tall glass full of ice, topped with 60 ml soda and stirred gently.
+    - Shaken, strained into a thin tall glass without ice, topped with a splash of soda.
+    - Shaken, strained into a chilled coupe with no soda at all.
+    - Stirred with ice, strained over a large cube, topped with sparkling wine.
+  correct: 1
+  explanation: >-
+    The IBA Gin Fizz is shaken, poured into a thin tall tumbler, topped with a splash of soda and served
+    without ice. The built version on ice with more soda is the John Collins; no soda is a plain sour.
+- id: q4
+  question: >-
+    You must learn fourteen new menu drinks before tomorrow's shift. Which approach uses the family idea
+    best?
+  options:
+    - Sort them by base spirit and learn all the gin drinks first.
+    - Learn them in menu order, one full card at a time, from top to bottom.
+    - Learn only the ml amounts, because method and glass can be checked on shift.
+    - Sort them by family, then for each drink learn only its amounts and its difference from the family.
+  correct: 3
+  explanation: >-
+    The family gives you method, glass and rough proportions for free, so only the amounts and the
+    difference need learning. Base spirit says nothing about structure, and method and glass are part of
+    the spec you must know.

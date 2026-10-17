@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    In an interview you want to mention arak and grapefruit. Which sentence states the evidence
+    accurately?
+  options:
+    - Arak and grapefruit is the best-selling cocktail in Israel.
+    - Every Israeli bar has arak and grapefruit on its menu.
+    - Saveur describes arak and grapefruit as a popular refresher on Tel Aviv beaches.
+    - Israelis prefer arak to every other spirit, according to the IBA.
+  correct: 2
+  explanation: >-
+    The source describes a popular beach refresher; it does not rank sales or survey every bar, and the
+    IBA publishes no such data. Sizing the claim to the source keeps it true.
+- id: q2
+  question: >-
+    A guest orders arak "the classic way". Following Montefiore (2019), how do you serve it?
+  options:
+    - Equal parts arak and water, ice first so it chills quickly.
+    - Neat arak over a glass full of ice, water on the side.
+    - Arak shaken with ice and strained into a chilled coupe.
+    - One part arak to two parts water, with ice added after the water.
+  correct: 3
+  explanation: >-
+    The source gives 1 : 2 arak to water, with ice only after the water, in small narrow glasses. Ice
+    first and neat arak on ice are the common mistakes the lesson warns about.
+- id: q3
+  question: >-
+    You surveyed three Tel Aviv cocktail bar menus; two had an arak drink. Which conclusion fits the
+    evidence?
+  options:
+    - Most Israeli bars serve arak cocktails.
+    - Two of the three menus I checked on that date had an arak drink.
+    - Arak cocktails are more popular than gin cocktails in Israel.
+    - Arak is losing popularity, because one menu had none.
+  correct: 1
+  explanation: >-
+    Three menus from one city describe those bars on that date only. A finding sized to the sample, with
+    the date, is honest and useful; national or trend claims need much more data.
+- id: q4
+  question: >-
+    A colleague says "Israeli guests always want sweeter drinks than Europeans". No study or data is
+    known. How should this go on a menu-planning note?
+  options:
+    - Labelled as professional judgment, or left out, until there is data.
+    - As verified, citing the colleague by name as the source.
+    - Removed from the note, because opinions are never useful.
+    - As a verified fact, because many bartenders agree with it.
+  correct: 0
+  explanation: >-
+    Agreement among bartenders is experience, not measurement; label it professional judgment or drop it.
+    Opinions can still guide a tasting test, but they must not be presented as facts.

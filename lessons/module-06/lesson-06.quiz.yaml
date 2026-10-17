@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    Your spec calls for 22.5 ml of 1:1 syrup, but only 2:1 syrup is on the station. How much do you pour?
+  options:
+    - About 11 ml, half the volume, because 2:1 is twice as sweet.
+    - About 15 ml, two thirds of the volume.
+    - 22.5 ml, because syrup strength does not change the drink.
+    - About 30 ml, because rich syrup is thicker and pours slower.
+  correct: 1
+  explanation: >-
+    Made by weight, 2:1 syrup is about 1.4 times as sweet per ml as 1:1, so you use about two thirds:
+    22.5 ml becomes 15 ml. Half would be too dry; the same volume would be too sweet.
+- id: q2
+  question: >-
+    The bar is out of orgeat and a guest orders a Mai Tai. Which response follows the lesson's rule?
+  options:
+    - Use extra simple syrup in place of the orgeat and serve it as a Mai Tai.
+    - Use grenadine for the sweetness and colour and serve it as a Mai Tai.
+    - Explain that the almond syrup is out and suggest another rum drink.
+    - Double the curaçao so the drink stays sweet enough.
+  correct: 2
+  explanation: >-
+    When a role cannot be filled faithfully, change the drink, not the name. Orgeat defines the Mai Tai's
+    taste; syrup, grenadine or extra curaçao make a different drink under a false name.
+- id: q3
+  question: >-
+    A tourist orders "a Martini". Your bar has a Dry Martini and an Espresso Martini on the menu. What do
+    you do?
+  options:
+    - Make a Dry Martini, because that is the only real Martini.
+    - Make an Espresso Martini, because it is the more popular one.
+    - Make whichever is faster and offer to remake it if wrong.
+    - Ask whether they want a classic gin or vodka Martini or the espresso one.
+  correct: 3
+  explanation: >-
+    "Martini" is used for the classic and for many drinks in a V-shaped glass. One clarifying question
+    takes seconds; guessing risks a remade drink and a disappointed guest.
+- id: q4
+  question: >-
+    A UK recipe says "50 ml gin". What does that most likely reflect?
+  options:
+    - Two 25 ml measures, because UK law sets gin measures at 25 ml or 35 ml multiples.
+    - A US recipe of 2 oz converted exactly to 60 ml and rounded down.
+    - An IBA rule that all base spirits are 50 ml.
+    - A typing error, because UK bars must pour 35 ml singles.
+  correct: 0
+  explanation: >-
+    Under UK rules, gin, rum, vodka and whisky by the glass are sold in 25 ml or 35 ml (or multiples), not
+    both on the same premises, so 50 ml is a double 25. IBA bases vary from 40 to 60 ml.

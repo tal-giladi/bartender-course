@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your bar follows the IBA specs. A guest orders a White Lady. Which pour is correct?
+  options:
+    - 50 ml gin, 20 ml triple sec, 20 ml lemon.
+    - 40 ml gin, 30 ml triple sec, 20 ml lemon.
+    - 40 ml gin, 20 ml triple sec, 30 ml lemon, 10 ml syrup.
+    - 50 ml gin, 22.5 ml triple sec, 22.5 ml lemon.
+  correct: 1
+  explanation: >-
+    The IBA White Lady is 40/30/20 with no syrup. 50/20/20 is the Sidecar's shape with gin, and
+    50/22.5/22.5 is Difford's variation; extra lemon and syrup do not belong to the IBA spec.
+- id: q2
+  question: >-
+    A new bartender adds 15 ml of syrup to every Sidecar "because sours need syrup". Guests say it is too
+    sweet. What do you tell them?
+  options:
+    - Keep the syrup but cut the lemon to 10 ml so the balance holds.
+    - Use 2:1 syrup instead, so less volume goes in.
+    - Replace the triple sec with syrup so the orange flavour does not dominate.
+    - Leave out the syrup; the triple sec is the sweetener in this spec.
+  correct: 3
+  explanation: >-
+    In the IBA Sidecar (50 cognac, 20 triple sec, 20 lemon) the liqueur sweetens the drink, so extra
+    syrup makes it too sweet. Cutting lemon or swapping the liqueur changes the drink itself.
+- id: q3
+  question: >-
+    A guest orders a Pisco Sour "the authentic way, with raw egg". Your bar has no written raw-egg policy.
+    What do you do?
+  options:
+    - Use a carton of pasteurised egg white (or aquafaba) and tell the guest the drink contains it.
+    - Use a fresh shell egg because the IBA spec lists a raw egg white.
+    - Leave the egg out and serve it as a plain sour with bitters on top.
+    - Use a fresh shell egg but shake for 30 seconds so the alcohol makes it safe.
+  correct: 0
+  explanation: >-
+    Pasteurised white or aquafaba gives the same foam without the Salmonella risk of raw shell egg, and
+    the guest must know about egg or chickpea for allergies. Alcohol and shaking do not make raw egg safe.
+- id: q4
+  question: >-
+    Your Pisco Sour foam is thin and the bitters drops sink straight into the drink. Which change helps
+    most?
+  options:
+    - Add the bitters into the shaker so they spread evenly.
+    - Shake with extra ice for longer, then pour without straining.
+    - Reverse dry shake, fine strain, and drop the bitters gently onto the foam.
+    - Stir the drink gently in the glass before adding the bitters.
+  correct: 2
+  explanation: >-
+    A reverse dry shake builds a thick, stable foam, and drops placed gently on a settled foam stay on
+    top as an aromatic garnish. Bitters in the shaker lose the aroma on top; stirring breaks the foam.

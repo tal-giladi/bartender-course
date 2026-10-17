@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    Six French 75s are on one ticket. Your first one foamed over the flute. Which change fixes it
+    without slowing you down?
+  options:
+    - Stir each drink well after topping so the foam settles faster.
+    - Shake the Champagne briefly with the base so the gas escapes before pouring.
+    - Use cold wine and pour it slowly down the side of a tilted flute, then one lift.
+    - Pour the Champagne first and strain the base in hard from a height.
+  correct: 2
+  explanation: >-
+    Cold liquid and a gentle pour down the side lose the least gas and foam the least, so each drink is
+    done in one pour. Stirring and shaking the wine knock the bubbles out; a hard pour from a height foams.
+- id: q2
+  question: >-
+    A guest orders a Tom Collins. Your bar has London dry gin but no Old Tom gin. According to the IBA,
+    what are you making if you use the London dry gin?
+  options:
+    - A John Collins, the IBA's Collins spec; tell the guest if they ask about the gin.
+    - A Gin Fizz, because it has no Old Tom gin in it.
+    - A French 75 without the Champagne.
+    - It is still exactly the IBA Tom Collins, because the gin style does not matter.
+  correct: 0
+  explanation: >-
+    The IBA's Collins page is the John Collins, and it notes that Old Tom gin makes it a Tom Collins.
+    Many bars use London dry gin anyway; knowing the difference lets you answer honestly. A fizz has no
+    ice in the glass.
+- id: q3
+  question: >-
+    Which pour matches the IBA Paloma?
+  options:
+    - 50 ml tequila, 25 ml grapefruit juice, 12.5 ml lime, 7.5 ml agave, 50 ml grapefruit soda, shaken base.
+    - 50 ml tequila, 5 ml lime, a pinch of salt, 100 ml pink grapefruit soda, built on ice.
+    - 45 ml tequila, 30 ml lime, 15 ml syrup, 60 ml soda water, built on ice.
+    - 50 ml tequila, 20 ml triple sec, 15 ml lime, topped with grapefruit soda.
+  correct: 1
+  explanation: >-
+    The IBA Paloma is a simple highball: tequila, a squeeze of lime, a pinch of salt and pink grapefruit
+    soda. The shaken version with juice and agave is Difford's variation; the others are a tequila Collins
+    and a topped Margarita.
+- id: q4
+  question: >-
+    A guest says your grapefruit highball tastes "too bitter". The spec allows it. What small change is
+    most likely to help without making it sweeter?
+  options:
+    - Add 15 ml more lime juice to brighten it.
+    - Add 20 ml of syrup to cover the bitterness.
+    - Double the tequila so the grapefruit is less noticeable.
+    - Add a small pinch of salt, as in the IBA Paloma.
+  correct: 3
+  explanation: >-
+    A little salt suppresses bitterness without adding sugar, which is why the IBA Paloma includes a
+    pinch. Lime adds sourness, syrup adds sweetness, and more tequila makes a stronger drink, not a better
+    balanced one.

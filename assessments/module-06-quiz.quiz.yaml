@@ -1,0 +1,128 @@
+- id: q1
+  question: >-
+    A guest liked the Margarita and asks for "the same idea with gin and lemon". Which IBA drink do you
+    offer, and how is it poured?
+  options:
+    - A Tom Collins: 45 ml gin, 30 ml lemon, 15 ml syrup, 60 ml soda on ice.
+    - A Gimlet: gin with lime cordial, shaken and served in a coupe.
+    - A White Lady: 40 ml gin, 30 ml triple sec, 20 ml lemon, shaken and served up.
+    - A Gin Fizz: 45 ml gin, 30 ml lemon, 10 ml syrup, a splash of soda, no ice.
+  correct: 2
+  explanation: >-
+    The Margarita is spirit + triple sec + citrus; with gin and lemon that pattern is the White Lady
+    (40/30/20). The Collins and the fizz are lengthened with soda, and the Gimlet uses lime cordial.
+- id: q2
+  question: >-
+    A trainee sees a new spec: aged rum, lime, orgeat, curaçao, shaken and poured over crushed ice with
+    a mint sprig. Which family and which known drink help them learn it fastest?
+  options:
+    - Tiki and punch, learned as a difference from the Mai Tai.
+    - Highball, learned as a difference from the Cuba Libre.
+    - Spritz and sparkling, learned as a difference from the Hugo Spritz.
+    - Old fashioned, learned as a difference from the Old Fashioned.
+  correct: 0
+  explanation: >-
+    Several rum and syrup ingredients with orgeat on crushed ice is the tiki pattern, and the Mai Tai is
+    the closest known drink. There is no fizzy lengthener, sparkling wine or bitters-and-sugar structure.
+- id: q3
+  question: >-
+    It is brunch. Four French 75s and two Bloody Marys are on one ticket. Which plan keeps quality and
+    speed?
+  options:
+    - Shake all six drinks hard, then top the French 75s quickly down the middle of the flute.
+    - Make the Bloody Marys first and let them stand while the French 75s are shaken and topped.
+    - Build the French 75s in the flutes over ice, then shake the Bloody Marys together in one tin.
+    - Stir or roll the Bloody Marys; shake the French 75 bases, then top with cold wine down the side.
+  correct: 3
+  explanation: >-
+    Tomato drinks are stirred or rolled so they do not froth and separate; French 75 bases are shaken,
+    then topped slowly with cold wine so the flutes do not foam over. Drinks should not stand waiting.
+- id: q4
+  question: >-
+    A guest orders a Pisco Sour and says they are vegan. What do you make?
+  options:
+    - The IBA spec with a fresh egg white, because the foam needs egg protein.
+    - The spec with aquafaba instead of egg white, telling the guest it contains chickpea.
+    - The spec without any foaming agent, served on ice to hide the missing foam.
+    - The spec with cream instead of egg white for a similar texture.
+  correct: 1
+  explanation: >-
+    Aquafaba replaces egg white 1:1 and foams the same way; the guest should know it is chickpea. Egg and
+    cream are animal products, and leaving the foam out changes the drink.
+- id: q5
+  question: >-
+    A guest with a fish allergy and a guest with a tree-nut allergy both want "something classic". Which
+    pair of choices is safe?
+  options:
+    - A Bloody Mary for the first guest and a Mai Tai for the second, with less of each allergen.
+    - A Bloody Mary with Worcestershire for the first guest and a Paloma for the second.
+    - A Paloma for the first guest and a Mai Tai with half the orgeat for the second.
+    - A Bloody Mary without Worcestershire for the first guest and a Daiquiri for the second.
+  correct: 3
+  explanation: >-
+    Classic Worcestershire lists anchovies, so it must go for the fish allergy, and orgeat is almond, so
+    the Mai Tai is out for the nut allergy. Reducing an allergen is never a safe fix.
+- id: q6
+  question: >-
+    The bar is out of Old Tom gin. A regular orders his usual Tom Collins. What is the honest, fast
+    answer?
+  options:
+    - Make it with London dry gin; if he asks, explain that the IBA calls that a John Collins.
+    - Refuse the order, because a Tom Collins cannot be made without Old Tom gin.
+    - Make a Gin Fizz instead without telling him, because it has the same ingredients.
+    - Make it with vodka, because Old Tom gin is closer to vodka than to London dry gin.
+  correct: 0
+  explanation: >-
+    London dry gin fills the same role, and most bars use it; the IBA note says Old Tom makes it a Tom
+    Collins, so be ready to explain. A fizz is a different serve, and vodka is a different drink.
+- id: q7
+  question: >-
+    A tourist asks for "a Martini, straight up". What is the best first response?
+  options:
+    - Serve gin at room temperature in a rocks glass, because straight up means neat.
+    - Serve an Espresso Martini, because it is the most ordered "Martini".
+    - Ask whether they mean chilled and strained or neat, and gin, vodka or espresso.
+    - Serve a vodka Martini on the rocks, because that is the international default.
+  correct: 2
+  explanation: >-
+    "Straight up" is used for both "up" (chilled, no ice) and "neat", and "Martini" covers several
+    drinks. One short question avoids a remade drink.
+- id: q8
+  question: >-
+    Preparing for an interview, you want to say something about arak. Which statement is supported by a
+    named source in the course?
+  options:
+    - Arak and grapefruit is the best-selling cocktail in Israeli bars.
+    - Montefiore (2019) describes arak served one part to two parts water, ice after the water.
+    - The IBA lists arak and grapefruit as an official Israeli cocktail.
+    - Israeli guests prefer arak to all other spirits, according to industry sales data.
+  correct: 1
+  explanation: >-
+    Montefiore's 2019 article describes the classic serve. No source ranks arak and grapefruit by sales,
+    the IBA has no such drink, and no sales data on spirit preferences was found.
+- id: q9
+  question: >-
+    A draft twelve-drink menu has eight shaken drinks, three of them with egg white, and six glass types.
+    What change improves it most?
+  options:
+    - Add two more egg-white sours, since foamed drinks look impressive.
+    - Keep the drinks and add a second shaker and more glassware to each station.
+    - Remove all shaken drinks and replace them with stirred ones.
+    - Swap some shaken sours for built or stirred drinks and use fewer glasses.
+  correct: 3
+  explanation: >-
+    Too many shaken and foamed drinks slow service, and many glass types add washing and storage. Swapping
+    some for other families balances style and speed; removing every shaken drink loses all the sours.
+- id: q10
+  question: >-
+    Your cocktail list includes a Boulevardier. A guest asks why it tastes stronger than the Negroni. What
+    explains it, using the IBA specs?
+  options:
+    - The Boulevardier is shaken, so it is less diluted than the stirred Negroni.
+    - The Boulevardier has 45 ml of whiskey against the Negroni's 30 ml of gin, with the same 30 ml modifiers.
+    - The Boulevardier uses dry vermouth, which has more alcohol than sweet vermouth.
+    - The Boulevardier has no Campari, so the spirit is more noticeable.
+  correct: 1
+  explanation: >-
+    The IBA Boulevardier is 45/30/30, the Negroni 30/30/30, so the Boulevardier has more base spirit. Both
+    use Campari and sweet vermouth, and the Boulevardier is stirred, not shaken.

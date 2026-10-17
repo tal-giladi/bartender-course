@@ -1,0 +1,355 @@
+# Module 06 recipes — IBA specs checked on iba-world.com 2026-10-17 (canonical URLs iba-world.com/iba-cocktail/<name>/).
+# Non-IBA drinks (Tom Collins via the IBA John Collins note, Gimlet, Hugo Spritz, arak serves) name their own source.
+# Variations are listed with their own source; they are not the default spec.
+# Ingredient amounts: ml as numbers; dashes, pieces, leaves, pinches and "to top" as amount strings.
+# Ids checked against curriculum/recipe-inbox/module-05.yaml: no clash.
+
+- id: white-lady
+  name: White Lady
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "none in the IBA spec (lemon twist common)"
+  ingredients:
+    - {item: gin, ml: 40}
+    - {item: triple sec, ml: 30}
+    - {item: fresh lemon juice, ml: 20}
+  source: {title: "IBA — White Lady", url: "https://iba-world.com/iba-cocktail/white-lady/"}
+  lesson: "06.2"
+  na_analogue: "alcohol-free gin alternative or juniper-lemon tea, 25 ml orange juice, 10 ml 1:1 syrup, 20 ml lemon, shaken"
+  variations:
+    - name: White Lady (Difford's Guide)
+      spec: "50 ml London dry gin, 22.5 ml triple sec, 22.5 ml lemon, 7.5 ml 2:1 syrup (optional), 15 ml pasteurised egg white, optional saline and orange flower water; shake, strain back, dry shake, fine strain, chilled coupe; lemon twist"
+      source: {title: "Difford's Guide — White Lady", url: "https://www.diffordsguide.com/cocktails/recipe/2091/white-lady"}
+
+- id: sidecar
+  name: Sidecar
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "none in the IBA spec (orange or lemon twist common)"
+  ingredients:
+    - {item: cognac, ml: 50}
+    - {item: triple sec, ml: 20}
+    - {item: fresh lemon juice, ml: 20}
+  source: {title: "IBA — Sidecar", url: "https://iba-world.com/iba-cocktail/sidecar/"}
+  lesson: "06.2"
+  na_analogue: "50 ml cold rooibos or black tea with a few drops of vanilla, 20 ml orange juice, 10 ml 1:1 syrup, 20 ml lemon, shaken"
+  variations:
+    - name: Sidecar (Difford's Guide)
+      spec: "45 ml cognac, 15 ml triple sec, 15 ml Pineau des Charentes, 15 ml lemon, 3 drops saline; shake, fine strain, chilled coupe; orange twist"
+      source: {title: "Difford's Guide — Sidecar (Difford's recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/1773/sidecar-cocktail-diffords-spec"}
+
+- id: pisco-sour
+  name: Pisco Sour
+  family: sour
+  method: shake
+  glass: goblet (chilled)
+  ice: none
+  garnish: "a few drops of Amargo bitters (or Angostura) on the foam"
+  ingredients:
+    - {item: pisco, ml: 60}
+    - {item: fresh lemon juice, ml: 30}
+    - {item: simple syrup 1:1, ml: 20}
+    - {item: "egg white (pasteurised) or aquafaba", amount: "1 white (about 30 ml)"}
+  source: {title: "IBA — Pisco Sour", url: "https://iba-world.com/iba-cocktail/pisco-sour/"}
+  lesson: "06.2"
+  na_analogue: "white grape juice cut 1:1 with water (60 ml), 25 ml lemon, 10 ml 1:1 syrup, 30 ml aquafaba, reverse dry shaken, cinnamon-tea drops on top"
+  notes: "IBA lists a raw egg white; the course uses pasteurised egg white or aquafaba and tells the guest."
+  variations:
+    - name: Pisco Sour (Difford's Guide)
+      spec: "60 ml pisco, 15 ml lime, 7.5 ml lemon, 15 ml 2:1 syrup, 20 ml pasteurised egg white, optional 2.5 ml orange blossom water and 3 drops saline; shake, strain back, dry shake, fine strain, chilled coupe; 3 drops Amargo Chuncho or Angostura"
+      source: {title: "Difford's Guide — Pisco Sour (Difford's recipe)", url: "https://www.diffordsguide.com/cocktails/recipe/1563/pisco-sour"}
+
+- id: french-75
+  name: French 75
+  family: spritz-sparkling
+  method: shake
+  glass: Champagne flute (chilled)
+  ice: none
+  garnish: "none in the IBA spec (lemon twist common)"
+  ingredients:
+    - {item: gin, ml: 30}
+    - {item: fresh lemon juice, ml: 15}
+    - {item: sugar syrup 1:1, ml: 15}
+    - {item: Champagne (brut), ml: 60}
+  source: {title: "IBA — French 75", url: "https://iba-world.com/iba-cocktail/french-75/"}
+  lesson: "06.3"
+  na_analogue: "alcohol-free gin alternative or juniper tea with 15 ml lemon and 15 ml syrup, shaken, topped with alcohol-free sparkling wine or dry sparkling grape juice"
+  notes: "Shake all but the Champagne, strain into the flute, top with Champagne, stir gently."
+  variations:
+    - name: French 75 (Difford's Guide)
+      spec: "45 ml London dry gin, 15 ml lemon, 1.5 bar spoons powdered sugar (or about 7.5 ml 2:1 syrup), 75 ml brut sparkling wine; dissolve sugar in lemon, add gin, shake, fine strain into a chilled flute, top; lemon twist"
+      source: {title: "Difford's Guide — French 75", url: "https://www.diffordsguide.com/cocktails/recipe/790/french-75"}
+
+- id: tom-collins
+  name: Tom Collins
+  family: collins-fizz
+  method: build
+  glass: highball (Collins) glass
+  ice: collins-cubes
+  garnish: "lemon slice and maraschino cherry"
+  ingredients:
+    - {item: Old Tom gin, ml: 45}
+    - {item: fresh lemon juice, ml: 30}
+    - {item: simple syrup 1:1, ml: 15}
+    - {item: soda water, ml: 60}
+  source: {title: "IBA — John Collins (note: use Old Tom gin for Tom Collins)", url: "https://iba-world.com/iba-cocktail/john-collins/"}
+  lesson: "06.3"
+  na_analogue: "alcohol-free gin alternative (or juniper or rosemary tea), 30 ml lemon, 15 ml syrup, built over ice, 60 ml soda"
+  notes: "No IBA Tom Collins page exists; the IBA John Collins with London dry gin is the same spec."
+  variations:
+    - name: Tom Collins (Difford's Guide)
+      spec: "52.5 ml Old Tom gin, 22.5 ml lemon, 15 ml 2:1 syrup, 52.5 ml soda; shake first three, strain into an ice-filled Collins glass, top with soda, stir briefly; orange wheel and cherry"
+      source: {title: "Difford's Guide — Tom Collins", url: "https://www.diffordsguide.com/cocktails/recipe/1972/tom-collins"}
+
+- id: paloma
+  name: Paloma
+  family: highball
+  method: build
+  glass: highball glass
+  ice: cubes
+  garnish: "lime slice"
+  ingredients:
+    - {item: tequila (100% agave), ml: 50}
+    - {item: fresh lime juice, ml: 5}
+    - {item: salt, amount: a pinch}
+    - {item: pink grapefruit soda, ml: 100}
+  source: {title: "IBA — Paloma", url: "https://iba-world.com/iba-cocktail/paloma/"}
+  lesson: "06.3"
+  na_analogue: "fresh grapefruit juice and lime with a pinch of salt, topped with grapefruit soda or soda water"
+  variations:
+    - name: Paloma (Difford's Guide)
+      spec: "50 ml blanco tequila, 25 ml pink grapefruit juice, 12.5 ml lime, 7.5 ml agave syrup; shake, strain into an ice-filled Collins glass, top with 50 ml pink grapefruit soda; optional salt rim; grapefruit wedge"
+      source: {title: "Difford's Guide — Paloma", url: "https://www.diffordsguide.com/cocktails/recipe/1456/paloma"}
+
+- id: bloody-mary
+  name: Bloody Mary
+  family: savory
+  method: stir
+  glass: rocks glass (highball with ice if requested)
+  ice: none
+  garnish: "celery stick, lemon wedge (optional)"
+  ingredients:
+    - {item: vodka, ml: 45}
+    - {item: tomato juice, ml: 90}
+    - {item: fresh lemon juice, ml: 15}
+    - {item: Worcestershire sauce, amount: 2 dashes}
+    - {item: "Tabasco, celery salt, black pepper", amount: to taste}
+  source: {title: "IBA — Bloody Mary", url: "https://iba-world.com/iba-cocktail/bloody-mary/"}
+  lesson: "06.4"
+  na_analogue: "Virgin Mary: 120 ml tomato juice, 15 ml lemon, same seasoning, stirred or rolled"
+  notes: "Stir gently in a mixing glass with ice and pour into a rocks glass; highball with ice on request. Allergens: Worcestershire lists anchovies (fish) and barley; celery salt contains celery."
+  variations:
+    - name: Bloody Mary (Difford's Guide)
+      spec: "60 ml vodka, 120 ml tomato juice, 15 ml lemon, 8 drops hot pepper sauce, 4 dashes Worcestershire, 2 grinds black pepper, a pinch of celery salt; roll with ice, strain into an ice-filled Collins glass with a salt rim; celery stick and skewered cherry tomato, gherkin and cocktail onion"
+      source: {title: "Difford's Guide — Bloody Mary", url: "https://www.diffordsguide.com/cocktails/recipe/251/bloody-mary"}
+
+- id: mai-tai
+  name: Mai Tai
+  family: tiki-punch
+  method: shake
+  glass: double rocks glass or highball
+  ice: cubes
+  garnish: "pineapple spear, mint leaves and lime peel"
+  ingredients:
+    - {item: amber Jamaican rum, ml: 30}
+    - {item: Martinique molasses rum, ml: 30}
+    - {item: orange curaçao, ml: 15}
+    - {item: orgeat (almond) syrup, ml: 15}
+    - {item: fresh lime juice, ml: 30}
+    - {item: simple syrup 1:1, ml: 7.5}
+  source: {title: "IBA — Mai Tai", url: "https://iba-world.com/iba-cocktail/mai-tai/"}
+  lesson: "06.4"
+  na_analogue: "30 ml lime, 15 ml orgeat, 30 ml pineapple juice, 30 ml orange juice, 30 ml cold black tea, shaken, crushed ice, mint and pineapple (contains almond)"
+  notes: "IBA: shake and pour into a double rocks or highball glass. Allergen: orgeat contains almonds (tree nuts). No flaming garnishes."
+  variations:
+    - name: Mai Tai, Trader Vic's (Difford's Guide)
+      spec: "60 ml aged rum, 15 ml dry curaçao, 22.5 ml lime, 10 ml 2:1 orgeat, 7.5 ml 2:1 syrup, optional 5 ml dark rum float; shake, strain into a double old-fashioned glass filled with crushed ice; lime shell, mint sprigs, pineapple and cherry"
+      source: {title: "Difford's Guide — Mai Tai (Trader Vic's)", url: "https://www.diffordsguide.com/cocktails/recipe/1219/mai-tai"}
+
+- id: gimlet
+  name: Gimlet
+  family: sour
+  method: shake
+  glass: coupe (chilled)
+  ice: none
+  garnish: "lime zest twist expressed and discarded; lime wedge"
+  ingredients:
+    - {item: London dry gin, ml: 50}
+    - {item: lime cordial, ml: 20}
+    - {item: oude genever, ml: 10}
+    - {item: fresh lime juice, ml: 5}
+    - {item: fresh lemon juice, ml: 5}
+    - {item: rich sugar syrup 2:1, ml: 5}
+  source: {title: "Difford's Guide — Gimlet (Difford's recipe) [not an IBA drink]", url: "https://www.diffordsguide.com/cocktails/recipe/831/gimlet-diffords-recipe"}
+  lesson: "06.5"
+  na_analogue: "lime cordial with cold water and fresh lime, shaken, optional juniper or rosemary note"
+  variations:
+    - name: Gimlet, classic equal parts (Difford's Guide)
+      spec: "equal parts gin and lime cordial, stirred in the serving glass, ice optional"
+      source: {title: "Difford's Guide — Gimlet (Difford's recipe), review notes", url: "https://www.diffordsguide.com/cocktails/recipe/831/gimlet-diffords-recipe"}
+
+- id: caipirinha
+  name: Caipirinha
+  family: sour
+  method: build
+  glass: double old fashioned glass
+  ice: crushed
+  garnish: "none in the IBA spec"
+  ingredients:
+    - {item: cachaça, ml: 60}
+    - {item: "lime, cut into small wedges", amount: 1 lime}
+    - {item: white cane sugar, amount: 4 teaspoons}
+  source: {title: "IBA — Caipirinha", url: "https://iba-world.com/iba-cocktail/caipirinha/"}
+  lesson: "06.5"
+  na_analogue: "1 lime muddled with 4 tsp sugar, crushed ice, topped with soda water"
+  notes: "Muddle lime and sugar gently in the glass, fill with cracked ice, add cachaça, stir gently."
+  variations:
+    - name: Caipiroska / Caipirissima / Caipirão (IBA note)
+      spec: "same build with vodka (Caipiroska), rum (Caipirissima) or Licor Beirão (Caipirão) instead of cachaça"
+      source: {title: "IBA — Caipirinha", url: "https://iba-world.com/iba-cocktail/caipirinha/"}
+
+- id: cuba-libre
+  name: Cuba Libre
+  family: highball
+  method: build
+  glass: highball glass
+  ice: cubes
+  garnish: "lime wedge"
+  ingredients:
+    - {item: white rum, ml: 50}
+    - {item: cola, ml: 120}
+    - {item: fresh lime juice, ml: 10}
+  source: {title: "IBA — Cuba Libre", url: "https://iba-world.com/iba-cocktail/cuba-libre/"}
+  lesson: "06.5"
+  na_analogue: "cola with 10-15 ml fresh lime and a dash of vanilla, over ice"
+
+- id: penicillin
+  name: Penicillin
+  family: sour
+  method: shake
+  glass: old fashioned glass (chilled)
+  ice: cubes
+  garnish: "candied ginger"
+  ingredients:
+    - {item: blended Scotch whisky, ml: 60}
+    - {item: fresh lemon juice, ml: 22.5}
+    - {item: honey syrup, ml: 22.5}
+    - {item: fresh ginger, amount: 2-3 quarter-size slices}
+    - {item: "Islay single malt (Lagavulin 16), floated", ml: 7.5}
+  source: {title: "IBA — Penicillin", url: "https://iba-world.com/iba-cocktail/penicillin/"}
+  lesson: "06.5"
+  na_analogue: "muddled ginger, 60 ml cold black tea, 22.5 ml lemon, 22.5 ml honey syrup, shaken, fine strained over ice, float of smoked (lapsang souchong) tea"
+  notes: "Muddle ginger in the shaker, add all but the Islay malt, shake, fine strain over ice, float the malt."
+  variations:
+    - name: Penicillin (Difford's Guide, 2009 version)
+      spec: "45 ml blended Scotch, 15 ml ginger liqueur, 10 ml peated single malt, 20 ml lemon, 20 ml honey syrup (3:1 by weight); shake, strain over ice (large cube); crystallised ginger"
+      source: {title: "Difford's Guide — Penicillin", url: "https://www.diffordsguide.com/cocktails/recipe/2539/penicillin"}
+
+- id: paper-plane
+  name: Paper Plane
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "none in the IBA spec (lemon twist or small paper plane common)"
+  ingredients:
+    - {item: bourbon whiskey, ml: 30}
+    - {item: Amaro Nonino, ml: 30}
+    - {item: Aperol, ml: 30}
+    - {item: fresh lemon juice, ml: 30}
+  source: {title: "IBA — Paper Plane", url: "https://iba-world.com/iba-cocktail/paper-plane/"}
+  lesson: "06.5"
+  na_analogue: "30 ml alcohol-free bitter aperitif, 30 ml orange juice, 30 ml cold black tea, 20 ml lemon, shaken"
+  variations:
+    - name: Paper Plane (Difford's Guide)
+      spec: "22.5 ml each bourbon, Amaro Nonino, Aperol-style aperitivo, lemon; shake, fine strain, chilled coupe; paper plane and/or lemon twist"
+      source: {title: "Difford's Guide — Paper Plane", url: "https://www.diffordsguide.com/cocktails/recipe/3630/paper-plane"}
+
+- id: gin-basil-smash
+  name: Gin Basil Smash
+  family: sour
+  method: shake
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "none in the IBA spec (basil sprig common)"
+  ingredients:
+    - {item: gin, ml: 60}
+    - {item: fresh lemon juice, ml: 22.5}
+    - {item: sugar syrup 1:1, ml: 22.5}
+    - {item: basil leaves, amount: 10 leaves}
+  source: {title: "IBA — Gin Basil Smash", url: "https://iba-world.com/iba-cocktail/gin-basil-smash/"}
+  lesson: "06.5"
+  na_analogue: "60 ml cold water, 22.5 ml lemon, 22.5 ml syrup, 10 basil leaves, shaken hard, fine strained, topped with soda"
+  notes: "IBA: shake vigorously and pour into a chilled cocktail glass; course recommends a fine strain."
+  variations:
+    - name: Gin Basil Smash (Difford's Guide)
+      spec: "12 basil leaves (sprigs) muddled, 60 ml gin, 22.5 ml lemon, 10 ml 2:1 syrup; shake, fine strain into a chilled old fashioned glass; basil sprig bouquet"
+      source: {title: "Difford's Guide — Gin Basil Smash", url: "https://www.diffordsguide.com/cocktails/recipe/3282/gin-basil-smash"}
+
+- id: boulevardier
+  name: Boulevardier
+  family: martini-manhattan
+  method: stir
+  glass: cocktail glass (chilled)
+  ice: none
+  garnish: "orange zest (optionally lemon zest)"
+  ingredients:
+    - {item: bourbon or rye whiskey, ml: 45}
+    - {item: Campari, ml: 30}
+    - {item: sweet red vermouth, ml: 30}
+  source: {title: "IBA — Boulevardier", url: "https://iba-world.com/iba-cocktail/boulevardier/"}
+  lesson: "06.5"
+  na_analogue: null
+  variations:
+    - name: Boulevardier (Difford's Guide)
+      spec: "45 ml bourbon, 22.5 ml sweet vermouth, 22.5 ml red bitter; stir, strain over a large cube in an old fashioned glass; orange twist"
+      source: {title: "Difford's Guide — Boulevardier", url: "https://www.diffordsguide.com/cocktails/recipe/2955/boulevardier"}
+
+- id: hugo-spritz
+  name: Hugo Spritz
+  family: spritz-sparkling
+  method: build
+  glass: wine glass (chilled)
+  ice: cubes
+  garnish: "lime wedge and mint sprigs"
+  ingredients:
+    - {item: fresh mint leaves, amount: 8 leaves}
+    - {item: elderflower liqueur, ml: 40}
+    - {item: soda water (chilled), ml: 60}
+    - {item: Prosecco (chilled), ml: 60}
+  source: {title: "Difford's Guide — Hugo Spritz [not an IBA drink]", url: "https://www.diffordsguide.com/cocktails/recipe/5039/hugo-spritz"}
+  lesson: "06.5"
+  na_analogue: "elderflower cordial (about 20 ml), soda and alcohol-free sparkling wine with mint and lime, over ice"
+
+- id: arak-with-water
+  name: Arak with water
+  family: other
+  method: build
+  glass: small narrow glass
+  ice: cubes
+  garnish: "mint sprig (optional)"
+  ingredients:
+    - {item: arak, ml: 30}
+    - {item: cold water, ml: 60}
+  source: {title: "Adam Montefiore — Arak success story (2019) [not an IBA drink]", url: "https://adammontefiore.com/arak-success-story"}
+  lesson: "06.7"
+  na_analogue: "cold fennel or anise-seed tea over ice with mint"
+  notes: "Ratio 1:2 arak to water from the source (up to 1:5 for a longer drink); ice added after the water. The 30 ml pour is the course example (professional judgment)."
+
+- id: arak-grapefruit
+  name: Arak and grapefruit
+  family: highball
+  method: build
+  glass: "chilled glass (Saveur names a cocktail glass; highball common)"
+  ice: cubes
+  garnish: "basil leaf"
+  ingredients:
+    - {item: arak, ml: 60}
+    - {item: fresh grapefruit juice (chilled), ml: 120}
+  source: {title: "Saveur — Arak and Grapefruit [not an IBA drink]", url: "https://www.saveur.com/article/Recipes/Arak-and-Grapefruit/"}
+  lesson: "06.7"
+  na_analogue: "grapefruit juice with a splash of soda, a pinch of salt and mint or basil, over ice"
