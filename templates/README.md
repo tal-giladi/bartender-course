@@ -11,5 +11,6 @@ Copy a template into your own notes (a notebook, a document or a spreadsheet) an
 | [Recipe card](recipe-card.md) | Writing a spec you can learn from | Module 5 |
 | [Technique rubric](technique-rubric.md) | Scoring your filmed technique | Lessons 04.8 and 11.3 |
 | [Inventory count](inventory-count.md) | Stock counts, par levels and variance | Modules 8 and 10 |
+| [Waste log](waste-log.md) | Recording every ml not sold | Lesson 08.4 |
 | [Service debrief](service-debrief.md) | After a service simulation run | Lessons 08.8 and 11.4 |
 | [Performance report](performance-report.md) | Your final assessment results | Lesson 11.7 |

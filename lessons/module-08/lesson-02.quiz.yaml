@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Tonight's forecast is 30 Margaritas (15 ml lime each) and 20 Mojitos (20 ml lime each). There is no
+    lime juice in the fridge. With a 10% buffer, how much lime juice do you prep?
+  options:
+    - 850 ml, exactly what the forecast needs.
+    - 935 ml, which you round up to about 950 ml.
+    - 1,050 ml, adding 10% to each drink and then 10% again.
+    - 765 ml, because the buffer is taken off, not added.
+  correct: 1
+  explanation: >-
+    30 × 15 + 20 × 20 = 850 ml; plus 10% is 935 ml, rounded up to an amount you can measure. The buffer
+    is added once, to the total.
+- id: q2
+  question: >-
+    At 20:30 on a hot evening a tray of cut lime wheels has been on the bar top, uncovered and not on ice,
+    since 18:00. What does the lesson's guidance say?
+  options:
+    - It is fine until close, because citrus is acidic and cannot spoil.
+    - Rinse the wheels under cold water and put them back on the tray.
+    - It has been out of the cold for over 2 hours; discard it and cut a fresh, covered tray.
+    - Move it into the fridge now and use it again tomorrow.
+  correct: 2
+  explanation: >-
+    The CDC says cut fruit goes back into the fridge within 2 hours, or 1 hour above 32 °C. Two and a half
+    hours on a warm bar is past that, so the wheels are discarded, not saved.
+- id: q3
+  question: >-
+    A colleague says "1:1 syrup keeps a month, it's the law". What is the most accurate reply?
+  options:
+    - It is not law; about 1–2 weeks is judgment, and the venue's policy decides.
+    - Right, the U.S. Food Code sets one month for all syrups made in bars.
+    - Wrong, Israeli law says bar syrups must be thrown away after 24 hours.
+    - Right, as long as the syrup was made with boiled water and sealed.
+  correct: 0
+  explanation: >-
+    No official shelf life for bar syrups was found; the course's 1–2 weeks is professional judgment and
+    the venue's written policy decides. Spoilage signs mean discard at any age.
+- id: q4
+  question: >-
+    You have half a bottle of lime juice made at 17:00 and fresh juice pressed at 21:00. The station bottle
+    is nearly empty. What do you do?
+  options:
+    - Pour the new juice on top of the old in the station bottle to save a bottle.
+    - Use the new juice first because it tastes better, and the old juice after.
+    - Mix both into one clean bottle labelled with the 21:00 time.
+    - Use the 17:00 juice first, then switch to the 21:00 bottle, each with its own label.
+  correct: 3
+  explanation: >-
+    First in, first out: the older prep is used first and each batch keeps its own label. Mixing them
+    hides the age, and a combined container takes the older date anyway.

@@ -1,0 +1,132 @@
+- id: q1
+  question: >-
+    You open at 17:00. The handover note says "lime juice made 22:00 last night, in fridge". The fridge
+    reads 3 °C. Service starts at 18:00 and the forecast needs 1 litre of lime juice. What do you do?
+  options:
+    - Use last night's juice first and press only the difference, since the fridge was cold.
+    - Discard last night's juice as the course's practice says, and press fresh juice for tonight.
+    - Mix last night's juice into the new juice so nothing is wasted, and label it with today's time.
+    - Keep last night's juice for staff drinks and press a full litre for guests.
+  correct: 1
+  explanation: >-
+    In this course fresh juice is used within the shift and discarded at close; last night's juice
+    should not have been kept. Mixing old into new hides its age, and a combined container takes the
+    older date.
+- id: q2
+  question: >-
+    A wedding wants 40 Manhattans served from bottles into chilled coupes with no stirring. Planned
+    dilution 40%. One Manhattan is 70.8 ml of ingredients. Roughly how much is one serving, and where is
+    the batch kept if it ends up about 24% ABV?
+  options:
+    - About 71 ml; in a −18 °C freezer, because it contains whisky.
+    - About 85 ml; in a −18 °C freezer, because colder is always better.
+    - About 99 ml; in the fridge, because at about 24% it would slush in a −18 °C freezer.
+    - About 99 ml; at room temperature, because the alcohol keeps it safe.
+  correct: 2
+  explanation: >-
+    70.8 × 1.4 ≈ 99 ml per serving. At about 24% ABV the mix freezes around −11 °C, so a −18 °C freezer
+    would turn it to slush. 71 ml forgets the water and 85 ml uses 20%.
+- id: q3
+  question: >-
+    Event Daiquiris will be shaken to order. A colleague proposes batching rum, lime, syrup and 40% water
+    the day before. What do you change?
+  options:
+    - Nothing; 40% water is the standard planned dilution for every batch.
+    - Add egg white to the batch so every serving foams.
+    - Make it 20% water instead, because shaken drinks dilute less.
+    - Leave the water out, batch rum and syrup ahead, and add the lime on the day.
+  correct: 3
+  explanation: >-
+    Drinks shaken on ice get their water from the ice, so batch water would dilute them twice. Rum and
+    syrup keep; lime is added within hours of service. Egg white is shaken to order, never batched.
+- id: q4
+  question: >-
+    The weekly count shows white rum used 2,590 ml, POS sales 2,380 ml, and a logged 60 ml remake. The
+    bar's tolerance is 3%. What is your conclusion?
+  options:
+    - About 150 ml (6.3%) is unexplained, so recount, then check pours and the POS.
+    - The variance is 210 ml, which proves someone is stealing rum.
+    - The variance is explained by the remake, so nothing needs checking.
+    - The variance is negative, so the bar is under-pouring rum.
+  correct: 0
+  explanation: >-
+    Variance = 2,590 − 2,380 = 210 ml; minus the logged 60 ml leaves 150 ml, about 6.3% of sales, outside
+    tolerance. Start with a recount, then pours and POS buttons; variance is a question, not proof of theft.
+- id: q5
+  question: >-
+    Par for gin is 6 bottles. The count finds 1.9 bottles. A gin promotion next week is expected to use 2
+    extra bottles. How many do you order?
+  options:
+    - 6, because you order the par level.
+    - 8, which is par plus the promotion's two bottles.
+    - 7, which is par minus on hand rounded up, plus the extra two.
+    - 4, which is par minus on hand, rounded down.
+  correct: 2
+  explanation: >-
+    Par − on hand = 6 − 1.9 = 4.1, rounded up to 5; known extras are added on top, giving 7. Ordering the
+    full par overstocks; rounding down leaves you short.
+- id: q6
+  question: >-
+    Three tickets are waiting: T1 (oldest) four Espresso Martinis, T2 one glass of wine, T3 two Negronis.
+    T2 has not been skipped before. In what order do you make them?
+  options:
+    - T1, T2, T3, strictly as printed.
+    - T2, T1, T3, taking the wine as a quick win.
+    - T3, T2, T1, shortest work first all the way.
+    - T2, T3, T1, both shorter tickets first.
+  correct: 1
+  explanation: >-
+    The wine takes about 11 seconds and barely delays T1, so it is a fair quick win. After that the oldest
+    ticket goes first; skipping T1 a second time for T3 would be unfair and risks starving the long ticket.
+- id: q7
+  question: >-
+    One ticket: a Dry Martini (stirred), a Margarita (shaken) and an Aperol Spritz (built, sparkling).
+    Which plan finishes all three together and keeps every drink correct?
+  options:
+    - Build the spritz first, then stir the Martini, then shake.
+    - Shake the Margarita first, then build the spritz, then stir.
+    - Ice all three vessels first, then pour all ingredients in passes.
+    - Pour everything without ice, stir the Martini, shake, then build the spritz.
+  correct: 3
+  explanation: >-
+    Ingredients wait, ice does not: pour first, start the slowest ice step (stirring), then shake, then
+    build the sparkling drink just before serving. Icing everything first lets the early drinks die.
+- id: q8
+  question: >-
+    The soda gun gives flat, warm soda at opening and the nozzle has a dark ring of dried syrup. What is
+    the right response?
+  options:
+    - Take it out of use, clean the nozzle and holster, and report the flat soda to the shift manager.
+    - Use bottled soda for highballs and leave the gun for the weekly deep clean.
+    - Keep using it; guests rarely notice flat soda in mixed drinks.
+    - Open the carbonator and adjust the gas pressure yourself.
+  correct: 0
+  explanation: >-
+    Nozzles are cleaned daily, and flat or warm soda is a fault (empty CO2, syrup box or carbonator) for the
+    manager or a technician. Opening equipment yourself is not your job on a first shift.
+- id: q9
+  question: >-
+    A colleague goes to the cellar to change a CO2 cylinder. Five minutes later the gas alarm sounds and
+    they have not come out. What do you do?
+  options:
+    - Go in fast with a wet cloth over your mouth and pull them out.
+    - Open the cellar door, wait two minutes for the gas to clear, then go in.
+    - Keep everyone out, raise the alarm and call emergency services.
+    - Switch the alarm off so it does not panic guests, then check the cylinder.
+  correct: 2
+  explanation: >-
+    CO2 is invisible, odourless and collects in low rooms; a rescuer can collapse too. Only trained,
+    protected emergency personnel go in. A cloth does not filter CO2, and opening a door does not clear it.
+- id: q10
+  question: >-
+    A server calls "three Mojitos, one virgin, table 6" across the loud bar. Two minutes later the Aperol
+    runs out and there is no backup. Which pair of actions is right?
+  options:
+    - Say "heard" for the Mojitos; tell guests at the bar that Aperol is finished.
+    - Repeat back the Mojito order and wait for a yes; tell the manager so servers, board and POS show the 86.
+    - Make three regular Mojitos to save time; switch Aperol Spritz to Campari without telling anyone.
+    - Ask the server to write the order down; wait until a guest orders a spritz before saying anything.
+  correct: 1
+  explanation: >-
+    A check-back catches the virgin modifier before anything is poured, and an 86 has to reach everyone who
+    sells the drink. Quiet substitutions and late announcements create remakes and unhappy guests.

@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    A ticket for five cocktails (about 2 minutes of work) arrived first; a ticket for one bottle of beer
+    (about 10 seconds) arrived just after. Neither has been skipped. Which order lowers the average ticket
+    time without being unfair?
+  options:
+    - Five cocktails first, because printed order is always followed.
+    - Beer first, then the cocktails; the cocktails wait only about 10 seconds longer.
+    - Start the cocktails, stop halfway for the beer, then finish the cocktails.
+    - Ask a server to pour the beer and leave the bar guest waiting.
+  correct: 1
+  explanation: >-
+    A quick ticket of about 30 seconds or less may go first once: the beer guest waits seconds instead of
+    minutes and the cocktails are delayed only 10 seconds. Stopping halfway risks dead drinks.
+- id: q2
+  question: >-
+    One ticket: a Manhattan (stirred), a Daiquiri (shaken) and a Tom Collins (built, topped with soda).
+    Which order of ice steps lets all three finish together?
+  options:
+    - Collins first, then Daiquiri, then Manhattan.
+    - Daiquiri first, then Manhattan, then Collins.
+    - Manhattan first, then Daiquiri, then the Collins with the soda last.
+    - All three at once, by putting ice in every vessel at the start.
+  correct: 2
+  explanation: >-
+    Stirring takes longest, shaking is quick and the built drink with soda must be topped just before
+    serving. Ice everywhere at the start means the first drinks melt and go flat while you work.
+- id: q3
+  question: >-
+    In the service simulation you finish a Moscow Mule, then spend 35 seconds shaking and straining the
+    other drink on the ticket before serving. What happens to the Mule?
+  options:
+    - Nothing; built drinks on ice can wait as long as needed.
+    - It loses a few points of accuracy but still counts as correct.
+    - It is binned automatically and added to your waste.
+    - It counts as dead, so it is an incorrect drink when served.
+  correct: 3
+  explanation: >-
+    A finished drink that waits more than 30 seconds before serve is dead in the simulation, because in a
+    real bar it would be watery and flat. Start the shaken drink first and top the Mule last.
+- id: q4
+  question: >-
+    With the simulation's times, four Daiquiris take 119 seconds drink by drink. What mainly brings them
+    down to 77 seconds as a round?
+  options:
+    - Pouring each bottle across all four tins and shaking two tins at a time.
+    - Skipping the strain step and pouring straight from the tin.
+    - Using a bigger jigger so each drink needs fewer pours.
+    - Serving each drink as soon as it is strained.
+  correct: 0
+  explanation: >-
+    Each next pour from a bottle already in your hand costs 2 seconds instead of 4, and two shakes replace
+    four. Skipping steps or changing the measure would make the drinks incorrect.

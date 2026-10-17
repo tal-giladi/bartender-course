@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    A server calls across the noisy bar: "Two Margaritas, one no salt, table 9." What do you say back?
+  options:
+    - Say "Heard!" and start making two Margaritas straight away.
+    - Say "Two Margaritas, one no salt, table 9" and wait for a yes.
+    - Ask "Which table?" because the table is the part most often missed.
+    - Nothing; you nod so the server can move on quickly.
+  correct: 1
+  explanation: >-
+    A check-back repeats the number, drink, every modifier and the destination, and waits for "yes". A
+    plain "heard" confirms only what you think you heard.
+- id: q2
+  question: >-
+    You are carrying a hot rack of glasses from the glasswasher and need to pass behind a colleague who is
+    pouring. What do you call?
+  options:
+    - Call "Coming through!" once you are already behind them.
+    - Call "Glass!" so they know you are carrying glasses.
+    - Call "Hot behind!" before you reach them.
+    - Say "Excuse me" quietly, so guests are not disturbed.
+  correct: 2
+  explanation: >-
+    "Hot behind" tells them both where you are and what you carry, before they can turn into you. "Glass!"
+    means something has broken and everyone stops using the ice.
+- id: q3
+  question: >-
+    The house prosecco runs out at 22:00 and there is none in the storeroom. You tell the shift manager.
+    What else must happen?
+  options:
+    - Nothing more; the manager will remember if a server asks.
+    - Make spritzes with soda water only until someone notices.
+    - Tell only the guests at the bar, since servers can check with you.
+    - Every server is told, the 86 board is updated and the POS item is switched off.
+  correct: 3
+  explanation: >-
+    An 86 has to reach everyone who sells the drink, or guests order and wait for something that does not
+    exist. Quietly changing a spec is never an option.
+- id: q4
+  question: >-
+    Which barback request is the most useful at 21:00 on a busy night?
+  options:
+    - Ask Yossi for one bottle of lime juice and a rack of highballs at station 2.
+    - Call out that station 2 needs stuff soon and someone should sort it.
+    - Shout "Limes, now!" when the last drop of juice is gone.
+    - Ask for everything at station 2 that looks low, whenever there is time.
+  correct: 0
+  explanation: >-
+    A good request names the person, the item, the amount and the place, and is made before you run out.
+    It can then be checked back and done in one trip.

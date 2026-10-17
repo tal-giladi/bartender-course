@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Gin this week: opening 2.0 bottles, received 4, closing 1.5 (700 ml bottles). The POS shows 3,080 ml
+    sold. What is the variance?
+  options:
+    - +70 ml, about 2.3% of sales.
+    - −70 ml, about −2.2% of sales.
+    - +420 ml, about 13.6% of sales.
+    - +3,150 ml, the whole week's usage.
+  correct: 0
+  explanation: >-
+    Used = 2.0 + 4 − 1.5 = 4.5 bottles = 3,150 ml. Variance = 3,150 − 3,080 = +70 ml, and 70 ÷ 3,080 ≈ 2.3%.
+    More left the bottles than the till says was sold.
+- id: q2
+  question: >-
+    Par for tonic is 24 bottles. The count finds 9. How many do you order?
+  options:
+    - 24, because you always order the par level.
+    - 33, par plus what is on hand.
+    - 15, par minus what is on hand.
+    - 9, to replace what was used.
+  correct: 2
+  explanation: >-
+    You order up to par: 24 − 9 = 15. Ordering the full par overstocks the bar, and on-hand stock is
+    subtracted, not added.
+- id: q3
+  question: >-
+    In the middle of service you drop a full Daiquiri while carrying it to the pass. What do you do about
+    the stock records?
+  options:
+    - Nothing, because one drink is too small to matter in a weekly count.
+    - Write it in the waste log with the amount, reason, time and initials.
+    - Ring it in on the POS as sold so the count matches.
+    - Tell a colleague and let them decide whether to record it.
+  correct: 1
+  explanation: >-
+    The waste log turns that 60 ml of rum into explained variance. Ringing it in as sold falsifies sales,
+    and unlogged spills add up to variance nobody can explain.
+- id: q4
+  question: >-
+    You check levels during a reset and see the lime juice bottle has about two drinks left. Tickets keep
+    coming. What is the best move?
+  options:
+    - Keep going and squeeze more when it is empty, so no juice is wasted.
+    - Mark lime drinks as 86'd now so you are never caught out.
+    - Switch to bottled lime cordial for the rest of the night without telling anyone.
+    - Ask the barback for fresh juice now, while you still have enough for the next drinks.
+  correct: 3
+  explanation: >-
+    Asking early costs seconds and the juice arrives before you run dry. Waiting stops service for
+    minutes, 86ing a drink you can restock loses sales, and changing a spec quietly is never acceptable.

@@ -1,0 +1,9 @@
+item,bottle_ml,par_bottles,opening_count_bottles,received_bottles,closing_count_bottles,sold_per_pos_ml,logged_waste_ml,waste_reason
+Vodka,700,7,1.2,6,2.6,3150,45,Moscow Mule spilled at the pass
+Gin,700,6,2.0,4,1.9,2800,0,
+White rum,700,5,1.5,3,0.8,2380,60,Daiquiri remade (wrong drink made)
+Tequila,700,4,2.3,2,1.6,1900,0,
+Aperol,700,4,0.6,4,1.4,2160,60,Aperol Spritz sent back (flat)
+Campari,700,2,1.1,1,1.3,600,0,
+Sweet vermouth,750,3,1.0,2,1.8,840,75,old bottle discarded (opened 8 weeks)
+Coffee liqueur,700,2,0.9,1,0.9,660,0,

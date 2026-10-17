@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You batch 20 Whiskey Sours for an event and each serving will be shaken on ice to order. How much
+    water goes into the batch?
+  options:
+    - About 40% of the batch volume, as for any fridge batch.
+    - About 20–25%, because shaken drinks dilute less than stirred ones.
+    - None, because the ice in the shaker adds the water at service.
+    - About 50%, the amount Dave Arnold measured for shaken sours.
+  correct: 2
+  explanation: >-
+    A pre-mix that is shaken or stirred to order gets its water from the ice. Adding water to the batch
+    as well gives every drink water twice.
+- id: q2
+  question: >-
+    A pre-diluted Manhattan batch for 10 has 708 ml of ingredients and 40% planned dilution. How much is
+    one serving?
+  options:
+    - About 71 ml.
+    - About 85 ml.
+    - About 113 ml.
+    - About 99 ml.
+  correct: 3
+  explanation: >-
+    Water = 708 × 0.40 = 283 ml; total 991 ml; 991 ÷ 10 ≈ 99 ml. 71 ml forgets the water, 85 ml uses 20%,
+    and 113 ml uses 60%.
+- id: q3
+  question: >-
+    A pre-diluted batch works out at 24% ABV. Ethanol and water freeze at about −9 °C at 20% and −15 °C at
+    30%. Where do you keep it?
+  options:
+    - In the fridge, because a −18 °C freezer would turn it to slush.
+    - In a −18 °C freezer, because anything with alcohol stays liquid.
+    - At room temperature, because the alcohol keeps it safe and cold drinks taste weaker.
+    - In a −18 °C freezer, but only in plastic bottles that cannot crack.
+  correct: 0
+  explanation: >-
+    At 24% the batch freezes around −11 °C, warmer than a home freezer, so it would slush or freeze. Keep
+    it in the fridge, or in a freezer set warmer than its freezing point.
+- id: q4
+  question: >-
+    Which item belongs in a French 75 batch made two hours before a brunch?
+  options:
+    - The Champagne, so each serving is one quick pour.
+    - The gin and the syrup, with the lemon added on the day.
+    - The egg white, so the drink foams when poured.
+    - Ice, so the batch is already cold when it reaches the bar.
+  correct: 1
+  explanation: >-
+    Gin and syrup keep, and lemon added the same day is fine. Sparkling wine goes in each glass at service
+    or it goes flat, the French 75 has no egg, and ice in a batch just melts.

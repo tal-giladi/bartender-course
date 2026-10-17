@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You open at 17:00 and the prep fridge reads 9 °C. Inside are yesterday's labelled lime juice and a
+    tub of cut orange wheels. What do you do first?
+  options:
+    - Turn the dial colder and carry on with setup; it will be cold again by 18:00.
+    - Log the reading, tell the shift manager and move the prep to a working fridge for their decision.
+    - Use the juice tonight because it is labelled, but throw away the orange wheels.
+    - Leave the prep where it is and write the reading in the handover note for tomorrow.
+  correct: 1
+  explanation: >-
+    A fridge above 4–5 °C is a problem someone with authority must decide on: log it, report it and
+    protect the prep at once. Turning the dial hides the problem, and a label says nothing about how warm
+    the juice has been.
+- id: q2
+  question: >-
+    Which handover note is most useful to the next opener?
+  options:
+    - "Busy night, ran low on a few things, all fine, see you tomorrow."
+    - "Gin and lime juice low. Something is wrong with one of the machines."
+    - "Please check all fridges, stock and machines carefully before opening."
+    - "Gin: 1 left, 6 ordered for Tue. Glasswasher drains slowly, told Dana."
+  correct: 3
+  explanation: >-
+    A good note names the item, the amount, what was already done and who knows about a fault, so the
+    opener can act without guessing. Vague notes force them to rediscover every problem.
+- id: q3
+  question: >-
+    It is 02:00 and the last guest has gone. You want to leave quickly. Which step can least safely be
+    left for the morning opener?
+  options:
+    - Emptying, cleaning and drying the ice well.
+    - Polishing the spare wine glasses in the storeroom.
+    - Re-arranging the back-bar display bottles by colour.
+    - Updating the cocktail menu chalkboard for tomorrow.
+  correct: 0
+  explanation: >-
+    Melted ice and a wet well overnight are a hygiene problem and the opener must start from a clean,
+    dry well. The other jobs are cosmetic and can wait.
+- id: q4
+  question: >-
+    During opening, the barback brings two bottles of the house vodka from the storeroom: one delivered
+    last week and one delivered yesterday. Which goes on the rail?
+  options:
+    - The newest bottle, because it is the freshest.
+    - Whichever is closer to the storeroom door.
+    - The older one, so stock is used first in, first out.
+    - Both, so the rail never runs out during service.
+  correct: 2
+  explanation: >-
+    FIFO means the oldest stock is used first and new stock goes behind it. That keeps every item from
+    sitting long enough to go past its date.

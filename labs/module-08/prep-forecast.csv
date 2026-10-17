@@ -1,0 +1,8 @@
+drink,forecast_drinks,lime_juice_ml_per_drink,lemon_juice_ml_per_drink,syrup_1to1_ml_per_drink,garnish_per_drink,notes
+Daiquiri,12,20,0,15,none (IBA),house uses 15 ml 1:1 syrup in place of 2 bar spoons sugar
+Margarita,20,15,0,0,half salt rim (optional),
+Whiskey Sour,10,0,25,20,half orange slice + cherry,
+Cosmopolitan,8,15,0,0,lemon twist,
+Mojito,18,20,0,15,mint sprig + lime slice,house uses 15 ml 1:1 syrup in place of 2 tsp sugar; 6 mint sprigs muddled per drink
+Moscow Mule,15,10,0,0,lime slice,
+Espresso Martini,14,0,0,10,3 coffee beans,

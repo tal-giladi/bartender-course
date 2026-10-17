@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    The cellar gas alarm is sounding and a colleague who went down to change a keg has not come back.
+    What do you do?
+  options:
+    - Go down quickly holding your breath and pull them out.
+    - Open the cellar door wide, wait a minute, then go in to help.
+    - Stay out, keep others out, raise the alarm and call emergency services.
+    - Switch off the alarm so you can think clearly, then check the cylinders.
+  correct: 2
+  explanation: >-
+    CO2 collects in low, closed rooms and can make a rescuer collapse too. Only trained, protected
+    emergency personnel go in; your job is to keep everyone out and get help fast.
+- id: q2
+  question: >-
+    It is busy and the ice scoop is at the other end of the bar. A colleague scoops ice with a rocks
+    glass. Why is this a problem?
+  options:
+    - It is slower than a scoop, which matters most in a rush.
+    - The glass can chip or break and leave invisible glass in the ice.
+    - It uses more ice per drink, which raises the bar's costs.
+    - It is only a problem if the glass is a delicate stemmed glass.
+  correct: 1
+  explanation: >-
+    Glass in ice is nearly invisible and can end up in a guest's drink. Ice is taken only with a scoop;
+    if glass may have broken in the ice, the well is burned and refilled.
+- id: q3
+  question: >-
+    At opening, the high-temperature glasswasher's display shows a final rinse of 65 °C. What does that
+    mean?
+  options:
+    - It is fine; anything above 60 °C kills germs.
+    - It is too hot and will crack the glasses.
+    - It only matters for wine glasses, which need extra care.
+    - It is below the 82 °C sanitising rinse most such machines need, so report it.
+  correct: 3
+  explanation: >-
+    Under the U.S. Food Code most high-temperature machines need a final rinse of at least 82 °C (74 °C for
+    a stationary-rack single-temperature machine). A low reading means glasses may not be sanitised.
+- id: q4
+  question: >-
+    A delivery leaves a full 50-litre keg at the cellar door. There is no dolly. What is the safest way to
+    move it a few metres on a flat floor?
+  options:
+    - Tip it onto its bottom rim and roll it, or slide it, keeping the route clear.
+    - Lift it onto your shoulder, keeping your back straight.
+    - Lift it with a colleague, one at each end, and carry it.
+    - Drop it gently onto its side and roll it along the floor.
+  correct: 0
+  explanation: >-
+    A full keg weighs about 61–73 kg. Ontario's guidance says to roll, push or slide kegs when no aid is
+    available; even two-person carrying risks injury, and dropping a keg can damage it and your feet.

@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    After your first rush run you have 82% accuracy, 330 seconds average ticket time and 7% waste. Six of
+    the nine incorrect drinks were dead. What is the best single change for run 2?
+  options:
+    - Work faster with your hands, clicking each step as quickly as you can.
+    - Skip garnishes during the first wave to save four seconds per drink.
+    - Restart the shift whenever a drink dies, so the numbers stay clean.
+    - Put ice in last: pours in passes, shaken drinks before built ones, tops last.
+  correct: 3
+  explanation: >-
+    Dead drinks are a sequencing problem: finished drinks waited too long. Ice-late sequencing fixes the
+    biggest cause of both inaccuracy and waste. Skipping garnish makes drinks incorrect, and restarting
+    skips the recovery you need to practise.
+- id: q2
+  question: >-
+    In the rush, a ticket for four French 75s and a ticket for two draught beers arrive together. The
+    French 75 ticket printed first. What do you do?
+  options:
+    - Pour the beers first as a quick win, then the French 75s in passes with the sparkling top last.
+    - French 75s first, one at a time, then the beers.
+    - Top four flutes with sparkling wine first so they are ready, then make the rest.
+    - Make the beers and two French 75s, then the other two French 75s later.
+  correct: 0
+  explanation: >-
+    Two beers take about 20 seconds and the French 75s barely notice the delay. Then passes and two tins
+    per shake save time, and the sparkling top goes on last so it stays lively. Splitting a round leaves
+    some drinks waiting.
+- id: q3
+  question: >-
+    A guest sends back a correct Whiskey Sour as "too sour" and you remake it to the same spec with their
+    request noted. How does the simulation count it?
+  options:
+    - As an incorrect drink, because it came back.
+    - As waste, because the first drink's ml go in the bin, but not as incorrect.
+    - As neither, because the guest made the choice.
+    - As two incorrect drinks, the original and the remake.
+  correct: 1
+  explanation: >-
+    The first drink was made to spec, so it is not an incorrect drink, but its product is thrown away and
+    counts as waste. In a real bar it also goes in the waste log.
+- id: q4
+  question: >-
+    Why does the course ask you to change only one thing between rush runs?
+  options:
+    - Because the simulation only allows one setting to change between runs.
+    - Because changing more than one thing always makes the numbers worse.
+    - So you can tell whether that change caused the improvement.
+    - Because a debrief is only required for the first run of a shift.
+  correct: 2
+  explanation: >-
+    With one change, a better or worse number points to that change. With five changes you cannot tell
+    which helped, which did nothing and which made things worse.
