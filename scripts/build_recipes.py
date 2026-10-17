@@ -40,10 +40,15 @@ def validate(recipes):
 
 
 def oz(ml):
-    q = round(ml / 30 * 4) / 4
-    whole, frac = int(q), q - int(q)
-    f = {0: "", 0.25: "¼", 0.5: "½", 0.75: "¾"}[frac]
-    return (str(whole) if whole else "") + f if (whole or f) else "—"
+    """Bar oz (30 ml = 1 oz), nearest quarter or third, as lessons write it."""
+    x = ml / 30
+    fracs = {0: "", 0.25: "¼", 1 / 3: "⅓", 0.5: "½", 2 / 3: "⅔", 0.75: "¾"}
+    whole = int(x)
+    best = min(list(fracs) + [1], key=lambda f: abs(x - whole - f))
+    if best == 1:
+        whole, best = whole + 1, 0
+    s = (str(whole) if whole else "") + fracs[best]
+    return s or "—"
 
 
 def amount(i):
