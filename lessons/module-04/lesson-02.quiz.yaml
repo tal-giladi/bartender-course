@@ -1,0 +1,61 @@
+- id: q1
+  question: >-
+    You are building a gin and tonic. In which order do you work?
+  options:
+    - Glass, gin, tonic, then ice on top so the ice stays solid longer.
+    - Glass, ice to the top, gin, tonic poured gently, one lift.
+    - Glass, tonic, ice, gin floated last so the guest smells it first.
+    - Glass, half the ice, gin, tonic, then the rest of the ice.
+  correct: 1
+  explanation: >-
+    Ice goes in first and fills the glass, the measured spirit next, and the carbonated mixer last
+    and gently, followed by a single lift. Adding ice after the tonic knocks out the gas.
+- id: q2
+  question: >-
+    A guest says her vodka soda looks half empty, although you poured 45 ml vodka and 120 ml soda
+    correctly. What most likely went wrong?
+  options:
+    - The soda was too cold, so it shrank once it was in the glass.
+    - The glass was too small for a full 45 ml pour of spirit.
+    - The glass was only half full of ice, so the liquid sits low.
+    - The soda was poured down the spoon, which wastes some of it.
+  correct: 2
+  explanation: >-
+    Ice takes up a large part of the glass. With a full glass of ice the standard pours reach near
+    the rim; with half the ice the same pours look short and the drink also warms and dilutes faster.
+- id: q3
+  question: >-
+    Your Cuba Libre tastes flat two minutes after serving. Which habit is the most likely cause?
+  options:
+    - You stirred it round several times after adding the cola.
+    - You added the lime juice before the cola instead of after.
+    - You filled the glass to the rim with ice before pouring.
+    - You used a highball glass straight from the fridge.
+  correct: 0
+  explanation: >-
+    Agitation releases carbon dioxide. A carbonated drink gets one gentle lift from the bottom, not
+    a round-and-round stir. Juice first, a full glass of ice and a cold glass all help it stay fizzy.
+- id: q4
+  question: >-
+    A round of six highballs comes in. What is the fastest correct way to build them?
+  options:
+    - Finish each drink fully before starting the next, so none are mixed up.
+    - Pour all six spirits into a tin first, then split it between the glasses.
+    - Build the mixers first in all six glasses, then add each spirit on top.
+    - Line up the glasses, then ice all, pour all spirits, top all, lift all.
+  correct: 3
+  explanation: >-
+    Working in passes means picking up each bottle once for the whole round. Mixing spirits in a tin
+    loses accuracy, and adding the spirit after the mixer breaks the build order.
+- id: q5
+  question: >-
+    You build a Negroni in a rocks glass over ice. What does it need before it is served?
+  options:
+    - A single lift with the spoon, the same as a highball.
+    - A splash of soda on top to dilute it to the right strength.
+    - A smooth stir in the glass for about 10–15 seconds.
+    - Nothing, because the ice will dilute it while the guest drinks.
+  correct: 2
+  explanation: >-
+    A built short drink has no mixer, so it needs a proper stir in the glass to chill and dilute it.
+    The IBA Negroni is poured over ice and stirred gently; soda would turn it into a different drink.

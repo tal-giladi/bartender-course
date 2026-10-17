@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    While you stir a Martini, the ice rattles loudly against the glass. What is the problem, and
+    the fix?
+  options:
+    - The ice is too cold; let it sit in the well for a few minutes first.
+    - The spoon is hitting and chipping the ice; slow down and stir with the fingers.
+    - The mixing glass is too full of ice; use only three or four cubes.
+    - The spoon is too long; switch to a short spoon for better control.
+  correct: 1
+  explanation: >-
+    Noise means the spoon is knocking the ice, which chips it into shards that over-dilute and float
+    in the drink. Keep the back of the spoon on the glass, wrist still, and let the ice turn as a block.
+- id: q2
+  question: >-
+    In the course's dilution model, a 90 ml drink at 32% ABV gains about 37% water at 20 seconds,
+    about 44% at 30 seconds and about 48% at 45 seconds. What does this mean for your stirring?
+  options:
+    - Stir at least 45 seconds, because the extra water is what makes it taste right.
+    - Stir only 10 seconds, because most of the water is added at the very end.
+    - Stir 20–30 seconds and keep the same time on every drink for consistency.
+    - Stir until the glass stops frosting, because then the drink is fully diluted.
+  correct: 2
+  explanation: >-
+    Most of the change happens in the first 20–30 seconds; each extra 15 seconds adds only a few percent.
+    Consistency matters more than the exact number, so use the same time (or count) every time.
+- id: q3
+  question: >-
+    A guest wants a Manhattan on the rocks. You have just stirred it. What do you do next?
+  options:
+    - Pour the whole mixing glass, ice and all, into the rocks glass.
+    - Strain it into an empty rocks glass, then add ice from the mixing glass.
+    - Strain it into an empty rocks glass and serve it without ice.
+    - Strain it onto fresh ice (or a large cube) in the rocks glass.
+  correct: 3
+  explanation: >-
+    Mixing-glass ice is broken and wet and would keep diluting the drink. A drink on the rocks is
+    always strained onto fresh ice in the serving glass.
+- id: q4
+  question: >-
+    Why do bartenders stir a Negroni or a Martini instead of shaking it?
+  options:
+    - Stirring keeps it clear and silky, with less dilution and no air bubbles.
+    - Stirring makes it colder than shaking, which suits strong spirits.
+    - Stirring adds more water, which strong spirits need to be drinkable.
+    - Stirring is faster than shaking, which matters for strong drinks.
+  correct: 0
+  explanation: >-
+    Shaking whips in air and adds more water, making spirit-only drinks cloudy and thinner. Stirring
+    is slower and gentler: the drink ends a little warmer and stronger, clear and smooth.

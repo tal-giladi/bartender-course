@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A ticket reads: vodka, coffee liqueur, sugar syrup and a fresh espresso, served in a chilled
+    cocktail glass. Which method do you choose?
+  options:
+    - Stir in a mixing glass, because there is no citrus juice in it.
+    - Build in the glass over ice, because the espresso is already hot.
+    - Shake hard with ice and strain, so the espresso foams on top.
+    - Blend with crushed ice, because coffee drinks are usually frozen.
+  correct: 2
+  explanation: >-
+    Coffee, like citrus, egg and cream, needs hard mixing, and shaking is what builds the foam an
+    Espresso Martini is known for. The IBA spec says shake well with ice and strain.
+- id: q2
+  question: >-
+    A colleague is about to shake a drink of Campari, sweet vermouth and soda water to save time.
+    What is the main problem?
+  options:
+    - Campari turns bitter when it is shaken with ice for too long.
+    - The soda will go flat and the gas can push the tins apart.
+    - Vermouth separates from Campari unless the two are stirred.
+    - The drink will be under-diluted because soda is already cold.
+  correct: 1
+  explanation: >-
+    Carbonated ingredients are never shaken: shaking releases the gas, which flattens the drink and
+    builds pressure in the shaker. The IBA Americano is built over ice with the soda added last.
+- id: q3
+  question: >-
+    In this course's dilution model, which statement about a stirred spirit-forward drink and a
+    shaken sour is correct?
+  options:
+    - The shaken sour gains much more water, about 63% against about 40%.
+    - Both gain about 25% water, because that is the ideal dilution.
+    - The stirred drink gains more water, because stirring takes longer.
+    - Both gain the same water if the ice is the same size and type.
+  correct: 0
+  explanation: >-
+    Shaking chills and dilutes far faster than stirring; Arnold found stirring can take over two
+    minutes to match a 15-second shake. The model gives about 63% for a 12 s shaken sour and about
+    37–44% for a 20–30 s stir. There is no single ideal 25%.
+- id: q4
+  question: >-
+    You shake water with ice for 12 seconds and it gains 18% in weight, far less than the 63% the
+    model gives for a shaken sour. What is the best conclusion?
+  options:
+    - Your shake is too weak, so you should shake for 30 seconds next time.
+    - The model is wrong, so you should plan sours with 18% dilution.
+    - Your ice was too wet, so you should use drier ice from the freezer.
+    - Water cannot go below 0 °C, so it melts less ice than a real cocktail.
+  correct: 3
+  explanation: >-
+    Alcohol lets a drink get colder than 0 °C, so more ice melts. Water drills train hands and
+    consistency; they do not predict a real drink's dilution.
+- id: q5
+  question: >-
+    A drink has rum, fresh lime pieces, sugar and mint, topped with soda. How do you make it?
+  options:
+    - Shake everything hard with ice, then top with soda and strain.
+    - Blend the lime, mint and sugar, then pour over rum and soda.
+    - Muddle the lime, sugar and mint gently, then build with ice and soda last.
+    - Stir everything in a mixing glass, then strain over fresh crushed ice.
+  correct: 2
+  explanation: >-
+    Fresh herbs and fruit pieces are muddled first; after that the usual rules apply, and the soda
+    means the drink is built with the carbonated part added last.

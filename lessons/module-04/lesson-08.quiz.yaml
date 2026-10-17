@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    You pour 30 ml of water by jigger ten times and weigh: 30, 29, 31, 28, 30, 30, 32, 29, 30, 31 g.
+    How many pours are within the ±5% tolerance?
+  options:
+    - 10, because every pour is within 2 g of the target.
+    - 9, because only the 32 g pour is outside the tolerance.
+    - 8, because the 28 g and 32 g pours are both outside it.
+    - 7, because the 28, 29 and 32 g pours are all outside it.
+  correct: 2
+  explanation: >-
+    ±5% of 30 g is 28.5–31.5 g. 28 g is −6.7% and 32 g is +6.7%, both out; 29 g (−3.3%) and 31 g
+    (+3.3%) are in. That gives 8 of 10.
+- id: q2
+  question: >-
+    Your ten stirred reps gained 14, 13, 15, 22, 14, 13, 14, 15, 14, 13%. What does the film most
+    likely show on rep 4?
+  options:
+    - A slower, quieter stir, which lets the ice melt more evenly.
+    - A smaller amount of ice in the mixing glass than usual.
+    - A drink strained into a warm glass instead of a chilled one.
+    - A noisy stir that knocked and chipped the ice.
+  correct: 3
+  explanation: >-
+    One rep far above the others points to a movement change. Chipped ice melts faster, so a noisy,
+    rattling stir gives extra dilution. A warm glass after straining would not change the weight.
+- id: q3
+  question: >-
+    Your rubric total is 17 out of 20, but on one rep you scooped ice with the glass because the
+    scoop was out of reach. What is the result?
+  options:
+    - A pass, because 85% is above the 75% minimum for technique.
+    - A fail, because scooping ice with a glass is a safety-critical fault.
+    - A pass with one point taken off the safety line of the rubric.
+    - A pass, because the glass did not break and no one was hurt.
+  correct: 1
+  explanation: >-
+    Scooping ice with a glass is safety-critical in this course: it fails the practical whatever the
+    total. Fix the setup (scoop always in the ice container) and redo the drill.
+- id: q4
+  question: >-
+    After the drill, which of these is the most useful fix to write for slow twists?
+  options:
+    - Peel each twist in one stroke from top to bottom, then trim the edges.
+    - Practise garnishes more often until they feel faster.
+    - Try to be quicker with the peeler during the next session.
+    - Watch more garnish videos online before the next drill.
+  correct: 0
+  explanation: >-
+    A useful fix is one specific physical change you can test in ten reps. "Practise more" or "be
+    quicker" does not say what to change.
+- id: q5
+  question: >-
+    You want to compare your shaking with a demonstration. Which comparison is most useful?
+  options:
+    - Whether your shake looks as stylish as the bartender's in the video.
+    - Whether your shake lasts exactly as long as the one in the video.
+    - Grip, tin direction, length of movement and how you open the tins.
+    - Whether your tins are the same brand and size as the demonstration.
+  correct: 2
+  explanation: >-
+    Compare the parts that affect safety and results: two hands, small tin towards you, a long
+    movement, and a clean break of the seal. Style differs between good bartenders.

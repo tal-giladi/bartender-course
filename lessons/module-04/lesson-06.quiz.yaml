@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    Your frozen Piña Coladas come out stiff, pale and bland on one round and watery on the next.
+    What is the most likely cause?
+  options:
+    - The blender was run on high speed instead of low speed.
+    - The liquids were poured into the jug before the ice.
+    - The ice was added by eye instead of with one measured scoop.
+    - The coconut cream was too cold when it went into the jug.
+  correct: 2
+  explanation: >-
+    The ice amount sets the texture and the dilution of a frozen drink. Too much makes a bland slush,
+    too little a thin drink; one measured scoop per drink keeps every round the same.
+- id: q2
+  question: >-
+    Ice is stuck around the blender blade and the drink will not turn. What do you do?
+  options:
+    - Switch off at the base, wait for the blade to stop, then clear it.
+    - Push the ice down with a bar spoon while the motor runs on low.
+    - Add a splash of soda water to loosen the ice and keep blending.
+    - Lift the lid slightly and stir with a straw while it is running.
+  correct: 0
+  explanation: >-
+    Nothing goes into a blender jug while the motor can run. Switch off, let the blade stop, then
+    clear the ice. Carbonated liquids should never go in a blender.
+- id: q3
+  question: >-
+    You try to swizzle a rum drink, but the stick jams and the glass will not frost. What is wrong?
+  options:
+    - The glass was chilled, which stops the frost from forming.
+    - The glass was filled with ice cubes instead of crushed ice.
+    - The stick was spun between the palms instead of stirred.
+    - The ingredients were added before the ice instead of after.
+  correct: 1
+  explanation: >-
+    Swizzling works only with crushed ice; cubes block the blades. Spinning the stick between flat
+    palms in a chilled glass of crushed ice is exactly the right method.
+- id: q4
+  question: >-
+    Learning to throw, you spill most of the drink at the very start of each pour. What should you
+    change?
+  options:
+    - Start with the tins far apart so the stream is long from the beginning.
+    - Watch the top tin closely so you know when the liquid begins to pour.
+    - Use crushed ice in the top tin so the stream comes out more slowly.
+    - Start with both tins together up high and let the catching hand fall.
+  correct: 3
+  explanation: >-
+    Difford's Guide warns against starting at mid-height and pulling the tins apart. Start both high
+    and let the lower hand drop as you pour, with your eyes on the catching tin.
+- id: q5
+  question: >-
+    Why might a bartender throw a vermouth-heavy Manhattan instead of stirring it?
+  options:
+    - Throwing gives fine bubbles and lifts aroma while keeping the drink fairly clear.
+    - Throwing gives the most dilution of any method, which vermouth drinks need.
+    - Throwing removes all air from the drink, making it denser and more silky.
+    - Throwing is the IBA method for the Manhattan and must be used on request.
+  correct: 0
+  explanation: >-
+    Throwing aerates more finely than shaking and releases aroma, especially with wine-based
+    ingredients, without the cloudiness of a shake. The IBA Manhattan is stirred; throwing is an option.

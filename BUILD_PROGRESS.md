@@ -27,7 +27,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] M01
 - [x] M02
 - [x] M03
-- [ ] M04
+- [x] M04
 - [ ] M05
 - [ ] M06
 - [ ] M07
@@ -54,13 +54,15 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - Final assessment is Module 11 (plan §0); Module 10 = costing and menu design.
 - Lesson sections: Why it matters · Core ideas · Step by step · Hands-on · Common mistakes · Key takeaways · Sources.
 - Recipes: IBA spec is default; variations shown with sources; single data source `curriculum/recipes.yaml`.
+- Dilution model in bar-math.js refit to Arnold anchors (shaken sour ~63%, stirred Manhattan ~50%, water ~20–25%); outline "20–30%" applies only to near-0% ABV mixes.
 
 ## Open questions
 - none
 
 ## Now working
 - agent: M05
-- agent: M04
+- agent: M06
 - M01 done; M03 spawned.
 - M02 done; M04 spawned.
 - M03 done; M05 spawned.
+- M04 done; M06 spawned.

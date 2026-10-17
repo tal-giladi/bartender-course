@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You shake an alcohol-free basil smash and serve it up in a coupe. Which straining is right?
+  options:
+    - A julep strainer only, because it gives the smoothest pour.
+    - The shaker's own cap, because muddled drinks clog other strainers.
+    - A Hawthorne only, with the gate open so the basil flavour comes through.
+    - A Hawthorne and a fine strainer together, to catch shards and leaf pieces.
+  correct: 3
+  explanation: >-
+    A shaken drink served up, with muddled herbs, is double strained: the Hawthorne holds back the
+    ice and the fine mesh catches ice shards and bits of basil.
+- id: q2
+  question: >-
+    A Mojito comes back because it tastes bitter and grassy, with green specks floating in it. What
+    is the most likely cause?
+  options:
+    - The mint was muddled too hard and shredded.
+    - The soda was added before the rum.
+    - The lime was not muddled firmly enough.
+    - The glass was not filled with crushed ice.
+  correct: 0
+  explanation: >-
+    Soft herbs should be bruised with a few gentle presses. Grinding them tears the leaves, which
+    releases bitter, grassy flavours and leaves specks in the drink.
+- id: q3
+  question: >-
+    You need to muddle lime wedges for a Caipirinha, and the only glasses at hand are thin
+    highball glasses. What do you do?
+  options:
+    - Muddle in the thin glass but press gently, since lime is soft.
+    - Muddle in a steel shaker tin, then pour it into the serving glass.
+    - Skip the muddling and add bottled lime juice to the glass instead.
+    - Wrap a cloth around the thin glass and muddle firmly as usual.
+  correct: 1
+  explanation: >-
+    Difford's Guide says to muddle only in a steel tin or a sturdy glass; citrus needs firm pressure
+    that can crack a thin glass. A tin is safe and the drink can then be built in the glass.
+- id: q4
+  question: >-
+    You want three layers from these: 1:1 sugar syrup, a 40% ABV spirit, and orange juice. In which
+    order do you pour them, from the bottom up?
+  options:
+    - Orange juice, 1:1 syrup, spirit.
+    - Spirit, orange juice, 1:1 syrup.
+    - 1:1 syrup, orange juice, spirit.
+    - 1:1 syrup, spirit, orange juice.
+  correct: 2
+  explanation: >-
+    More sugar and less alcohol is heavier. The syrup (about 1.23 g/ml) goes first, then juice
+    (about 1.04), then the spirit (about 0.95), which floats on top.

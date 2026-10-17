@@ -1,0 +1,127 @@
+- id: q1
+  question: >-
+    A new menu drink is gin, elderflower liqueur, dry vermouth and two dashes of orange bitters,
+    served up. A colleague wants to shake it to save time. What do you advise?
+  options:
+    - Shake it, because the liqueur's sugar needs hard mixing to dissolve.
+    - Build it in the glass over ice, because it has only four ingredients.
+    - Stir it, because only spirits, liqueur and vermouth keep it clear and silky.
+    - Blend it briefly, because that chills a drink served up the fastest.
+  correct: 2
+  explanation: >-
+    No citrus, egg, cream, coffee or carbonation: it is a stirred drink. Shaking would make it cloudy,
+    thinner and full of ice chips; building would leave it under-chilled for a drink served up.
+- id: q2
+  question: >-
+    A round arrives: three gin and tonics and two vodka-sodas. What is the best way to build them?
+  options:
+    - Shake each spirit with ice, strain over fresh ice, then top with the mixer.
+    - Line up five glasses, ice all to the top, pour all spirits, top all, one lift each.
+    - Build each drink completely before starting the next to avoid mix-ups.
+    - Pour the mixers first in all five glasses, then add each spirit on top.
+  correct: 1
+  explanation: >-
+    Working in passes with a full glass of ice, spirit before mixer and a single lift is fastest and
+    keeps the drinks cold and fizzy. Shaking a spirit for a highball adds nothing and slows the round.
+- id: q3
+  question: >-
+    Two bartenders make the same stirred drink. One stirs 10 seconds, the other 30. Using the course
+    model for a 32% ABV drink, what is the difference?
+  options:
+    - The 10-second drink has about 25% water and the 30-second one about 44%.
+    - Both reach about the same dilution, because stirring finishes in 10 seconds.
+    - The 10-second drink is more diluted, because short stirs chip more ice.
+    - The 30-second drink has about 63% water, the same as a shaken sour.
+  correct: 0
+  explanation: >-
+    Stirring is slow, so time controls dilution: about 25% at 10 s and about 44% at 30 s in the model.
+    The short stir leaves the drink warmer and stronger. 63% is the model's figure for a shaken sour.
+- id: q4
+  question: >-
+    A guest orders a Whiskey Sour with egg white. Your bar keeps both fresh eggs and pasteurised egg
+    white. What do you do?
+  options:
+    - Use a fresh egg, because the whiskey and lemon kill any bacteria in it.
+    - Use a fresh egg separated earlier and kept with the others in a jug.
+    - Leave out the egg white and say nothing, since IBA lists it as optional.
+    - Use pasteurised egg white, tell the guest it contains egg, and fine strain.
+  correct: 3
+  explanation: >-
+    Pasteurised egg white avoids the Salmonella risk of raw eggs, which a cocktail does not reliably
+    remove; pooling eggs adds risk. Egg is an allergen, so mention it, and fine strain for a smooth foam.
+- id: q5
+  question: >-
+    You shake a sour with aquafaba and the foam is thin and collapses quickly. Which change most
+    likely helps?
+  options:
+    - Shake for 30 seconds with ice instead of 12.
+    - Use a reverse dry shake: shake with ice, strain back, shake without ice.
+    - Add the aquafaba after straining, then stir it in with a bar spoon.
+    - Strain through the Hawthorne only so more foam reaches the glass.
+  correct: 1
+  explanation: >-
+    Foaming proteins whip up better without ice; the reverse dry shake gave the thickest foam in
+    Difford's experience. Longer wet shaking adds little, and fine straining keeps the foam smooth.
+- id: q6
+  question: >-
+    A Caipirinha must be muddled and the bar has run out of sturdy rocks glasses; only thin tumblers
+    are left. What is the safe way to make it?
+  options:
+    - Muddle the lime and sugar in a steel shaker tin, then pour into the tumbler with ice.
+    - Muddle gently in the thin tumbler, since lime is soft and needs little force.
+    - Muddle in the tumbler with a cloth wrapped round it to catch any breakage.
+    - Skip muddling and use bottled lime juice in the tumbler instead.
+  correct: 0
+  explanation: >-
+    Citrus needs firm pressure that can crack a thin glass. Difford's Guide says to muddle only in a
+    steel tin or a sturdy glass; muddling in a tin and pouring keeps the drink and your hand safe.
+- id: q7
+  question: >-
+    A guest asks for a layered drink of a cream liqueur on top of coffee liqueur, then a 40% spirit
+    float. Your second layer keeps sinking into the first. What is the most likely problem?
+  options:
+    - The glass was too narrow, which forces layers to mix.
+    - The ingredients were too cold, which always stops layering.
+    - The pour was too fast or the spoon too high above the surface.
+    - The spirit should have gone in first because it is the strongest.
+  correct: 2
+  explanation: >-
+    Layers mix when the stream lands hard. Pour slowly over a spoon held just at the surface. Cream
+    liqueurs can float despite their sugar, and a 40% spirit is lighter than water, so it goes last.
+- id: q8
+  question: >-
+    During a busy beach shift, ice jams around the blender blade mid-blend. What do you do?
+  options:
+    - Push the ice down with a bar spoon while the blender runs on low.
+    - Add more liquid and keep blending on high until it frees itself.
+    - Lift the lid and shake the jug on its base while it is running.
+    - Switch off, wait for the blade to stop, then clear the ice.
+  correct: 3
+  explanation: >-
+    Nothing goes into a running blender. Switch off, let the blade stop, then clear the jam. Next time,
+    put the liquid in first and use one measured scoop of crushed ice.
+- id: q9
+  question: >-
+    You garnish a Negroni with an orange twist. Which sequence matches the lesson?
+  options:
+    - Cut a thick wedge of peel, rub it round the rim, and drop it in by hand.
+    - Cut a thin peel, express it skin side down over the drink, place it with picks.
+    - Cut a peel, warm it with a lit match over the drink, then drop it in.
+    - Cut a peel earlier in the day, store it uncovered, and drop it in at service.
+  correct: 1
+  explanation: >-
+    Express coloured side down so the oils land on the drink, then place it consistently without bare
+    hands. Flaming is excluded from this course, and old uncovered peels lose their oil.
+- id: q10
+  question: >-
+    Your technique drill scores 16 out of 18 with no safety faults, but your stir reps show a spread
+    of 9 percentage points. What should you do next?
+  options:
+    - Nothing, because the total is above the 75% minimum.
+    - Stir for 60 seconds next time so all reps reach the same dilution.
+    - Film the stir again, find the reps that differ, and re-test with one specific fix.
+    - Switch to shaking stirred drinks, because shaking is more consistent.
+  correct: 2
+  explanation: >-
+    A pass is not the end: a 9-point spread means the movement changes between reps, often a noisy
+    stir or a moving wrist. One specific fix and a ten-rep re-test is how consistency improves.

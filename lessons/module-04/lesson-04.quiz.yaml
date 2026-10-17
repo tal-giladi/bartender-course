@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A colleague shakes every sour for 40 seconds "to make it extra cold". Based on the course model
+    and Arnold's measurements, what do you tell her?
+  options:
+    - Forty seconds doubles the chill, so it is right for drinks served up.
+    - After about 10–15 seconds the drink barely changes, so she is wasting time.
+    - Forty seconds is needed, because shorter shakes leave the drink under-diluted.
+    - Long shakes are fine only with crushed ice, which needs more time to melt.
+  correct: 1
+  explanation: >-
+    Shaking reaches a near-steady state in about 12–15 seconds; in the model a 25% ABV sour gains
+    about 61% water at 10 s and 65% at 15 s. Extra time adds little and slows service.
+- id: q2
+  question: >-
+    You want the thickest foam on an aquafaba sour. Which sequence do you use?
+  options:
+    - Shake hard with ice for 30 seconds, then strain through a Hawthorne only.
+    - Shake without ice, strain, then add soda water to lift the foam.
+    - Shake with ice, strain back into the small tin, shake again without ice, fine strain.
+    - Blend the aquafaba with ice first, then shake the rest and combine them.
+  correct: 2
+  explanation: >-
+    That is the reverse dry shake, which Difford's Guide finds gives more foam than a standard dry
+    shake. Fine straining keeps the foam smooth.
+- id: q3
+  question: >-
+    A home cook wants to serve Pisco Sours at a party with fresh eggs from the market. What is the
+    safest advice?
+  options:
+    - Use pasteurised egg white from a carton, or aquafaba, and fine strain.
+    - Use fresh eggs, because the alcohol and lemon kill Salmonella in the drink.
+    - Use fresh eggs, but wash the shells first so no bacteria can be inside.
+    - Use fresh eggs, but separate them all in the morning so they rest first.
+  correct: 0
+  explanation: >-
+    Even clean, uncracked eggs can contain Salmonella (FDA), and a cocktail does not reliably kill it.
+    Pasteurised egg white or aquafaba is the safe choice; pooling eggs ahead of time adds risk.
+- id: q4
+  question: >-
+    Halfway through a shake, your tins come apart and the drink sprays the bar. What should you
+    change next time?
+  options:
+    - Fill the small tin with ice, since more ice in it makes a tighter seal.
+    - Shake more gently, because hard shaking always breaks the seal.
+    - Use one hand on the shaker so the other can hold the bar for balance.
+    - Seal at a slight angle with one firm tap and check it with a gentle pull.
+  correct: 3
+  explanation: >-
+    A correct seal is the fix: angle the small tin, tap it once firmly, check that it does not move,
+    then shake with one hand on each tin, away from guests.
+- id: q5
+  question: >-
+    Why should a shaken drink be served as soon as it is strained?
+  options:
+    - The ice crystals in it sink, making the bottom of the drink stronger.
+    - The citrus starts to ferment within a few minutes of shaking.
+    - The fine air bubbles that give its light texture fade within minutes.
+    - The drink keeps diluting in the glass even though there is no ice in it.
+  correct: 2
+  explanation: >-
+    Shaking whips in tiny bubbles; Arnold's tasters found the shaken texture lasted at least 5 minutes
+    but was gone by about 8. Serve straight away so the guest gets the drink as intended.

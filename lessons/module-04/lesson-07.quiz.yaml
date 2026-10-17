@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You express a lemon twist over a Martini but neither you nor the guest can smell any citrus.
+    Which is the most likely reason?
+  options:
+    - The twist was expressed after the drink was strained into the glass.
+    - The twist was held skin side up or far above the glass, so the oil missed.
+    - The twist had a thin layer of pith left on its back.
+    - The twist was dropped into the drink instead of being discarded.
+  correct: 1
+  explanation: >-
+    The oil has to spray onto the surface: hold the peel coloured side down, a few centimetres over
+    the drink, and twist the ends. A little pith on the back is normal and expressing comes last.
+- id: q2
+  question: >-
+    A Margarita calls for a half salt rim. How do you apply it?
+  options:
+    - Wet the inside and outside of the whole rim and dip it straight into the salt.
+    - Sprinkle salt over the finished drink so it settles evenly on the rim.
+    - Wet the inside edge of half the rim so the salt sticks where the guest sips.
+    - Wet the outside edge of half the rim with lime and roll it through the salt.
+  correct: 3
+  explanation: >-
+    Salt on the outside of half the rim lets the guest choose salty or plain sips and keeps salt out
+    of the drink, so its balance does not change.
+- id: q3
+  question: >-
+    It is busy and you have no tongs at the station. A colleague says to just drop the cherries in
+    with your fingers. What do you do?
+  options:
+    - Use a cocktail pick or a clean spoon, and ask for tongs to be restocked.
+    - Use your fingers but wash your hands between every drink.
+    - Use your fingers only for garnishes that sit on the rim, not in the drink.
+    - Use your fingers, because the alcohol in the drink kills germs.
+  correct: 0
+  explanation: >-
+    Garnish is ready-to-eat food, and food codes such as the FDA Food Code prohibit bare-hand contact
+    with it. A pick or clean utensil solves it now; restocking tongs fixes it for the shift.
+- id: q4
+  question: >-
+    At closing, half a tray of cut lime wedges and orange peels is left over, uncovered on the bar.
+    What is the course's working rule?
+  options:
+    - Cover them and use them first thing tomorrow before cutting fresh ones.
+    - Keep the peels for tomorrow but throw away the wedges, which dry faster.
+    - Discard them, unless the bar's written policy says how to keep them.
+    - Put them in the freezer, where they keep their oil for a week.
+  correct: 2
+  explanation: >-
+    Cut citrus loses its oils fast (Difford's: pre-cut zests last a little over a day even when
+    stored well) and uncovered garnish is a hygiene risk. Cut for the shift and discard the rest
+    unless the bar's written policy says otherwise.
