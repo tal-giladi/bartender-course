@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A guest says her Manhattan "tastes flat and a bit sour". You find the sweet vermouth was opened
+    five weeks ago and kept on the back bar. What is the most likely cause and fix?
+  options:
+    - The whiskey has oxidised; open a new bottle of whiskey and remake it.
+    - The vermouth has oxidised; remake it with a fresh, refrigerated bottle.
+    - The drink was over-stirred; remake it with less stirring time.
+    - The bitters were missing; add an extra dash to the same drink.
+  correct: 1
+  explanation: >-
+    Vermouth is wine and fades and sours after opening, faster when warm. Spirits like whiskey do not
+    oxidise noticeably in weeks. Keep vermouth closed, dated and refrigerated.
+- id: q2
+  question: >-
+    A guest asks for "a dry sherry, very light and fresh". Which style fits best?
+  options:
+    - Pedro Ximénez, because it is the most famous sherry style.
+    - Cream sherry, because cream softens the taste and keeps it light.
+    - Fino, served chilled from a recently opened bottle.
+    - Oloroso, because it ages with air and becomes lighter over time.
+  correct: 2
+  explanation: >-
+    Fino ages under flor, which keeps it pale, dry and fresh. PX and cream are sweet; oloroso is dry
+    but dark and rich.
+- id: q3
+  question: >-
+    Which description matches vermouth under EU rules?
+  options:
+    - A wine-based drink with added alcohol whose characteristic taste comes from wormwood.
+    - A grape spirit flavoured with herbs and sweetened with at least 100 g of sugar per litre.
+    - A fortified wine whose fermentation was stopped with brandy to keep it sweet.
+    - A herbal infusion in strong alcohol used by the dash to season cocktails.
+  correct: 0
+  explanation: >-
+    Vermouth is an aromatised wine (at least 75% wine, 14.5% to under 22% ABV) flavoured with
+    Artemisia (wormwood). The other options describe a liqueur, port and bitters.
+- id: q4
+  question: >-
+    In the oxidation demo, the open jar of juice on the counter smells sour after 48 hours while the
+    full, sealed jar in the fridge smells fresh. What does this suggest for an opened vermouth?
+  options:
+    - Keep it on the back bar, because its alcohol fully protects it from air.
+    - Pour it into a larger bottle, because more air keeps the flavour fresher.
+    - Freeze it after each shift, because only freezing stops oxidation.
+    - Close it tightly and keep it cold, because air and warmth speed oxidation.
+  correct: 3
+  explanation: >-
+    Air and warmth drive oxidation. Vermouth's alcohol slows it but does not stop it, so close it,
+    refrigerate it and use it within about a month.
+- id: q5
+  question: >-
+    A spec calls for "sweet vermouth" and the fridge holds a pale bianco and a red rosso. Which
+    statement is right?
+  options:
+    - Use the bianco, because pale vermouths are always the dry ones.
+    - Use the rosso, the sweet red style; bianco is sweet too but changes colour and taste.
+    - Either works, because all sweet vermouths taste the same in a mixed drink.
+    - Use half of each, because specs that say "sweet" mean a blend of both.
+  correct: 1
+  explanation: >-
+    "Sweet vermouth" in classic specs means the red rosso style. Bianco is also sweet but pale and
+    vanilla-floral, so it changes the drink; never judge dry or sweet by colour alone.

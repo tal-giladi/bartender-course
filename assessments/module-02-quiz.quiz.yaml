@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    Your manager asks how many standard drinks (14 g each) are in a new cocktail with 50 ml of
+    40% gin and 20 ml of 20% liqueur. What is the closest answer?
+  options:
+    - About 2.5, because 70 ml of alcoholic ingredients is two and a half pours.
+    - About 1.4, because the drink holds about 24 ml of alcohol, roughly 19 g.
+    - About 1.0, because liqueurs do not count toward the alcohol total.
+    - About 0.8, because only the gin is above the 15.5% threshold.
+  correct: 1
+  explanation: >-
+    Alcohol = 50 x 0.40 + 20 x 0.20 = 20 + 4 = 24 ml; 24 x 0.789 = about 18.9 g; 18.9 / 14 = about
+    1.35 standard drinks. Every alcoholic ingredient counts.
+- id: q2
+  question: >-
+    A guest wants a gin and tonic that tastes "like a classic gin, really piney". The bar has a
+    London dry gin, a contemporary cucumber-and-rose gin and a sweet pink gin. What do you pour?
+  options:
+    - The London dry gin, because juniper leads its flavour.
+    - The pink gin, because sweetness brings out the pine notes.
+    - The contemporary gin, because newer gins contain more juniper.
+    - Any of them, because the law requires the same juniper level in all gins.
+  correct: 0
+  explanation: >-
+    All gins must taste mainly of juniper, but London dry is the juniper-led classic style.
+    Contemporary gins push other botanicals forward, and pink gins add fruit and sugar.
+- id: q3
+  question: >-
+    A guest asks for "a tequila shot, but the good one, all agave". You have "Tequila Gold 38%" and
+    "Tequila Blanco 100% de Agave 40%". What is the right choice and why?
+  options:
+    - Gold, because golden colour shows long ageing and pure agave.
+    - Either, because all tequila is made only from blue agave.
+    - Blanco 100% de Agave, because only that label guarantees all-agave sugars.
+    - Neither, because only mezcal can be made from 100% agave.
+  correct: 2
+  explanation: >-
+    Tequila without "100% agave" may contain up to 49% other sugars, and "gold" often means added
+    colour or blending. The 100% de Agave label is the guarantee the guest wants.
+- id: q4
+  question: >-
+    A table orders arak with water and ice. A new colleague fills the glasses with ice first, then
+    arak, then water, and white flakes appear. What do you tell them?
+  options:
+    - The arak is spoiled and the bottle should be returned to the supplier.
+    - The water was too warm; use cold water and keep the same order.
+    - Flakes are normal and only appear with cheap arak made from neutral spirit.
+    - Pour arak, then water, then ice, because cold can set the anise oil into flakes.
+  correct: 3
+  explanation: >-
+    Anethole, the anise oil, comes out of solution with water and cold. Adding ice first can make it
+    form flakes; the traditional order is arak, water, ice. The arak is not spoiled.
+- id: q5
+  question: >-
+    A guest who avoids alcohol for religious reasons orders an alcohol-free spritz. The house spec
+    finishes with two dashes of aromatic bitters. What do you do?
+  options:
+    - Add the bitters, because two dashes evaporate when the drink is stirred.
+    - Leave the bitters out or use alcohol-free bitters, and tell the guest.
+    - Add the bitters, because anything under 0.5% counts as alcohol-free.
+    - Refuse the order, because spritzes cannot be made without alcohol.
+  correct: 1
+  explanation: >-
+    Aromatic bitters are about 44.7% ABV. A dash adds a small but real amount of alcohol. For a
+    guest avoiding alcohol completely, leave it out or use an alcohol-free version and say so.
+- id: q6
+  question: >-
+    It is Sunday and you open the bar. The sweet vermouth from last month is on the back bar, open,
+    with no date. A Negroni order comes in. What is the best move?
+  options:
+    - Use a fresh, refrigerated vermouth and flag the old bottle to the head bartender.
+    - Use the open bottle, because vermouth keeps like any other spirit.
+    - Use the open bottle but add extra sugar syrup to hide any sourness.
+    - Replace the vermouth with aromatic bitters, which do not go off.
+  correct: 0
+  explanation: >-
+    Vermouth is an aromatised wine and oxidises once opened, faster when warm. Serve from a fresh,
+    dated, refrigerated bottle; do not mask an off product.
+- id: q7
+  question: >-
+    You stock a 15% fino sherry and an 18% dry vermouth. A colleague says both labels must carry
+    the same Hebrew warning. Is that right?
+  options:
+    - Yes, because both are wine-based, and wine has one warning.
+    - Yes, because the warning depends on the bottle size, not the strength.
+    - No, the vermouth needs the strong-drink text because it is above 15.5% ABV.
+    - No, only spirits above 40% need any warning at all.
+  correct: 2
+  explanation: >-
+    Israeli law defines a strong drink as above 15.5% ABV. The 18% vermouth carries the strong-drink
+    warning; the 15% fino carries the "contains alcohol" text.
+- id: q8
+  question: >-
+    A guest wants "a whisky that's sweet, with no smoke". The shelf has an Islay peated single malt,
+    a straight bourbon and a straight rye. Which is the best first suggestion?
+  options:
+    - The Islay malt, because single malts are the sweetest whiskies.
+    - The rye, because rye grain gives a sweeter taste than corn.
+    - Any of them, because ageing removes smoke after ten years.
+    - The bourbon, because new charred oak gives vanilla and caramel.
+  correct: 3
+  explanation: >-
+    Bourbon's new charred oak gives vanilla and caramel, which guests read as sweet. Peat smoke stays
+    with age; rye is spicier and drier than bourbon.
+- id: q9
+  question: >-
+    The Peruvian pisco runs out during a Pisco Sour order. The bar also has a cognac VSOP, a white
+    rum and a cachaça. What is the most professional response?
+  options:
+    - Use the cognac silently, because both are grape brandies.
+    - Tell the guest it is out and offer the drink with another spirit or a different drink.
+    - Use the cachaça silently, because it is the South American option.
+    - Use white rum silently, because sours taste the same with any clear spirit.
+  correct: 1
+  explanation: >-
+    No product on this bar is a close match for an unaged grape brandy. Tell the guest and let them
+    choose; a silent cross-category swap changes the drink they ordered.
+- id: q10
+  question: >-
+    A guest asks for "a light beer, not bitter at all". Your draught taps are a pale lager, an IPA
+    and a stout. Which do you offer first?
+  options:
+    - The stout, because dark beers are the least bitter and lightest in alcohol.
+    - The IPA, because "pale" in its name means it is light.
+    - The pale lager, because it is crisp with mild bitterness.
+    - Any of the three, because bitterness depends only on serving temperature.
+  correct: 2
+  explanation: >-
+    Pale lager is crisp with mild bitterness. An IPA is defined by strong hop bitterness and aroma,
+    and stouts are roasted and fuller; colour does not tell you alcohol or bitterness.

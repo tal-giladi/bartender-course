@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A guest orders an alcohol-free Old Fashioned-style drink and tells you she avoids alcohol
+    completely for medical reasons. The spec includes two dashes of aromatic bitters. What do you do?
+  options:
+    - Add the bitters, because two dashes are too small to count as alcohol.
+    - Add the bitters but stir longer, because stirring removes the alcohol.
+    - Replace the bitters with extra orange liqueur, which is sweeter and milder.
+    - Leave the bitters out or use alcohol-free bitters, and tell her why.
+  correct: 3
+  explanation: >-
+    Aromatic bitters are about 44.7% ABV. Two dashes add a small but real amount of alcohol, which
+    matters to a guest who avoids it completely. Stirring does not remove alcohol.
+- id: q2
+  question: >-
+    Which product best fits the EU definition of a liqueur?
+  options:
+    - A 40% spirit flavoured with juniper and no added sugar.
+    - A 25% spirit flavoured with orange, with 250 g of sugar per litre.
+    - A 12% wine flavoured with herbs and wormwood.
+    - A 45% bitter infusion used by the dash, with no added sugar.
+  correct: 1
+  explanation: >-
+    EU liqueurs are at least 15% ABV with at least 100 g of sugar per litre for most types. The
+    juniper spirit is a gin, the wine is an aromatised wine, and unsweetened bitters are not liqueurs.
+- id: q3
+  question: >-
+    Your recipe uses a 30% orange liqueur and you only have a 40% one. What adjustment usually makes
+    sense?
+  options:
+    - Taste and, since the 40% one is usually drier, add a little syrup if needed.
+    - Use half as much, because stronger liqueurs are also twice as sweet.
+    - Use it unchanged, because ABV does not affect a drink's balance.
+    - Add water to bring it to 30%, because only alcohol strength matters.
+  correct: 0
+  explanation: >-
+    Higher-ABV orange liqueurs tend to be drier and stronger. Taste the drink and adjust sweetness
+    with a little syrup; do not assume ABV and sweetness move together.
+- id: q4
+  question: >-
+    In the density demo, 50 ml of rich syrup weighs 67 g and 50 ml of tea weighs 50 g. Which pour
+    order builds visible layers?
+  options:
+    - Tea first, then rich syrup poured fast so it floats on top.
+    - Rich syrup and tea poured together so they mix evenly.
+    - Rich syrup first, then tea poured slowly over the back of a spoon.
+    - Tea first, then rich syrup poured slowly over the back of a spoon.
+  correct: 2
+  explanation: >-
+    The densest liquid goes at the bottom. Rich syrup (about 1.33 g/ml) sinks under tea (about
+    1.00 g/ml); a slow pour over a spoon keeps the layers apart.

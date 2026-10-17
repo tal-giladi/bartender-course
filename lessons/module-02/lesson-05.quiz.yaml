@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    A guest's arak turned milky white when you added water and asks if it has gone bad. What is
+    the correct explanation?
+  options:
+    - The water was not filtered, so its minerals reacted with the arak.
+    - The bottle was open too long and the arak has started to spoil.
+    - The anise oil comes out of solution when alcohol is diluted, which is normal.
+    - The glass still had detergent in it, which clouds anise spirits.
+  correct: 2
+  explanation: >-
+    Anethole, the anise oil, dissolves in strong alcohol but not in water. Diluting arak makes it
+    form tiny droplets that look milky: the louche, a normal sign of the anise.
+- id: q2
+  question: >-
+    You are making arak with water and ice. Which order follows traditional practice?
+  options:
+    - Arak first, then cold water, then ice.
+    - Ice first, then arak, then water to top up.
+    - Water first, then ice, then arak floated on top.
+    - Ice first, then water, then arak stirred in.
+  correct: 0
+  explanation: >-
+    Ice added before water can make the anise oil set into white flakes. Arak, then water, then
+    ice gives an even, milky drink.
+- id: q3
+  question: >-
+    A guest asks for "sambuca, it's basically Italian arak, right?" What is accurate?
+  options:
+    - Yes, both are dry grape spirits flavoured only with aniseed.
+    - No, sambuca is a sweet anise liqueur, while arak is an unsweetened spirit.
+    - Yes, but sambuca is always stronger, usually above 60% ABV.
+    - No, sambuca has no anise; it is flavoured with coffee beans.
+  correct: 1
+  explanation: >-
+    Sambuca is a sweetened liqueur; arak is dry. They share anise aromas but are not
+    interchangeable in drinks.
+- id: q4
+  question: >-
+    You are out of Peruvian pisco and consider a Chilean pisco for a Pisco Sour. What should you
+    know?
+  options:
+    - They are identical by international law, so no one will notice.
+    - Chilean pisco is a cane spirit, so the drink will taste like a rum sour.
+    - Chilean pisco is always aged for years, so it will be much darker.
+    - Production rules differ, for example Chilean pisco may be diluted and aged, so taste can change.
+  correct: 3
+  explanation: >-
+    Peruvian pisco is distilled once to proof with nothing added; Chilean pisco may be diluted with
+    water and aged in wood. Both are grape brandies, but they can taste different.

@@ -1,0 +1,64 @@
+- id: q1
+  question: >-
+    A guest asks if the London dry gin on your shelf is made in London. It is produced in Spain.
+    What is accurate?
+  options:
+    - It is mislabelled, because London dry gin must be distilled inside London.
+    - It is fine, because London dry is a method of making gin, not a place of origin.
+    - It is fine only if the juniper used was imported from England.
+    - It should be called distilled gin, because only British gins can use the London name.
+  correct: 1
+  explanation: >-
+    Under EU rules London gin is a production standard: re-distilled with natural botanicals,
+    nothing added afterwards except water and a trace of sugar, no colouring. It can be made anywhere.
+- id: q2
+  question: >-
+    Your house London dry gin runs out during a busy shift. Which replacement keeps the guest's
+    gin and tonic closest to normal?
+  options:
+    - A sweet pink gin, because it is still legally a gin.
+    - A premium vodka, because both are clear spirits of similar strength.
+    - Another London dry gin at a similar ABV.
+    - A genever, because it is the original form of gin.
+  correct: 2
+  explanation: >-
+    Substitute within the same style first. Pink gin adds sugar and fruit, vodka removes the
+    juniper, and genever has a malty, fuller taste.
+- id: q3
+  question: >-
+    You plan to use a navy-strength gin (about 57% ABV) instead of a 40% gin in a 50 ml pour.
+    What should you consider?
+  options:
+    - The drink becomes noticeably stronger, so adjust the pour or tell the guest.
+    - Nothing changes, because the extra strength is lost when the ice melts.
+    - The drink gets weaker, because stronger gins are always served smaller.
+    - Only the colour changes, because navy strength refers to the bottle colour.
+  correct: 0
+  explanation: >-
+    50 ml at 57% holds about 28.5 ml of alcohol versus 20 ml at 40%, over 40% more. Ice melt does not
+    remove that difference.
+- id: q4
+  question: >-
+    In the blind botanical round you keep confusing two cups. Which pair is most likely?
+  options:
+    - Juniper and cinnamon, because both are dark in colour.
+    - Cardamom and lemon peel, because both are green before drying.
+    - Coriander seed and citrus peel, because coriander seed has citrus notes.
+    - Orange peel and juniper, because both come from the same plant family.
+  correct: 2
+  explanation: >-
+    Coriander seed smells lemony and warm, so beginners often mix it up with citrus peel. Short
+    sniffs and a reset between cups help.
+- id: q5
+  question: >-
+    A guest wants a vodka Martini and asks whether the lemon vodka would be "the same but nicer".
+    What is the best reply?
+  options:
+    - Yes, because all vodkas are neutral and the lemon only adds a light scent.
+    - Yes, as long as you reduce the vermouth to balance the extra citrus.
+    - No, because flavoured vodka is weaker and the drink would be watery.
+    - No, flavoured vodka is a different product and would change the drink's taste.
+  correct: 3
+  explanation: >-
+    Flavoured vodka has added flavourings, so it changes the drink. Offer it as an option and let
+    the guest choose; do not present it as the same drink.

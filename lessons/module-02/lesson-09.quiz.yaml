@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A bottle of vermouth at 16% ABV is on your bar. Which Hebrew warning should its label carry
+    under Israeli law?
+  options:
+    - The "contains alcohol, avoid excessive drinking" text, because vermouth is a wine.
+    - No warning, because only spirits above 40% need one.
+    - The "strong drink" text about danger to life and health, because it is above 15.5%.
+    - Either text, because the producer chooses which warning to print.
+  correct: 2
+  explanation: >-
+    The law defines a strong alcoholic beverage as above 15.5% ABV. At 16%, the vermouth needs the
+    strong-drink warning; a 15% fino sherry would carry the other text.
+- id: q2
+  question: >-
+    An imported liqueur has only a foreign-language label. Where do you look for the Israeli
+    importer's details and the Hebrew information?
+  options:
+    - On the Hebrew sticker added by the importer.
+    - On the bottle cap, where importers print a code.
+    - On the shipping carton only, which the bar should keep.
+    - On the producer's website, since imports carry no Hebrew.
+  correct: 0
+  explanation: >-
+    Imported drinks in Israel carry Hebrew labelling, usually a sticker added by the importer with
+    the importer's name and address, origin, contents and volume.
+- id: q3
+  question: >-
+    During your back-bar check you find an opened bottle of dry vermouth with no date, at room
+    temperature. What is the best action?
+  options:
+    - Leave it, because vermouth keeps like a spirit once opened.
+    - Smell it, and if it is fine date it today and keep it on the shelf.
+    - Pour it into the house sweet vermouth bottle so nothing is wasted.
+    - Set it aside for the head bartender and use a fresh, dated bottle from the fridge.
+  correct: 3
+  explanation: >-
+    Vermouth is wine and oxidises. An undated open bottle may be weeks old; let the head bartender
+    decide, and serve from a fresh bottle stored in the fridge.
+- id: q4
+  question: >-
+    The house bourbon is out. A guest ordered a bourbon Old Fashioned without naming a brand. Which
+    substitution approach is most professional?
+  options:
+    - Use the peated Scotch, because any whisky works in an Old Fashioned.
+    - Use another bourbon if available, or rye after telling the guest it is spicier.
+    - Use the cognac, because it is aged in oak like bourbon.
+    - Use the spiced spirit drink, because its vanilla resembles bourbon.
+  correct: 1
+  explanation: >-
+    Same style first, then a neighbouring style with the guest told. Peated Scotch, cognac and a
+    spiced spirit drink are different categories and change the drink a lot.
+- id: q5
+  question: >-
+    A product labelled "spiced, rum base, 35% vol, spirit drink" is on the shelf. Why might it not
+    be called "rum" in the EU?
+  options:
+    - Because rum must be aged at least three years in oak.
+    - Because rum may not contain any added flavour of any kind.
+    - Because rum must be made from fresh cane juice, never molasses.
+    - Because EU rum must be at least 37.5% ABV.
+  correct: 3
+  explanation: >-
+    EU rules set a 37.5% minimum for rum. A spiced product at 35% is sold as a "spirit drink". Rum
+    can be made from molasses and has no general three-year ageing rule.

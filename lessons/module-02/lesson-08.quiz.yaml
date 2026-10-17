@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    A pregnant guest asks for an alcohol-free beer. You have one labelled "0.0%" and one labelled
+    "alcohol-free 0.4%". What do you do?
+  options:
+    - Offer either, because both are legally called alcohol-free in most countries.
+    - Offer the 0.4% one, because it tastes more like real beer and the amount is tiny.
+    - Offer the 0.0% one and mention that the other contains a small amount of alcohol.
+    - Offer neither, because all beer-style drinks contain some alcohol by law.
+  correct: 2
+  explanation: >-
+    Only 0.0% suits a guest who avoids all alcohol. Read the exact number and tell the guest; the
+    decision about small amounts is theirs, not yours.
+- id: q2
+  question: >-
+    A guest asks for "a beer that's crisp and clean, not fruity". Which family fits best?
+  options:
+    - A lager, because cool bottom fermentation gives a clean, crisp taste.
+    - An IPA, because strong hops make a beer taste clean.
+    - A wheat beer, because wheat makes beer crisper than barley.
+    - A stout, because dark malt removes fruity flavours.
+  correct: 0
+  explanation: >-
+    Lagers ferment cool with bottom-fermenting yeast and taste clean and crisp. Ales such as IPAs and
+    wheat beers ferment warmer and are fruitier; stouts are roasted.
+- id: q3
+  question: >-
+    A guest asks how a rosé gets its pink colour. What is accurate?
+  options:
+    - Red and white wine are blended in equal parts after fermentation.
+    - Pink grapes are used, whose juice is naturally pink.
+    - Food colouring is added before bottling to keep a consistent shade.
+    - Red grapes are left in contact with the juice for a short time.
+  correct: 3
+  explanation: >-
+    Grape juice is almost always clear; colour comes from the skins. Rosé gets brief skin contact,
+    red wine long contact, white wine none.
+- id: q4
+  question: >-
+    A guest wants the driest sparkling wine on your list. You have a "Brut" and an "Extra Dry".
+    Which do you offer?
+  options:
+    - The Extra Dry, because "extra" means it has the least sugar.
+    - The Brut, because brut is drier than extra dry on sparkling wine labels.
+    - Either, because the two terms mean exactly the same sweetness.
+    - Neither, because only "demi-sec" sparkling wines are fully dry.
+  correct: 1
+  explanation: >-
+    On sparkling wine labels the order from driest is brut, then extra dry, then dry, then demi-sec.
+    Demi-sec is noticeably sweet.
+- id: q5
+  question: >-
+    A tourist asks which wine regions Israel has. Which list is correct?
+  options:
+    - Galilee, Shomron, Samson, Judean Hills and Negev.
+    - Golan, Galilee, Carmel, Jerusalem and Eilat.
+    - Galilee, Sharon, Jordan Valley, Judean Hills and Arava.
+    - Golan, Shomron, Tel Aviv, Judean Hills and Negev.
+  correct: 0
+  explanation: >-
+    Israel's five registered wine regions are Galilee (with the Golan as a sub-region), Shomron,
+    Samson, Judean Hills and Negev.

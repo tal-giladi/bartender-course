@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A guest asks for a Margarita "with 100% agave tequila". Your house bottle reads "Tequila Gold,
+    38% vol" with no other claims. What do you do?
+  options:
+    - Use it, because gold tequila is aged and therefore always 100% agave.
+    - Use it, because every tequila is made only from blue agave by law.
+    - Offer a bottle that states "100% agave", because the house one is in the mixto category.
+    - Offer mezcal instead, because it is the 100% agave version of tequila.
+  correct: 2
+  explanation: >-
+    Without "100% agave" on the label, a tequila may contain up to 49% other sugars. "Gold" often
+    means colouring or blending, not long ageing. Mezcal is a different spirit.
+- id: q2
+  question: >-
+    A tequila label says "Reposado". What does that tell you?
+  options:
+    - It rested at least 2 months in oak.
+    - It was aged at least 3 years in oak.
+    - It was never aged and was bottled straight from the still.
+    - It was filtered after ageing to remove all colour.
+  correct: 0
+  explanation: >-
+    Reposado means rested: at least 2 months in oak. Añejo is at least 1 year, extra añejo at least
+    3 years; cristalino is filtered aged tequila and is not an official class.
+- id: q3
+  question: >-
+    The white rum runs out and a Mojito order comes in. Only dark molasses rum and spiced rum are
+    left. What is the professional move?
+  options:
+    - Use the spiced rum, because its sweetness balances the lime and mint.
+    - Use the dark rum silently, because rum is rum in a mixed drink.
+    - Refuse the order, because a Mojito cannot be made without white rum.
+    - Tell the guest it will taste and look different with dark rum and let them choose.
+  correct: 3
+  explanation: >-
+    Dark molasses rum changes colour and flavour; spiced rum adds spice and sugar. Explain the
+    change and let the guest decide, or offer another drink.
+- id: q4
+  question: >-
+    A guest wants to know why the mezcal tastes smoky and the tequila does not. Which explanation
+    is accurate?
+  options:
+    - Mezcal is aged in charred barrels for many years, unlike tequila.
+    - Mezcal agave is traditionally roasted in pits in the ground, which adds smoke.
+    - Mezcal is distilled from molasses, which tastes smoky after fermentation.
+    - Mezcal must by law have smoke flavouring added before bottling.
+  correct: 1
+  explanation: >-
+    Traditional mezcal production roasts agave hearts in earth pits with wood and stones, giving
+    smoke. Smoke levels vary, and nothing requires added smoke flavouring.

@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    A guest asks for "something sweet, definitely not smoky" from the whisky shelf. Which choice
+    best fits?
+  options:
+    - A heavily peated Islay single malt, because malt whisky is the sweetest style.
+    - A bourbon, because new charred oak gives vanilla and caramel notes.
+    - Any blended Scotch, because blending removes all smoke and dryness.
+    - A rye whiskey, because rye grain makes whiskey sweeter than corn.
+  correct: 1
+  explanation: >-
+    Bourbon's new charred oak barrels give vanilla and caramel, which most guests read as sweet.
+    Peated malts are smoky; rye is spicier and drier; blends vary.
+- id: q2
+  question: >-
+    A guest asks whether a VSOP or an XO cognac is older. What do you say?
+  options:
+    - VSOP, because its youngest brandy must be at least 10 years old.
+    - They are the same age; the letters describe the style of the blend.
+    - It depends on the producer, because cognac age labels are not regulated.
+    - XO, because its youngest brandy must be at least 10 years old versus 4 for VSOP.
+  correct: 3
+  explanation: >-
+    Cognac age labels refer to the youngest brandy in the blend: VS 2 years, VSOP 4, Napoleon 6 and
+    XO 10 (since April 2018).
+- id: q3
+  question: >-
+    A colleague says a whiskey cannot be bourbon because it was made in Texas. Is that right?
+  options:
+    - No, bourbon can be made anywhere in the US if it meets the legal rules.
+    - Yes, bourbon must be distilled and aged in Kentucky by law.
+    - Yes, unless it was aged in used sherry casks from Kentucky.
+    - No, any American whiskey aged over two years is called bourbon.
+  correct: 0
+  explanation: >-
+    US rules define bourbon by mash (at least 51% corn), proof limits and new charred oak, not by
+    state. Age alone does not make a whiskey bourbon.
+- id: q4
+  question: >-
+    Your house bourbon runs out and a Whiskey Sour is ordered. Which replacement changes the drink
+    least?
+  options:
+    - A heavily peated Scotch, because both are whiskies aged in oak.
+    - An XO cognac, because it is the smoothest spirit on the shelf.
+    - Another bourbon, or a rye if no bourbon is left, telling the guest.
+    - A spiced rum, because its vanilla notes resemble bourbon.
+  correct: 2
+  explanation: >-
+    Substitute within the style first; rye is the closest neighbour. Peated Scotch would add strong
+    smoke, cognac is a different spirit and an expensive one, and spiced rum changes the drink.
+- id: q5
+  question: >-
+    In your aroma kit, which item models the smell that peat gives some Scotch whiskies?
+  options:
+    - Vanilla sugar, because peat makes whisky taste sweet.
+    - Raisins, because peat is a type of dried fruit used in mashing.
+    - Toasted bread, because peat is a roasted grain.
+    - Smoky tea or smoked paprika, because peat smoke dries the malt.
+  correct: 3
+  explanation: >-
+    Peat is burned to dry malted barley, giving smoky, medicinal notes. Smoky tea or smoked paprika
+    reproduces that smell without alcohol.
