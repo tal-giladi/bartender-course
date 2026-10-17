@@ -57,6 +57,8 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - Dilution model in bar-math.js refit to Arnold anchors (shaken sour ~63%, stirred Manhattan ~50%, water ~20–25%); outline "20–30%" applies only to near-0% ABV mixes.
 
 ## Open questions
+- Paused after M06 at Tal's request (2026-10-17). Resume: spawn M07 and M08.
+- 06.3 mentions 07.4 without a link: add the link once M07 exists.
 - none
 
 ## Now working
