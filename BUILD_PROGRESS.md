@@ -68,6 +68,6 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - M06 done.
 - M07 done.
 - M08 done.
-- M09 + M10 agents spawned (2026-10-18).
+- M09, M10 done; M11 + simulations (recipe-scaler, dilution-lab, recipe-drill) spawned.
 - M10 done.
 - M09 done.
