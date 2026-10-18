@@ -1,5 +1,3 @@
-Proposed template from Module 10 (lesson 10.3); main session: copy to templates/standard-recipe.md (same content as labs/module-10/standard-recipe-template.md) and delete this line.
-
 # Standard recipe
 
 One page per drink. This is the bar's official version: every bartender makes it this way, costing and stock use these numbers, and the menu description must match it. Make a new dated version whenever a product, amount or price changes.
