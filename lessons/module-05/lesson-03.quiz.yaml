@@ -40,10 +40,10 @@
     A guest asks for "a Negroni, but lighter and fizzy". Which known variation fits, and what is its
     spec according to Difford's Guide?
   options:
-    - Boulevardier: whiskey, Campari and vermouth in equal parts on ice.
-    - Americano: Campari and vermouth topped with ginger beer.
-    - Spritz: 90 ml Prosecco, 60 ml Aperol and a splash of soda.
-    - Negroni Sbagliato: 30 ml sweet vermouth, 30 ml red bitter and 60 ml Prosecco on ice.
+    - "Boulevardier: whiskey, Campari and vermouth in equal parts on ice."
+    - "Americano: Campari and vermouth topped with ginger beer."
+    - "Spritz: 90 ml Prosecco, 60 ml Aperol and a splash of soda."
+    - "Negroni Sbagliato: 30 ml sweet vermouth, 30 ml red bitter and 60 ml Prosecco on ice."
   correct: 3
   explanation: >-
     The Sbagliato replaces gin with Prosecco, so it is lighter and sparkling. The Boulevardier is

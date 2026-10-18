@@ -3,10 +3,10 @@
     A guest liked the Margarita and asks for "the same idea with gin and lemon". Which IBA drink do you
     offer, and how is it poured?
   options:
-    - A Tom Collins: 45 ml gin, 30 ml lemon, 15 ml syrup, 60 ml soda on ice.
-    - A Gimlet: gin with lime cordial, shaken and served in a coupe.
-    - A White Lady: 40 ml gin, 30 ml triple sec, 20 ml lemon, shaken and served up.
-    - A Gin Fizz: 45 ml gin, 30 ml lemon, 10 ml syrup, a splash of soda, no ice.
+    - "A Tom Collins: 45 ml gin, 30 ml lemon, 15 ml syrup, 60 ml soda on ice."
+    - "A Gimlet: gin with lime cordial, shaken and served in a coupe."
+    - "A White Lady: 40 ml gin, 30 ml triple sec, 20 ml lemon, shaken and served up."
+    - "A Gin Fizz: 45 ml gin, 30 ml lemon, 10 ml syrup, a splash of soda, no ice."
   correct: 2
   explanation: >-
     The Margarita is spirit + triple sec + citrus; with gin and lemon that pattern is the White Lady

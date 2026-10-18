@@ -4,7 +4,7 @@
     after seeing a photo of an ID on a phone. What is the result of this part?
   options:
     - Passed with 92.9%, since one weak choice is outweighed by the rest.
-    - Not passed: a safety-critical choice means remediation and a retest.
+    - "Not passed: a safety-critical choice means remediation and a retest."
     - Passed, but the score is reduced to the 70% minimum.
     - Not passed, and the whole final assessment must be redone.
   correct: 1

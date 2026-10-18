@@ -6,7 +6,7 @@
     - Work faster with your hands, clicking each step as quickly as you can.
     - Skip garnishes during the first wave to save four seconds per drink.
     - Restart the shift whenever a drink dies, so the numbers stay clean.
-    - Put ice in last: pours in passes, shaken drinks before built ones, tops last.
+    - "Put ice in last: pours in passes, shaken drinks before built ones, tops last."
   correct: 3
   explanation: >-
     Dead drinks are a sequencing problem: finished drinks waited too long. Ice-late sequencing fixes the

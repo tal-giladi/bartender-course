@@ -56,7 +56,7 @@
     times. The guest says it is flat. What do you correct?
   options:
     - The amounts, because the IBA spec has equal parts Aperol and Prosecco.
-    - The order and the stir: Prosecco, Aperol, soda, then one gentle stir.
+    - "The order and the stir: Prosecco, Aperol, soda, then one gentle stir."
     - The glass, because a spritz belongs in a chilled coupe without ice.
     - The soda, because the IBA spec uses tonic water rather than soda.
   correct: 1
@@ -83,7 +83,7 @@
     - Make each one fully, start to finish, before touching the next glass.
     - Muddle all the mint hard in one jug, then pour it into six glasses.
     - Build all six in a large shaker with crushed ice and pour them out.
-    - Work across six glasses: mint, sugar, lime, press, ice, rum, soda.
+    - "Work across six glasses: mint, sugar, lime, press, ice, rum, soda."
   correct: 3
   explanation: >-
     Working across the line handles each ingredient once and keeps the soda for last, so all six keep

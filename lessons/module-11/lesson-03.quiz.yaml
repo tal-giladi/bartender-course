@@ -18,7 +18,7 @@
   options:
     - Passed with 85%, minus one point on the safety line.
     - Passed, because the fault happened in only one of two rounds.
-    - Not passed: remediation and a full retake of the exam set.
+    - "Not passed: remediation and a full retake of the exam set."
     - Not passed, but only the round 2 film is reshot.
   correct: 2
   explanation: >-
