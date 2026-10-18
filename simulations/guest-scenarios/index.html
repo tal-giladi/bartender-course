@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guest scenarios</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="guest.css">
+</head>
+<body>
+<main>
+  <h1>Guest scenarios</h1>
+  <div id="label-slot"></div>
+  <p class="muted">Seven situations every bartender meets. Each is a conversation with four decisions; each choice scores 2 (safe and professional), 1 (safe but weak) or 0 (poor), and some 0-choices are safety-critical. A situation passes with at least 6 of 8 points <strong>and</strong> no safety-critical choice. All guests are fictional; legal references were checked on 2026-10-18 and are not legal advice.</p>
+  <section class="card task" id="task-card" aria-live="polite"></section>
+  <section id="stage" aria-live="polite"></section>
+</main>
+<script src="../common/sim.js"></script>
+<script src="../common/bar-math.js"></script>
+<script src="../common/ops-math.js"></script>
+<script src="scenarios.js"></script>
+<script src="guest-core.js"></script>
+<script src="guest.js"></script>
+</body>
+</html>

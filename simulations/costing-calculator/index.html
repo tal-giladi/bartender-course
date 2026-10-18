@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Costing calculator</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="costing.css">
+</head>
+<body>
+<main>
+  <h1>Costing calculator</h1>
+  <div id="label-slot"></div>
+  <p class="muted">Cost per serving, prices with Israeli VAT (18%), pour cost, gross profit, margin and markup, bottle and produce yield, menu-wide pour cost and inventory variance. Every number shows its formula. Money in ILS; purchase prices are taken out of VAT before costing (a VAT-registered bar reclaims input VAT). Example prices: Shufersal online regular retail prices and course assumptions, checked 2026-10-18.</p>
+
+  <section class="card task" id="task-card" aria-live="polite"></section>
+
+  <div class="tabs" role="group" aria-label="Tool">
+    <button type="button" class="tab" data-tab="single">One drink</button>
+    <button type="button" class="tab" data-tab="yield">Yield</button>
+    <button type="button" class="tab" data-tab="menu">Whole menu</button>
+    <button type="button" class="tab" data-tab="variance">Inventory variance</button>
+    <button type="button" class="tab" data-tab="exam">Final assignment</button>
+  </div>
+
+  <!-- ONE DRINK -->
+  <section id="panel-single" class="panel">
+    <div class="card">
+      <h2>Recipe lines</h2>
+      <div class="row">
+        <div><label for="sg-name">Drink</label><input id="sg-name" type="text" value="Daiquiri"></div>
+        <div><label for="sg-load">Add a product from the price list</label><select id="sg-load"></select></div>
+      </div>
+      <div class="table-wrap">
+        <table class="editor" id="sg-table">
+          <thead><tr><th>Ingredient</th><th>Package price</th><th>Package size</th><th>Bought as</th><th>Juice yield (ml/kg)</th><th>Quantity</th><th>Qty unit</th><th>Waste %</th><th>Cost per unit</th><th>Line cost</th><th><span class="sr-only">Remove</span></th></tr></thead>
+          <tbody id="sg-rows"></tbody>
+        </table>
+      </div>
+      <div class="row">
+        <div><button type="button" class="secondary" id="sg-add">Add ingredient line</button></div>
+        <div><button type="button" class="secondary" id="sg-add-other">Add garnish / other line</button></div>
+        <div><button type="button" class="secondary" id="sg-reset">Reset to the Daiquiri</button></div>
+      </div>
+      <p class="formula">price ex VAT = price incl. VAT ÷ 1.18 · cost per ml = price ex VAT ÷ ml · juice: price ex VAT per kg ÷ ml of juice per kg · line cost = quantity × cost per unit ÷ (1 − waste) · 1 oz = 30 ml, dash 0.8 ml, barspoon 5 ml</p>
+    </div>
+    <div class="card">
+      <h2>Price</h2>
+      <div class="row">
+        <label class="inline"><input type="checkbox" id="sg-vat-buy" checked> Purchase prices include VAT</label>
+        <label class="inline"><input type="checkbox" id="sg-vat-sell" checked> Menu price includes VAT (18%)</label>
+      </div>
+      <div class="row">
+        <div><label for="sg-target">Target pour cost (%)</label><input id="sg-target" type="number" min="1" max="100" step="0.5" value="20"></div>
+        <div><label for="sg-round">Round the price up to (ILS)</label>
+          <select id="sg-round"><option value="0">no rounding</option><option value="1">1</option><option value="2" selected>2</option><option value="5">5</option><option value="10">10</option></select></div>
+        <div><label for="sg-price">Menu price (ILS, blank = formula price)</label><input id="sg-price" type="number" min="0" step="1" placeholder="formula price"></div>
+      </div>
+      <div id="sg-out" aria-live="polite"></div>
+    </div>
+    <div class="card">
+      <h3>Check your hand calculation</h3>
+      <div class="row">
+        <div><label for="sg-guess">Your cost per serving (ILS)</label><input id="sg-guess" type="number" step="0.01"></div>
+        <div><button type="button" id="sg-check">Check</button></div>
+      </div>
+      <p id="sg-check-out" aria-live="polite"></p>
+    </div>
+  </section>
+
+  <!-- YIELD -->
+  <section id="panel-yield" class="panel">
+    <div class="card">
+      <h2>Bottle yield</h2>
+      <div class="row">
+        <div><label for="yd-bottle">Bottle size (ml)</label><input id="yd-bottle" type="number" min="50" step="10" value="700"></div>
+        <div><label for="yd-pour">Pour (ml)</label><input id="yd-pour" type="number" min="5" step="5" value="45"></div>
+        <div><label for="yd-waste">Waste allowance: <span id="yd-waste-v">3</span>%</label><input id="yd-waste" type="range" min="0" max="10" step="1" value="3"></div>
+        <div><label for="yd-price">Bottle price incl. VAT (ILS)</label><input id="yd-price" type="number" min="0" step="0.1" value="105.90"></div>
+      </div>
+      <div class="chips" aria-label="Quick settings">
+        <button type="button" class="secondary" data-bottle="700">700 ml</button>
+        <button type="button" class="secondary" data-bottle="750">750 ml</button>
+        <button type="button" class="secondary" data-bottle="1000">1,000 ml</button>
+        <button type="button" class="secondary" data-pour="30">30 ml</button>
+        <button type="button" class="secondary" data-pour="45">45 ml</button>
+        <button type="button" class="secondary" data-pour="60">60 ml</button>
+      </div>
+      <div id="yd-out" aria-live="polite"></div>
+      <p class="formula">usable ml = bottle ml × (1 − waste) · servings = usable ml ÷ pour, rounded down · cost per serving check = bottle price ex VAT ÷ servings</p>
+      <h3>Servings per bottle at a glance</h3>
+      <div class="table-wrap" id="yd-grid"></div>
+    </div>
+    <div class="card">
+      <h2>Produce yield: cost per ml of juice</h2>
+      <div class="chips">
+        <button type="button" class="secondary" data-fruit="lime">Limes 6.90 per 350 g, 300 ml/kg</button>
+        <button type="button" class="secondary" data-fruit="lemon">Lemons 12.90 per kg, 300 ml/kg</button>
+        <button type="button" class="secondary" data-fruit="grapefruit">Grapefruit 7.90 per kg, 400 ml/kg</button>
+      </div>
+      <div class="row">
+        <div><label for="pd-price">Pack price incl. VAT (ILS)</label><input id="pd-price" type="number" min="0" step="0.1" value="6.90"></div>
+        <div><label for="pd-kg">Pack weight (kg)</label><input id="pd-kg" type="number" min="0.01" step="0.01" value="0.35"></div>
+        <div><label for="pd-yield">Juice yield (ml per kg)</label><input id="pd-yield" type="number" min="1" step="1" value="300"></div>
+        <div><label for="pd-qty">Juice in the drink (ml)</label><input id="pd-qty" type="number" min="0" step="2.5" value="20"></div>
+        <div><label for="pd-waste">Waste (%)</label><input id="pd-waste" type="number" min="0" max="90" step="1" value="10"></div>
+      </div>
+      <div id="pd-out" aria-live="polite"></div>
+      <h3>Your own yield test</h3>
+      <div class="row">
+        <div><label for="pd-g">Fruit weight (g)</label><input id="pd-g" type="number" min="1" step="1" value="520"></div>
+        <div><label for="pd-ml">Juice (ml)</label><input id="pd-ml" type="number" min="0" step="1" value="158"></div>
+        <div><button type="button" id="pd-use">Use my yield</button></div>
+      </div>
+      <p class="formula">price per kg ex VAT = pack price ÷ 1.18 ÷ kg · cost per ml of juice = price per kg ex VAT ÷ ml per kg · yield = juice ml ÷ fruit g × 1,000</p>
+    </div>
+  </section>
+
+  <!-- MENU -->
+  <section id="panel-menu" class="panel">
+    <div class="card">
+      <h2>Settings</h2>
+      <div class="row">
+        <label class="inline"><input type="checkbox" id="mn-vat" checked> Menu prices include VAT (18%)</label>
+        <div><label for="mn-target">Target pour cost (%)</label><input id="mn-target" type="number" min="1" max="100" step="0.5" value="20"></div>
+        <div><label for="mn-round">Round formula prices up to (ILS)</label>
+          <select id="mn-round"><option value="0">no rounding</option><option value="1">1</option><option value="2" selected>2</option><option value="5">5</option><option value="10">10</option></select></div>
+      </div>
+      <details>
+        <summary>Price list (edit prices, sizes, waste and yield)</summary>
+        <div class="table-wrap"><table class="editor" id="pl-table"></table></div>
+        <p class="formula">cost per unit = price ÷ 1.18 ÷ size (juice: ÷ kg ÷ ml per kg), shown to 4 decimals</p>
+      </details>
+    </div>
+    <div class="card">
+      <h2>Menu</h2>
+      <div class="table-wrap"><table id="mn-table"></table></div>
+      <div class="row">
+        <div><button type="button" class="secondary" id="mn-formula">Set every final price to its formula price</button></div>
+        <div><button type="button" class="secondary" id="mn-add">Add a drink</button></div>
+        <div><button type="button" class="secondary" id="mn-reset">Reset to the course example</button></div>
+        <div id="mn-csv"></div>
+      </div>
+      <p class="formula">pour cost = cost ÷ (price ÷ 1.18) · gross profit = net − cost · popularity = sold ÷ all sold (average = 100% ÷ drinks) · class: star / plowhorse / puzzle / dog vs the averages</p>
+    </div>
+    <div class="card" id="mn-summary" aria-live="polite"></div>
+    <div class="card" id="mn-editor"></div>
+  </section>
+
+  <!-- VARIANCE -->
+  <section id="panel-variance" class="panel">
+    <div class="card">
+      <h2>POS sales × standard recipes = theoretical ml</h2>
+      <div class="table-wrap"><table class="editor" id="vr-sales"></table></div>
+    </div>
+    <div class="card">
+      <h2>Counts, deliveries and waste log</h2>
+      <div class="row">
+        <div><label for="vr-tol">Tolerance (±%)</label><input id="vr-tol" type="number" min="0" step="0.5" value="3"></div>
+        <div><button type="button" class="secondary" id="vr-reset">Reset to the worksheet</button></div>
+        <div id="vr-csv"></div>
+      </div>
+      <div class="table-wrap"><table class="editor" id="vr-items"></table></div>
+      <div class="table-wrap"><table id="vr-out" aria-live="polite"></table></div>
+      <div id="vr-tot" aria-live="polite"></div>
+      <p class="formula">actual ml = (opening + received − closing) × bottle ml · variance = actual − theoretical · % = variance ÷ theoretical × 100 · unexplained = variance − logged waste · value = variance ml × cost per ml</p>
+    </div>
+  </section>
+
+  <!-- EXAM -->
+  <section id="panel-exam" class="panel">
+    <div class="card">
+      <h2>The data <span class="pill" id="ex-seed"></span></h2>
+      <div id="ex-data"></div>
+      <div class="row">
+        <div><button type="button" class="secondary" id="ex-new">New data (retake with a new seed)</button></div>
+        <div><button type="button" class="secondary" id="ex-published">Published data (seed 1)</button></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Your answers</h2>
+      <p class="muted">Enter percentages as numbers (18.6 for 18.6%). Money to 2 decimals. Leave blank what you did not answer.</p>
+      <div id="ex-form"></div>
+      <div class="row">
+        <div><label for="ex-f">Part F, your report, self-scored (0–4)</label><input id="ex-f" type="number" min="0" max="4" step="1"></div>
+        <div><button type="button" id="ex-mark">Mark parts A–E</button></div>
+      </div>
+    </div>
+    <div class="card" id="ex-result" aria-live="polite" hidden></div>
+  </section>
+</main>
+<script src="../common/sim.js"></script>
+<script src="../common/bar-math.js"></script>
+<script src="../common/ops-math.js"></script>
+<script src="costing-data.js"></script>
+<script src="costing-core.js"></script>
+<script src="costing.js"></script>
+</body>
+</html>

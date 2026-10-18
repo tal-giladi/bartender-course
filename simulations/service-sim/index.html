@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Service shift</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="service.css">
+</head>
+<body>
+<main>
+  <h1>Service shift</h1>
+  <div id="label-slot"></div>
+  <p class="muted">Tickets arrive; you make the drinks with the station's actions and serve each ticket when all its drinks are ready. The shift clock moves only when you act: every action adds its fixed time from lesson 08.5 (glass 2 s, ice 3 s, pour 4 s first / 2 s same bottle in a row, top 3 s, muddle 8 s, shake 12 s and stir 20 s for one or two at once, stir in glass 5 s, strain 3 s, garnish 4 s, beer 8 s, wine 6 s, rinse 3 s, bin 2 s, serve 3 s). Take your time to decide: only the sequence counts. Station: 4 tins, 2 mixing glasses.</p>
+
+  <section class="card task" id="task-card" aria-live="polite"></section>
+
+  <div id="game">
+    <div class="statusbar card" id="status" aria-live="polite"></div>
+    <div class="layout">
+        <section class="card" id="actions" aria-label="Actions on the selected drinks">
+          <h2>Actions <span class="muted small" id="sel-summary"></span></h2>
+          <div class="act-row">
+            <div class="grow"><label for="a-glass">Glass</label><select id="a-glass"></select></div>
+            <button type="button" data-act="glass">Take glass</button>
+            <button type="button" data-act="ice-cubes" class="secondary">Ice: cubes</button>
+            <button type="button" data-act="ice-crushed" class="secondary">Ice: crushed</button>
+            <button type="button" data-act="tin" class="secondary">Use a tin</button>
+            <button type="button" data-act="mix" class="secondary">Use a mixing glass</button>
+          </div>
+          <div class="act-row">
+            <div class="grow"><label for="a-bottle">Ingredient</label><select id="a-bottle"></select></div>
+            <div class="ml"><label for="a-ml">ml</label><input id="a-ml" type="number" min="1" max="250" step="2.5" value="30"></div>
+            <button type="button" data-act="pour">Pour / add</button>
+            <div class="grow"><label for="a-top">Top with</label><select id="a-top"></select></div>
+            <button type="button" data-act="top">Top</button>
+          </div>
+          <div class="chips" id="chips"></div>
+          <div class="act-row">
+            <button type="button" data-act="muddle" class="secondary">Muddle</button>
+            <button type="button" data-act="shake">Shake</button>
+            <button type="button" data-act="stir">Stir (mixing glass)</button>
+            <button type="button" data-act="stirGlass" class="secondary">Stir in glass</button>
+            <button type="button" data-act="strain">Strain</button>
+            <button type="button" data-act="beer" class="secondary">Draught beer</button>
+            <button type="button" data-act="wine" class="secondary">Glass of wine</button>
+          </div>
+          <div class="act-row">
+            <div class="grow"><label for="a-garnish">Garnish</label><select id="a-garnish"></select></div>
+            <button type="button" data-act="garnish">Garnish</button>
+            <button type="button" data-act="bin" class="secondary danger">Bin selected</button>
+            <button type="button" data-act="clear" class="secondary">Clear selection</button>
+          </div>
+          <p id="msg" class="msg" role="status" aria-live="polite"></p>
+          <p id="hint" class="hint" aria-live="polite"></p>
+        </section>
+        <section id="tickets" aria-label="Open tickets"></section>
+      <div class="col-side">
+        <section class="card" id="stock" aria-label="Stock"></section>
+        <section class="card" id="station" aria-label="Station"></section>
+        <section class="card" id="log" aria-label="Shift log"></section>
+      </div>
+    </div>
+  </div>
+  <section id="debrief" hidden></section>
+</main>
+<script src="../common/sim.js"></script>
+<script src="../common/bar-math.js"></script>
+<script src="../common/ops-math.js"></script>
+<script src="../common/recipes.js"></script>
+<script src="service-cards.js"></script>
+<script src="service-core.js"></script>
+<script src="service.js"></script>
+</body>
+</html>

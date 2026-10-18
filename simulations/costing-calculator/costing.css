@@ -1,0 +1,31 @@
+.tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0; }
+.tab { background: transparent; color: var(--fg); border-color: var(--line); }
+.tab[aria-pressed="true"] { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+.panel[hidden] { display: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.chips button { min-height: 36px; padding: 6px 10px; font-size: .9rem; }
+label.inline { display: flex; gap: 8px; align-items: center; color: var(--fg); font-size: .95rem; flex: 1 1 240px; }
+label.inline input { width: auto; min-height: 0; }
+.editor input, .editor select { min-width: 72px; padding: 6px; min-height: 36px; }
+.editor td.name input { min-width: 160px; }
+.editor .rm, .linkish { background: transparent; color: var(--fg); border-color: var(--line); padding: 4px 10px; min-height: 36px; }
+.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+tr.total td { font-weight: 700; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 10px 0; }
+.kpi { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+.kpi .v { font-size: 1.3rem; font-weight: 700; }
+.kpi .f { font-family: ui-monospace, Consolas, monospace; font-size: .78rem; color: var(--muted); overflow-wrap: anywhere; }
+.task h2 { margin-top: 0; }
+.ok-target { color: var(--good); font-weight: 600; }
+.miss-target { color: var(--bad); font-weight: 600; }
+.class-star { color: var(--good); } .class-dog { color: var(--bad); } .class-puzzle, .class-plowhorse { color: var(--warn); }
+.exam-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
+.exam-grid label { margin-top: 4px; }
+fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin: 10px 0; }
+legend { font-weight: 600; padding: 0 4px; }
+tr.pts0 td.p { color: var(--bad); font-weight: 700; } tr.ptsfull td.p { color: var(--good); font-weight: 700; } tr.ptspart td.p { color: var(--warn); font-weight: 700; }
+a.button-link { display: inline-flex; align-items: center; min-height: 40px; padding: 8px 14px; border: 1px solid var(--line);
+  border-radius: 8px; color: var(--fg); text-decoration: none; }
+a.button-link:hover { border-color: var(--accent); }
+tr.selected td { background: color-mix(in srgb, var(--accent) 12%, transparent); }
+.table-wrap { position: relative; } /* keeps .sr-only cells from widening the page */

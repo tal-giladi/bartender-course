@@ -84,7 +84,7 @@ The example menu from [the 06.8 solution](../../labs/module-06/twelve-cocktail-m
 | Virgin Mary (0%) | 2.89 | 18 | 26 | 13.1% | 19.14 | alcohol-free band |
 | Grapefruit-basil soda (0%) | 2.47 | 16 | 26 | 11.2% | 19.56 | alcohol-free band |
 
-For one week's sales of 630 drinks (the mix in `pos-sales-week.csv`), net sales are 30,025.42 ILS, theoretical cost 6,325.50 ILS, so the **menu pour cost is 21.1%** and the average gross profit 37.62 ILS per drink: slightly above the 20% target, inside the 18–24% range BevSpot reports for typical bars. The Hugo Spritz (65 sold, 26.2%) is the first drink to look at: raising it to 62 ILS alone brings the menu pour cost to 20.9%, and a better elderflower liqueur price would lower it further.
+For one week's sales of 630 drinks (the mix in `pos-sales-week.csv`), net sales are 30,025.42 ILS, theoretical cost 6,325.89 ILS, so the **menu pour cost is 21.1%** and the average gross profit 37.62 ILS per drink: slightly above the 20% target, inside the 18–24% range BevSpot reports for typical bars. The Hugo Spritz (65 sold, 26.2%) is the first drink to look at: raising it to 62 ILS alone brings the menu pour cost to 20.9%, and a better elderflower liqueur price would lower it further.
 
 The week's stock count for ten bottles shows a total variance worth 168.90 ILS (tequila 12.0% and white rum 7.1% over the POS, bourbon 8.9% with a logged spill), so the **actual pour cost is 21.6%**, 0.56 points above theoretical. The details are in the solution file.
 
@@ -136,7 +136,7 @@ Your first formula prices will spread widely, from under 20 ILS for alcohol-free
 <details>
 <summary>Reference result (course example menu)</summary>
 
-Menu pour cost 21.1% for 630 drinks (net sales 30,025.42 ILS, theoretical cost 6,325.50 ILS), average gross profit 37.62 ILS. Reconciliation: variance value 168.90 ILS (tequila 270 ml, 12.0%, 65.34 ILS; white rum 300 ml, 7.1%, 240 ml unexplained; bourbon 160 ml, 8.9%, 115 ml unexplained; sweet vermouth 4.2% fully explained by the discarded bottle). Actual pour cost 21.6%. Weakest drink: Hugo Spritz (26.2%, 65 sold). Full working: `costing-project-solution.md`.
+Menu pour cost 21.1% for 630 drinks (net sales 30,025.42 ILS, theoretical cost 6,325.89 ILS), average gross profit 37.62 ILS. Reconciliation: variance value 168.90 ILS (tequila 270 ml, 12.0%, 65.34 ILS; white rum 300 ml, 7.1%, 240 ml unexplained; bourbon 160 ml, 8.9%, 115 ml unexplained; sweet vermouth 4.2% fully explained by the discarded bottle). Actual pour cost 21.6%. Weakest drink: Hugo Spritz (26.2%, 65 sold). Full working: `costing-project-solution.md`.
 
 </details>
 

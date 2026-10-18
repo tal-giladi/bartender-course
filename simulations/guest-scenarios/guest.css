@@ -1,0 +1,22 @@
+.task h2 { margin-top: 0; }
+.situation { border-left: 4px solid var(--line); padding-left: 10px; }
+.progress { font-size: .85rem; color: var(--muted); }
+.prompt { font-size: 1.05rem; margin: 10px 0; }
+.choices { display: grid; gap: 8px; margin: 10px 0; }
+.choices button { text-align: left; background: var(--card); color: var(--fg); border-color: var(--line); padding: 10px 12px; line-height: 1.4; }
+.choices button:hover { border-color: var(--accent); }
+.reaction { background: var(--bg); border: 1px dashed var(--line); border-radius: 8px; padding: 10px; margin: 10px 0; }
+.picker { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px; }
+.picker button { text-align: left; }
+.picker button.secondary { background: var(--card); }
+.pts { font-weight: 700; white-space: nowrap; }
+.pts-2 { color: var(--good); } .pts-1 { color: var(--warn); } .pts-0 { color: var(--bad); }
+.flag { color: var(--bad); font-weight: 700; }
+.verdict { font-size: 1.2rem; font-weight: 700; }
+.path td:first-child { width: 2.5em; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 10px 0; }
+.kpi { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+.kpi .v { font-size: 1.3rem; font-weight: 700; }
+details.scn { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin: 8px 0; }
+details.scn summary { cursor: pointer; font-weight: 600; }

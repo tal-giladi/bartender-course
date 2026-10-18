@@ -37,7 +37,7 @@ button:disabled { opacity: .5; cursor: not-allowed; }
 :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 table { width: 100%; border-collapse: collapse; font-size: .92rem; }
 th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
-.table-wrap { overflow-x: auto; }
+.table-wrap { overflow-x: auto; position: relative; }
 .good { color: var(--good); } .bad { color: var(--bad); } .warn { color: var(--warn); } .muted { color: var(--muted); }
 .big { font-size: 1.6rem; font-weight: 700; }
 .formula { font-family: ui-monospace, Consolas, monospace; font-size: .88rem; color: var(--muted); }

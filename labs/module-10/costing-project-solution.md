@@ -47,9 +47,9 @@ Notes: the base spirit is the largest line in every cocktail; the Paloma's premi
 ## 3. Menu-wide check (week in `pos-sales-week.csv`, 630 drinks)
 
 - Net sales: 30,025.42 ILS (35,430 ILS incl. VAT)
-- Theoretical cost: 6,325.50 ILS
-- Menu pour cost: 6,325.50 ÷ 30,025.42 = **21.1%**
-- Average gross profit: 23,699.92 ÷ 630 = **37.62 ILS** per drink
+- Theoretical cost: 6,325.89 ILS
+- Menu pour cost: 6,325.89 ÷ 30,025.42 = **21.1%**
+- Average gross profit: 23,699.53 ÷ 630 = **37.62 ILS** per drink
 - Action: the Hugo Spritz sells 65 a week at 26.2%. At 62 ILS the menu pour cost falls to 20.9%; a lower elderflower liqueur price would lower it further. The Mai Tai (27.1%) sells only 25 and earns 44.47 ILS a glass: keep.
 
 ## 4. Reconciliation (`inventory-week-menu.csv`, tolerance 3%)
@@ -70,7 +70,7 @@ Notes: the base spirit is the largest line in every cocktail; the Paloma's premi
 
 Theoretical check, gin: 55 Gin Basil Smash × 60 + 60 Negroni × 30 = 3,300 + 1,800 = 5,100 ml. Vodka: 20 Bloody Mary × 45 + 75 Espresso Martini × 50 = 900 + 3,750 = 4,650 ml.
 
-Actual cost = 6,325.50 + 168.90 = 6,494.40 ILS (the other ingredients were not counted and are assumed at theoretical). Actual pour cost = 6,494.40 ÷ 30,025.42 = **21.6%**, 0.56 points above theoretical.
+Actual cost = 6,325.89 + 168.90 = 6,494.79 ILS (the other ingredients were not counted and are assumed at theoretical). Actual pour cost = 6,494.79 ÷ 30,025.42 = **21.6%**, 0.56 points above theoretical.
 
 ## 5. Example report
 
