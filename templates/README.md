@@ -13,4 +13,5 @@ Copy a template into your own notes (a notebook, a document or a spreadsheet) an
 | [Inventory count](inventory-count.md) | Stock counts, par levels and variance | Modules 8 and 10 |
 | [Waste log](waste-log.md) | Recording every ml not sold | Lesson 08.4 |
 | [Service debrief](service-debrief.md) | After a service simulation run | Lessons 08.8 and 11.4 |
+| [Standard recipe](standard-recipe.md) | The bar's costed house spec for one drink | Module 10 |
 | [Performance report](performance-report.md) | Your final assessment results | Lesson 11.7 |
