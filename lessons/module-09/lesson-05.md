@@ -104,6 +104,9 @@ If there is no valid ID or you are not sure: refuse alcohol politely and offer a
 
 The Licensing of Businesses Law defines an intoxicating drink (משקה משכר, *mashke meshaker*) as a fermented or alcoholic drink containing 2% ABV or more. By that definition a 0.0% beer is not an intoxicating drink. This course did not confirm that the Penal Law uses exactly the same line, and many venues do not serve "beer" of any kind to minors as house policy (professional judgment). Ask your manager, and never serve a drink with any alcohol to a minor. This answers the open question in [lesson 07.5](../module-07/lesson-05.md).
 
+> [!CAUTION]
+> **Unconfirmed legal point.** The course could not confirm whether the Penal Law uses the same 2% ABV line as the Licensing of Businesses Law (checked 2026-10-18). Do not rely on it: treat every drink that contains any alcohol, including "alcohol-free" beer up to 0.5%, as off limits for minors, and ask your manager or a lawyer for the current rule.
+
 ### The 23:00–06:00 sale ban
 
 Licensing of Businesses Law section 2(a1) (statutory): a business selling alcohol may not sell, serve or supply alcohol from 23:00 to 06:00. The exemptions:
@@ -119,6 +122,9 @@ For a bartender this means: drinks served at the bar for drinking there are not 
 - A police officer of the rank of רב-פקד (*rav-pakad*, chief inspector) or above may order a business closed for **up to 15 days** on reasonable suspicion of an offence under Penal Law section 193A or the night-sale ban, if the business received a written warning in the previous two years; for a repeat within three years, up to 30 days without a new warning (Licensing of Businesses Law s. 23(a1)–(a2)). Up to 30 days is also possible to keep public order (s. 23(a)). In 2014 the police held 1,196 hearings against businesses that sold alcohol to minors and closed 630 of them (State Comptroller, 2016).
 - The 2010 law also gave police the power to seize or pour out alcohol drunk in a public place (not inside licensed bars, restaurants and venues) when it may disturb public order, and from minors drinking without a responsible adult. Those powers were enacted as a temporary provision; this course did not confirm their current status (checked 2026-10-18). Either way, most bars do not let guests leave with open glasses (house policy).
 - Supplying alcohol to a drunk person is covered by section 193(c), see [lesson 09.4](lesson-04.md).
+
+> [!CAUTION]
+> **Unconfirmed legal point.** The 2010 police power to seize or pour out alcohol in public places was a temporary provision, and the course could not confirm whether it is still in force (checked 2026-10-18). Do not quote it to guests or police as current law; ask your manager or a lawyer.
 
 ### Smoking
 

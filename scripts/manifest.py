@@ -1,6 +1,7 @@
 """Canonical lesson manifest: module titles, stages and lesson titles.
 Single source of truth for _sidebar.md, lesson ids and H1s. Run `py scripts/manifest.py` to regenerate _sidebar.md.
 Paths are stable ids: never rename, reorder or remove a lesson once published; add new lessons at the end of a module."""
+import re
 from pathlib import Path
 
 STAGES = {
@@ -134,4 +135,7 @@ def sidebar():
 if __name__ == "__main__":
     root = Path(__file__).resolve().parent.parent
     (root / "_sidebar.md").write_text(sidebar(), encoding="utf-8", newline="\n")
+    # docsify copy for GitHub Pages / offline: absolute links so they resolve from any page (relativePath is on)
+    site = re.sub(r"\]\((?!/\)|https?:)([^)]+)\)", r"](/\1)", sidebar())
+    (root / "_site_sidebar.md").write_text(site, encoding="utf-8", newline="\n")
     print(f"{len(list(lessons()))} lessons, {len(MODULES)} modules")

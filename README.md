@@ -21,3 +21,13 @@ Start with [Module 1](lessons/module-01/lesson-01.md) and work in order. The [co
 
 > [!IMPORTANT]
 > This course is educational. It is not an accredited qualification and grants no licence or certificate. Practise mostly with water and alcohol-free ingredients; if you taste real alcohol, keep it small, optional and never before driving. Follow Israeli law on the sale and service of alcohol.
+
+## Read it offline
+
+The course also runs as a small website with no internet connection. Download the repository (on GitHub: Code → Download ZIP) and unzip it, then from that folder run:
+
+```bash
+python -m http.server 8080
+```
+
+and open `http://localhost:8080` in your browser. Everything it needs, including the simulations, is in the folder.

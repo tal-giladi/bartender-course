@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bartending: From Zero to Your First Bar Job in Israel</title>
+  <meta name="description" content="Self-study bartending course: tools, spirits, technique, classic cocktails, speed, costing and responsible service under Israeli law, practised at home.">
+  <link rel="stylesheet" href="vendor/vue.css">
+  <style>
+    :root { --theme-color: #b5541b; }
+    .markdown-section { max-width: 900px; }
+  </style>
+</head>
+<body>
+  <div id="app">Loading…</div>
+  <script>
+    window.$docsify = {
+      name: "Bartending",
+      repo: "tal-giladi/bartender-course",
+      loadSidebar: "_site_sidebar.md",
+      alias: { ".*/_site_sidebar.md": "/_site_sidebar.md" },
+      subMaxLevel: 2,
+      auto2top: true,
+      relativePath: true,
+      search: { depth: 3, placeholder: "Search lessons and recipes" },
+      mermaidConfig: { querySelector: ".mermaid" },
+      plugins: [
+        function (hook) {
+          // Hide the lesson front-matter (metadata for the Academy importer).
+          hook.beforeEach(function (content) {
+            return content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+          });
+          // Links to real files (simulations, CSVs, lab folders) open the file, not a docsify route.
+          hook.doneEach(function () {
+            var base = location.pathname.replace(/[^/]*$/, "");
+            document.querySelectorAll('.markdown-section a[href^="#/"]').forEach(function (a) {
+              var path = a.getAttribute("href").slice(2);
+              var file = path.split("?")[0];
+              var last = file.split("/").pop();
+              if (!(file.slice(-1) === "/" || /\.[a-z0-9]+$/i.test(last))) return;
+              // GitHub Pages has no folder listings: show lab folders on GitHub instead.
+              var online = /github\.io$/.test(location.hostname) && file.slice(-1) === "/";
+              a.setAttribute("href", online ? "https://github.com/tal-giladi/bartender-course/tree/main/" + file : base + path);
+              a.setAttribute("target", "_blank");
+              a.setAttribute("rel", "noopener");
+            });
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="vendor/docsify.min.js"></script>
+  <script src="vendor/search.min.js"></script>
+  <script src="vendor/docsify-plugin-flexible-alerts.min.js"></script>
+  <script src="vendor/mermaid.min.js"></script>
+  <script src="vendor/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false });</script>
+</body>
+</html>
