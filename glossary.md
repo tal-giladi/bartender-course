@@ -14,13 +14,17 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **ABV (alcohol by volume)** — the percentage of a drink's volume that is pure ethanol, measured at 20 °C; written "% vol" on labels ([02.1](lessons/module-02/lesson-01.md))
 - **Accuracy** — how close a pour is to its target ([03.2](lessons/module-03/lesson-02.md))
 - **Achmash** — Hebrew acronym for the shift manager, the person in charge of the shift ([01.1](lessons/module-01/lesson-01.md))
+- **Acknowledge (a guest)** — a one-second signal (eye contact, nod, "one minute") that you have seen a waiting guest, given even while busy ([09.1](lessons/module-09/lesson-01.md))
 - **Active recall (testing effect)** — remembering from memory and then checking, which fixes memory better than rereading ([05.1](lessons/module-05/lesson-01.md))
+- **Actual pour cost** — cost of actual usage ÷ net sales; what really happened ([10.3](lessons/module-10/lesson-03.md))
 - **Aeration** — beating tiny air bubbles into a drink, which makes it lighter, frothier and cloudier; strongest when shaking ([04.1](lessons/module-04/lesson-01.md))
 - **Ageing (maturation)** — resting a spirit or wine in wooden barrels so it gains colour, softness and aromas such as vanilla and spice ([02.1](lessons/module-02/lesson-01.md))
 - **Alcohol-free (UK)** — alcohol removed to no more than 0.05% ABV ([07.5](lessons/module-07/lesson-05.md))
+- **Alcohol poisoning** — a dangerous level of alcohol in the body; signs include confusion, vomiting, slow breathing and passing out; call 101 ([09.4](lessons/module-09/lesson-04.md))
 - **Ale / lager** — beer fermented with top-fermenting yeast at warmer temperatures / bottom-fermenting yeast at cool temperatures ([02.8](lessons/module-02/lesson-08.md))
 - **Amargo bitters** — Peruvian aromatic bitters dropped on the foam of a Pisco Sour; Angostura is the usual substitute ([06.2](lessons/module-06/lesson-02.md))
 - **Amaro** — a bittersweet Italian herbal liqueur, such as Amaro Nonino in the Paper Plane ([06.5](lessons/module-06/lesson-05.md))
+- **Anaphylaxis** — a severe, life-threatening allergic reaction that usually starts within minutes; call 101 ([09.3](lessons/module-09/lesson-03.md))
 - **Aperitif** — a drink served before a meal to open the appetite ([02.7](lessons/module-02/lesson-07.md))
 - **Aquafaba** — the liquid from a can of chickpeas, used as a vegan foaming agent instead of egg white ([04.4](lessons/module-04/lesson-04.md))
 - **Arak** — dry, usually grape-based anise spirit of the Levant, often 50% ABV or more ([02.5](lessons/module-02/lesson-05.md))
@@ -73,6 +77,7 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Citrus vodka** — vodka flavoured with lemon or other citrus ([05.5](lessons/module-05/lesson-05.md))
 - **Claw grip** — holding food with fingertips tucked and knuckles guiding the blade ([01.4](lessons/module-01/lesson-04.md))
 - **Cleaning** — removing visible dirt and sugar with detergent and water ([01.7](lessons/module-01/lesson-07.md))
+- **Clean set** — washed or fresh tools, fresh ice, a garnish from a closed container and washed hands, used for an allergy order ([09.3](lessons/module-09/lesson-03.md))
 - **Clear ice** — ice without trapped air, made by directional freezing ([01.6](lessons/module-01/lesson-06.md))
 - **Close (bar close)** — the routine from last orders to locked door: tabs closed, prep stored or discarded, cleaning, restocking, logs and handover note ([08.1](lessons/module-08/lesson-01.md))
 - **Cobbler glass** — a small goblet named in the IBA Whiskey Sour spec ([05.5](lessons/module-05/lesson-05.md))
@@ -81,13 +86,21 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Cognac** — grape brandy from the Cognac region of France; VS, VSOP, Napoléon and XO mean at least 2, 4, 6 and 10 years ([02.4](lessons/module-02/lesson-04.md))
 - **Collins** — a sour lengthened with soda water and served in a tall glass full of ice ([06.1](lessons/module-06/lesson-01.md))
 - **Collins glass** — taller, narrower glass, about 300–410 ml ([01.5](lessons/module-01/lesson-05.md))
+- **Comp** — a drink or item given free; a manager's decision ([09.2](lessons/module-09/lesson-02.md))
+- **Component minimum** — the lowest score a component may have for the assessment to be passed, whatever the total ([11.1](lessons/module-11/lesson-01.md))
 - **Consistency** — how close repeated pours are to each other ([03.2](lessons/module-03/lesson-02.md))
 - **Cork taint ("corked")** — a fault that gives wine a musty, wet-cardboard smell ([07.4](lessons/module-07/lesson-04.md))
+- **Costing** — working out the cost per serving of a drink from a price list and its spec ([10.1](lessons/module-10/lesson-01.md))
+- **Cost per ml** — package price ex VAT divided by package size in ml ([10.1](lessons/module-10/lesson-01.md))
+- **Cost per serving** — the total cost of every ingredient and garnish in one drink, ex VAT, including waste allowances ([10.1](lessons/module-10/lesson-01.md))
 - **Coupe** — stemmed glass with a shallow rounded bowl ([01.5](lessons/module-01/lesson-05.md))
 - **Cracked ice** — cubes broken into 2–4 pieces ([01.6](lessons/module-01/lesson-06.md))
 - **Crema** — the fine foam on fresh espresso, made of coffee oils and gas ([05.7](lessons/module-05/lesson-07.md))
+- **Cross-contact** — an allergen getting into a drink that does not contain it, through tools, ice, hands or garnish ([09.3](lessons/module-09/lesson-03.md))
+- **Cross-contamination** — transfer of bacteria, allergens or chemicals into food or drink ([09.6](lessons/module-09/lesson-06.md))
 - **Cross-utilisation** — choosing menu drinks that share ingredients, to keep prep short and waste low ([06.8](lessons/module-06/lesson-08.md))
 - **Crushed (pebble) ice** — small pieces of ice for juleps, swizzles and tiki drinks ([01.6](lessons/module-01/lesson-06.md))
+- **Cut-off date** — the latest date of birth that makes a guest 18 today (today minus 18 years) ([09.5](lessons/module-09/lesson-05.md))
 
 ## D
 
@@ -100,6 +113,7 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Dilution** — water added to a drink by melting ice ([01.6](lessons/module-01/lesson-06.md))
 - **Dilution %** — (weight after − weight before) ÷ weight before × 100 ([03.5](lessons/module-03/lesson-05.md))
 - **Distillation** — heating a fermented liquid so the alcohol evaporates before water and is collected as a stronger spirit ([02.1](lessons/module-02/lesson-01.md))
+- **Dog** — a drink below average in both popularity and gross profit ([10.4](lessons/module-10/lesson-04.md))
 - **Double straining** — straining through a Hawthorne and a fine strainer together to remove ice shards and pulp ([01.3](lessons/module-01/lesson-03.md))
 - **Double straining (fine straining)** — straining through a Hawthorne and a fine mesh strainer at the same time, to catch ice shards, pulp, herbs and egg ([04.5](lessons/module-04/lesson-05.md))
 - **Draught (draft) beer** — beer served from a keg through a tap ([07.2](lessons/module-07/lesson-02.md))
@@ -111,17 +125,22 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 
 - **Elderflower liqueur** — a sweet liqueur flavoured with elder blossoms, used in the Hugo Spritz ([06.5](lessons/module-06/lesson-05.md))
 - **Error %** — (measured − target) ÷ target × 100 ([03.2](lessons/module-03/lesson-02.md))
+- **Exam conditions** — closed book (except costing), one sitting, no restarts; the first complete run of an exam preset counts ([11.1](lessons/module-11/lesson-01.md))
+- **Exam set** — the fixed series of movements filmed twice in the technique exam ([11.3](lessons/module-11/lesson-03.md))
 - **Express** — squeeze or twist a citrus peel so its oils spray onto the drink's surface ([04.7](lessons/module-04/lesson-07.md))
+- **Ex VAT / net of VAT** — a price with VAT removed: price incl. VAT ÷ 1.18 in Israel at the 18% rate ([10.1](lessons/module-10/lesson-01.md))
 
 ## F
 
 - **Fermentation** — yeast turning sugar into ethanol and carbon dioxide ([02.1](lessons/module-02/lesson-01.md))
 - **Few dashes** — an unfixed small number of dashes, usually 2–3; follow the house spec ([05.3](lessons/module-05/lesson-03.md))
 - **FIFO** — first in, first out: use the oldest stock or prep first ([01.7](lessons/module-01/lesson-07.md))
+- **Final assessment** — the course's closing set of exams (written, recipe recall, technique, service, guest scenarios, costing) and a performance report; self-scored, not a qualification ([11.1](lessons/module-11/lesson-01.md))
 - **Fine strainer** — small conical mesh sieve for double straining ([01.3](lessons/module-01/lesson-03.md))
 - **Fizz** — a shaken sour topped with a splash of soda and served in a tall glass without ice ([06.1](lessons/module-06/lesson-01.md))
 - **Float** — the last, lightest layer poured on top of a drink ([04.5](lessons/module-04/lesson-05.md))
 - **Flor** — the layer of yeast that protects fino and manzanilla sherry from air ([02.7](lessons/module-02/lesson-07.md))
+- **Food allergy** — an immune reaction to a food protein; even a trace can cause a reaction ([09.3](lessons/module-09/lesson-03.md))
 - **Forecast** — the expected number of each drink for a shift, usually based on past sales ([08.2](lessons/module-08/lesson-02.md))
 - **Fortified wine** — wine with added grape spirit, such as sherry and port ([02.7](lessons/module-02/lesson-07.md))
 - **Free pouring** — pouring from a bottle with a speed pourer, timed with a count instead of a jigger ([03.2](lessons/module-03/lesson-02.md))
@@ -132,9 +151,11 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Garnish** — anything added to the finished drink for aroma, flavour, look or identification ([04.7](lessons/module-04/lesson-07.md))
 - **Ginger beer** — a fizzy, spicy ginger soft drink, hotter and less sweet than ginger ale ([05.6](lessons/module-05/lesson-06.md))
 - **Glasswasher** — a machine that washes and sanitises racks of glasses with a very hot final rinse or a chemical sanitiser ([08.6](lessons/module-08/lesson-06.md))
+- **Gross profit** — net price minus cost per serving, in shekels; it pays wages, rent and all other costs ([10.2](lessons/module-10/lesson-02.md))
 
 ## H
 
+- **HACCP** — Hazard Analysis and Critical Control Points, a system for finding and controlling food-safety hazards ([09.6](lessons/module-09/lesson-06.md))
 - **Half rim** — salt or sugar on the outside of half the glass rim ([04.7](lessons/module-04/lesson-07.md))
 - **Half salt rim** — salt on the outside of half the glass rim, so the guest can choose ([05.4](lessons/module-05/lesson-04.md))
 - **Handover note** — a short written note for the next shift: what ran out, what was ordered, what broke, what prep is in the fridge ([08.1](lessons/module-08/lesson-01.md))
@@ -149,13 +170,19 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Henry's law** — the amount of gas dissolved in a liquid is proportional to that gas's pressure above it ([03.6](lessons/module-03/lesson-06.md))
 - **Highball** — tall straight glass, 240–350 ml ([01.5](lessons/module-01/lesson-05.md))
 - **Holdback** — liquid left clinging to the ice after straining ([03.5](lessons/module-03/lesson-05.md))
+- **Holder (of a place)** — the person in charge of a public place or workplace, who carries legal duties (smoking law, safety training) ([09.5](lessons/module-09/lesson-05.md))
 - **House spec** — a bar's own written version of a drink, used by every bartender there ([05.1](lessons/module-05/lesson-01.md))
 
 ## I
 
 - **IBA** — International Bartenders Association; publishes the official list of classic cocktail specs in ml ([05.1](lessons/module-05/lesson-01.md))
 - **Ice well** — insulated bin of ice built into the counter in front of the bartender ([01.2](lessons/module-01/lesson-02.md))
+- **Incident log** — a written, factual record of refusals, injuries, allergy incidents and emergencies ([09.4](lessons/module-09/lesson-04.md))
+- **Input VAT** — VAT a business pays on its purchases; a VAT-registered business deducts it from the VAT it collects on sales ([10.1](lessons/module-10/lesson-01.md))
 - **Interleaving** — mixing different kinds of items in one practice session ([05.1](lessons/module-05/lesson-01.md))
+- **Intolerance** — a non-immune reaction to a food, usually dose-related (for example lactose intolerance) ([09.3](lessons/module-09/lesson-03.md))
+- **Intoxicating drink** — in the Licensing of Businesses Law, a fermented or alcoholic drink with 2% ABV or more ([09.5](lessons/module-09/lesson-05.md))
+- **Intoxication** — a state in which a person's speech, balance, coordination or behaviour is noticeably affected by alcohol ([09.4](lessons/module-09/lesson-04.md))
 - **Inventory** — all the stock a bar holds for sale ([08.4](lessons/module-08/lesson-04.md))
 
 ## J
@@ -173,9 +200,11 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 ## L
 
 - **Lacing** — rings of foam left on the inside of a clean glass as a beer is drunk ([07.1](lessons/module-07/lesson-01.md))
+- **LAST (listen, apologise, solve, thank)** — a four-step way to handle complaints used in hospitality ([09.2](lessons/module-09/lesson-02.md))
 - **Layering** — pouring liquids of different densities so they sit in separate bands; heaviest (most sugar, least alcohol) first ([04.5](lessons/module-04/lesson-05.md))
 - **Leitner system** — flashcards in numbered boxes; a correct card moves up a box, a missed card returns to box 1 ([05.1](lessons/module-05/lesson-01.md))
 - **Lengthener** — a long mixer, usually fizzy, that tops up a drink (soda, ginger beer, Prosecco) ([05.1](lessons/module-05/lesson-01.md))
+- **Licence condition** — a condition in a business licence, binding on the licensed business, published in the uniform specification for its licensing item ([09.5](lessons/module-09/lesson-05.md))
 - **Lift** — one stroke of the bar spoon from the bottom of a built drink upwards, to mix without losing fizz ([04.2](lessons/module-04/lesson-02.md))
 - **Lime cordial** — sweetened, preserved lime juice concentrate; the classic Gimlet ingredient ([06.5](lessons/module-06/lesson-05.md))
 - **Lined copper mug** — a copper mug with a stainless steel or nickel lining, safe for acidic drinks ([05.6](lessons/module-05/lesson-06.md))
@@ -187,8 +216,14 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 
 ## M
 
+- **Margin (gross margin)** — gross profit as a share of the net price; 100% minus pour cost ([10.2](lessons/module-10/lesson-02.md))
+- **Markup** — gross profit as a share of the cost ([10.2](lessons/module-10/lesson-02.md))
+- **"May contain"** — a producer's warning on a label that an allergen may be present through cross-contact ([09.3](lessons/module-09/lesson-03.md))
+- **Menu engineering** — classifying menu items by popularity and gross profit against the menu averages (Kasavana and Smith) ([10.4](lessons/module-10/lesson-04.md))
+- **Menu pour cost** — total theoretical cost ÷ total net sales for a sales mix ([10.5](lessons/module-10/lesson-05.md))
 - **Mevushal** — kosher wine that has been heat-treated, so it stays kosher when anyone opens and pours it ([07.3](lessons/module-07/lesson-03.md))
 - **Mezcal** — Mexican agave spirit from many agave species, often smoky; categories mezcal, artesanal and ancestral ([02.3](lessons/module-02/lesson-03.md))
+- **Minor** — in Israeli law, a person under 18 ([09.5](lessons/module-09/lesson-05.md))
 - **Mint sprig** — a small stem of mint with its leaves ([05.6](lessons/module-05/lesson-06.md))
 - **Mise en place** — French for "everything in its place"; the prep done before service ([01.1](lessons/module-01/lesson-01.md))
 - **Mixer** — a non-alcoholic ingredient that lengthens a drink, such as soda, tonic, cola or juice ([04.2](lessons/module-04/lesson-02.md))
@@ -200,6 +235,10 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 ## N
 
 - **Navy strength** — gin bottled at about 57% ABV ([02.2](lessons/module-02/lesson-02.md))
+- **Near miss** — an event that nearly caused harm; reported and logged like an injury ([09.6](lessons/module-09/lesson-06.md))
+- **Negative variance** — less stock used than the POS says should have been used; flagged like over-use ([11.6](lessons/module-11/lesson-06.md))
+- **Net price** — the menu price without VAT: menu price ÷ 1.18 ([10.2](lessons/module-10/lesson-02.md))
+- **Net sales** — sales without VAT for a period ([10.3](lessons/module-10/lesson-03.md))
 - **Nick & Nora** — small stemmed glass with a tall rounded bowl ([01.5](lessons/module-01/lesson-05.md))
 - **Nonic** — a pint glass with a bulge near the top ([07.1](lessons/module-07/lesson-01.md))
 - **Nucleation site** — a scratch, ice surface or particle where bubbles form and gas escapes ([03.6](lessons/module-03/lesson-06.md))
@@ -222,17 +261,23 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Pasteurised egg white** — egg white heated enough to kill bacteria such as Salmonella, sold in cartons; safe to use raw ([04.4](lessons/module-04/lesson-04.md))
 - **Peat** — decomposed plant matter burned to dry malted barley, giving smoky whisky ([02.4](lessons/module-02/lesson-04.md))
 - **Perfect (Manhattan)** — vermouth split between sweet and dry ([05.2](lessons/module-05/lesson-02.md))
+- **Performance report** — the learner's final summary of scores, result, strengths, areas to improve and remediation plan ([11.7](lessons/module-11/lesson-07.md))
 - **Pisco** — grape brandy from Peru and Chile ([02.5](lessons/module-02/lesson-05.md))
 - **Pith** — the bitter white layer under citrus skin ([01.4](lessons/module-01/lesson-04.md))
 - **Planned dilution** — water added to a batch served without ice-mixing, as a fraction of the undiluted volume ([03.1](lessons/module-03/lesson-01.md))
+- **Plowhorse** — a popular drink with below-average gross profit ([10.4](lessons/module-10/lesson-04.md))
 - **POS** — point of sale: the till or touchscreen where orders are entered and paid ([01.2](lessons/module-01/lesson-02.md))
 - **Pot still / column still** — batch still that keeps more flavour / continuous tower still that reaches higher strength ([02.1](lessons/module-02/lesson-01.md))
+- **Pour cost %** — cost per serving ÷ net price × 100; the share of the net price spent on ingredients ([10.2](lessons/module-10/lesson-02.md))
 - **Pour spout (speed pourer)** — spout fitted to a bottle for a steady stream ([01.3](lessons/module-01/lesson-03.md))
 - **Pre-diluted batch** — a batch that already contains the water ice would have added, poured straight into a chilled glass ([08.3](lessons/module-08/lesson-03.md))
 - **Pre-mix** — a batch of a drink's ingredients without water, still shaken or stirred on ice for each serving ([08.3](lessons/module-08/lesson-03.md))
 - **Prep list** — a list of what to prepare and how much, calculated from the forecast plus a buffer minus what is already in date ([08.2](lessons/module-08/lesson-02.md))
+- **Presumption of knowledge (s. 193A(c1))** — the rule that a seller who served a minor is presumed to have known, unless the minor showed a document saying they were adult ([09.5](lessons/module-09/lesson-05.md))
+- **Price band** — a narrow price range for drinks of one menu section ([10.5](lessons/module-10/lesson-05.md))
 - **Professional judgment** — a statement based on experience, not on a published source; labelled as such in this course ([06.7](lessons/module-06/lesson-07.md))
 - **Proof (US)** — twice the ABV; 80 proof = 40% ABV ([02.1](lessons/module-02/lesson-01.md))
+- **Puzzle** — a drink with above-average gross profit that sells below average ([10.4](lessons/module-10/lesson-04.md))
 
 ## Q
 
@@ -242,6 +287,9 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 
 - **Ratio** — a comparison of amounts, e.g. 2 : 1 ([03.1](lessons/module-03/lesson-01.md))
 - **Refractometer** — optical tool that measures sugar content (Brix) ([03.4](lessons/module-03/lesson-04.md))
+- **Refusal of service** — declining to serve alcohol to a guest, done privately and calmly, with an alternative offered ([09.4](lessons/module-09/lesson-04.md))
+- **Remake** — making a drink again from scratch in a clean glass with fresh ice, never by topping up the returned one ([09.2](lessons/module-09/lesson-02.md))
+- **Remediation** — targeted, logged practice on what went wrong before a retake ([11.1](lessons/module-11/lesson-01.md))
 - **Rescue** — fixing a drink by adding something small, rather than remaking it ([03.7](lessons/module-03/lesson-07.md))
 - **Retronasal smell** — smelling from inside the mouth while swallowing and breathing out ([03.3](lessons/module-03/lesson-03.md))
 - **Reverse dry shake** — shaking with ice first, straining the drink back and shaking again without ice, for the thickest foam ([04.4](lessons/module-04/lesson-04.md))
@@ -250,17 +298,24 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Rocks (old fashioned) glass** — short heavy glass, 180–300 ml ([01.5](lessons/module-01/lesson-05.md))
 - **Roll (rolling)** — mixing a drink with ice by tipping the closed shaker over and over, or pouring it between two tins, to chill it without frothing ([06.4](lessons/module-06/lesson-04.md))
 - **Round** — several drinks for one group, often identical, made together ([08.5](lessons/module-08/lesson-05.md))
+- **Rubric** — a scoring guide that says what each score looks like for each criterion ([11.1](lessons/module-11/lesson-01.md))
 
 ## S
 
+- **Safety-critical choice** — in the guest-scenarios simulation and the final assessment, a choice that fails the scenario regardless of points ([09.7](lessons/module-09/lesson-07.md))
+- **Safety-critical failure** — a mistake that fails the part it occurs in whatever the score, such as serving a possible minor without ID or scooping ice with a glass ([11.1](lessons/module-11/lesson-01.md))
 - **Safety stock** — extra stock above expected usage to cover a busy week or a late delivery ([08.4](lessons/module-08/lesson-04.md))
+- **Sales mix** — how many of each drink sell in a period; it decides the menu pour cost ([10.5](lessons/module-10/lesson-05.md))
 - **Saline** — salt solution (20% by weight in this course) added by the drop to soften bitterness ([03.3](lessons/module-03/lesson-03.md))
 - **Sanitising** — reducing germs on a clean surface to a safe level with an approved sanitiser or heat ([01.7](lessons/module-01/lesson-07.md))
 - **Savory drink** — a drink whose main character comes from salt, spice, tomato or other non-sweet flavours, such as the Bloody Mary ([06.4](lessons/module-06/lesson-04.md))
 - **Sbagliato** — a Negroni with Prosecco instead of gin ([05.3](lessons/module-05/lesson-03.md))
 - **Scaling** — multiplying every ingredient by the same number of drinks to keep the balance ([03.1](lessons/module-03/lesson-01.md))
 - **Scotch whisky** — whisky made and matured in Scotland for at least three years in oak ([02.4](lessons/module-02/lesson-04.md))
+- **Seed** — a number that fixes a simulation's random draw; a retake uses a new seed ([11.2](lessons/module-11/lesson-02.md))
 - **Served up** — chilled, strained and served without ice, usually in a stemmed glass ([01.5](lessons/module-01/lesson-05.md))
+- **Service score** — accuracy minus a time penalty (above 300 s average ticket time) and a waste penalty (above 5% waste) ([11.4](lessons/module-11/lesson-04.md))
+- **Servings per bottle (bottle yield)** — usable ml ÷ pour, rounded down ([10.1](lessons/module-10/lesson-01.md))
 - **Setup / reset / close** — preparing the station before service, restoring it after each round, and cleaning it down at the end ([01.7](lessons/module-01/lesson-07.md))
 - **Shake** — mix a drink hard with ice in a sealed shaker for 10–15 seconds, to chill, dilute, mix and aerate it ([04.4](lessons/module-04/lesson-04.md))
 - **Sheeting test** — dipping a glass in water: an even film means beer-clean, droplets mean a film on the glass ([07.1](lessons/module-07/lesson-01.md))
@@ -275,21 +330,30 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Spread** — the highest minus the lowest result across reps of a drill; a measure of consistency ([04.8](lessons/module-04/lesson-08.md))
 - **Spritz** — a wine-based built drink with sparkling wine and soda over ice ([04.2](lessons/module-04/lesson-02.md))
 - **Standard drink** — a fixed amount of pure alcohol used in health advice; about 14 g in the Israeli Ministry of Health sheet ([02.1](lessons/module-02/lesson-01.md))
+- **Standard recipe** — the bar's single official, dated version of a drink, with spec, method, allergens, cost, price and pour cost ([10.3](lessons/module-10/lesson-03.md))
+- **Star** — a drink above average in both popularity and gross profit ([10.4](lessons/module-10/lesson-04.md))
 - **Station** — the area one bartender works from: ice, speed rail, tools, glass, sink and POS within reach ([01.2](lessons/module-01/lesson-02.md))
+- **Statutory requirement** — a rule in a law or regulation ([09.5](lessons/module-09/lesson-05.md))
 - **Stir** — mix a drink with ice in a mixing glass using a bar spoon, to chill and dilute it without adding air ([04.3](lessons/module-04/lesson-03.md))
 - **Stir count** — the number of spoon turns that matches your standard stir time, used instead of a stopwatch ([04.3](lessons/module-04/lesson-03.md))
 - **Stock count** — recording how much of each item is on hand at a set time ([08.4](lessons/module-08/lesson-04.md))
 - **Straight up** — ambiguous order: some guests mean "up" (chilled and strained, no ice), others "neat" (room temperature, no ice); ask ([06.6](lessons/module-06/lesson-06.md))
 - **Strong alcoholic beverage (Israeli law)** — a drink above 15.5% ABV, which must carry the stronger statutory warning ([02.9](lessons/module-02/lesson-09.md))
 - **Sugar syrup (simple syrup)** — sugar dissolved in water; 1:1 or 2:1 by weight ([03.4](lessons/module-03/lesson-04.md))
+- **Suggestive selling** — recommending a specific drink to a guest ([10.4](lessons/module-10/lesson-04.md))
 - **Superfine (caster) sugar** — very fine white sugar that dissolves quickly ([05.4](lessons/module-05/lesson-04.md))
 - **Swizzle** — mix a drink in its glass of crushed ice by spinning a swizzle stick between the palms until the glass frosts ([04.6](lessons/module-04/lesson-06.md))
 
 ## T
 
+- **Tab** — an open bill that collects a guest's orders until they pay ([09.1](lessons/module-09/lesson-01.md))
 - **Tannin** — the drying, gripping feel from grape skins and seeds, mainly in red wine ([07.3](lessons/module-07/lesson-03.md))
+- **Target pour cost** — the pour cost a bar aims for when setting prices; 20% is the course's starting point ([10.2](lessons/module-10/lesson-02.md))
 - **Temperature log** — a written record of fridge and freezer readings with date, time, initials and any action taken ([08.1](lessons/module-08/lesson-01.md))
 - **Texture (mouthfeel)** — body, astringency, fizz and alcohol warmth felt in the mouth ([03.3](lessons/module-03/lesson-03.md))
+- **The 14 allergens** — the EU Annex II list adopted in Israel: cereals with gluten, crustaceans, eggs, fish, peanuts, soybeans, milk, tree nuts, celery, mustard, sesame, sulphites, lupin, molluscs ([09.3](lessons/module-09/lesson-03.md))
+- **Theoretical pour cost** — theoretical cost ÷ net sales; what the menu prices promise ([10.3](lessons/module-10/lesson-03.md))
+- **Theoretical usage (ideal usage)** — the ml a product should have lost for what the POS sold: drinks sold × ml per drink, summed ([10.3](lessons/module-10/lesson-03.md))
 - **Thermal shock** — cracking caused by a sudden temperature change in glass ([01.5](lessons/module-01/lesson-05.md))
 - **Throw** — pour a drink from a high vessel to a low one through a strainer and back, several times, for fine aeration and chill ([04.6](lessons/module-04/lesson-06.md))
 - **Ticket** — one order sent to the bar from the POS, a server or bar guests ([08.5](lessons/module-08/lesson-05.md))
@@ -298,7 +362,9 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 - **Tolerance** — how far a pour may be off and still count as right; ±5% in this course ([03.2](lessons/module-03/lesson-02.md))
 - **Topping up** — pouring new prep on top of old; not allowed ([03.4](lessons/module-03/lesson-04.md))
 - **Top (top up)** — fill the glass to its working level with the mixer ([04.2](lessons/module-04/lesson-02.md))
+- **Total price** — under Israel's Consumer Protection Law, the price including VAT and any payment the consumer cannot practically refuse; the only price a business may publish or quote ([10.2](lessons/module-10/lesson-02.md))
 - **Traditional method / tank method** — second fermentation of sparkling wine in the bottle / in a pressure tank ([02.8](lessons/module-02/lesson-08.md))
+- **Training log** — the employer's record of safety training given to each worker ([09.6](lessons/module-09/lesson-06.md))
 - **Triple sec** — a clear orange liqueur; Cointreau is one brand ([05.4](lessons/module-05/lesson-04.md))
 - **Tulip (beer glass)** — a stemmed glass with a round bowl and flared lip, used for strong, Belgian-style and aromatic beers ([07.1](lessons/module-07/lesson-01.md))
 - **Twist** — a strip of citrus peel whose oil is expressed over the drink ([05.2](lessons/module-05/lesson-02.md))
@@ -308,6 +374,7 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 ## U
 
 - **Under-diluted / over-diluted** — too little or too much water from ice for the drink ([03.7](lessons/module-03/lesson-07.md))
+- **Uniform specification** — the published set of licence conditions for a type of business under the Licensing of Businesses Law ([09.5](lessons/module-09/lesson-05.md))
 - **Untreated juice** — fresh, unpasteurised juice; keep refrigerated ([03.4](lessons/module-03/lesson-04.md))
 - **Up** — served without ice in a chilled stemmed glass ([04.1](lessons/module-04/lesson-01.md))
 - **Upselling** — suggesting a better or additional drink when it fits the guest's wishes ([07.6](lessons/module-07/lesson-06.md))
@@ -316,6 +383,7 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 ## V
 
 - **Variance** — usage minus what the POS says was sold; variance % is variance divided by sold ([08.4](lessons/module-08/lesson-04.md))
+- **Variance value** — variance in ml multiplied by cost per ml, in shekels ([10.3](lessons/module-10/lesson-03.md))
 - **Varietal wine** — a wine named after its main grape variety ([07.3](lessons/module-07/lesson-03.md))
 - **Vermouth** — aromatised wine flavoured with wormwood, 14.5% to under 22% ABV in the EU ([02.7](lessons/module-02/lesson-07.md))
 - **Vintage** — the harvest year of the grapes in a wine ([07.3](lessons/module-07/lesson-03.md))
@@ -325,7 +393,9 @@ Bar terms used in this course, A–Z, with the lesson where each is introduced. 
 ## W
 
 - **Waiter's friend** — a folding corkscrew with a foil blade, a worm and a lever ([07.4](lessons/module-07/lesson-04.md))
+- **Waste allowance (spillage allowance)** — a planned percentage of each package that never reaches a guest; line cost is divided by (1 − allowance) ([10.1](lessons/module-10/lesson-01.md))
 - **Waste log** — a record of every ml lost without a sale: spills, breakage, remakes, expired prep, with reason and initials ([08.4](lessons/module-08/lesson-04.md))
+- **Weighted total** — the sum of each component score multiplied by its weight; the final assessment needs at least 80.0 ([11.1](lessons/module-11/lesson-01.md))
 - **Well** — the ice well together with the speed rail; "well spirits" are the house pours ([01.2](lessons/module-01/lesson-02.md))
 - **Wet ice / dry ice (bar sense)** — ice at 0 °C with surface water versus very cold freezer ice; not to be confused with dry ice, frozen CO2 ([01.6](lessons/module-01/lesson-06.md))
 - **Whip shake** — a short shake with a little crushed ice, for drinks poured over crushed ice ([04.4](lessons/module-04/lesson-04.md))

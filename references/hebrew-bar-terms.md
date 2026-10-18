@@ -193,3 +193,43 @@ Hebrew words you will hear behind an Israeli bar: English term, Hebrew script, t
 | Hot | חם (cham) | call-out when carrying something hot | Module 8 |
 | Excuse me, coming through | סליחה, עובר / עוברת (slicha, over / overet) |  | Module 8 |
 | Heard / got it | קיבלתי (kibalti) | confirming an order or request | Module 8 |
+| Good evening | ערב טוב (erev tov) |  | Module 9 |
+| What can I bring you? | מה אפשר להביא לך / לכם? (ma efshar lehavi lecha / lach / lachem) | to a man / woman / group | Module 9 |
+| The bill | החשבון (hacheshbon) |  | Module 9 |
+| Tip | טיפ (tip) |  | Module 9 |
+| Sorry, I'm sorry | סליחה, אני מצטער / מצטערת (slicha, ani mitzta'er / mitzta'eret) | said by a man / woman | Module 9 |
+| Allergy | אלרגיה (alergia) |  | Module 9 |
+| Sensitivity, intolerance | רגישות (regishut) |  | Module 9 |
+| Tree nuts | אגוזים (egozim) |  | Module 9 |
+| Peanuts | בוטנים (botnim) |  | Module 9 |
+| Sesame | שומשום (shumshum) |  | Module 9 |
+| Sulphites | סולפיטים (sulfitim) |  | Module 9 |
+| Fava beans | פול (ful) | special labelling rule in Israel | Module 9 |
+| Contains | מכיל (mechil) | on labels | Module 9 |
+| May contain | עלול להכיל (alul lehachil) | on labels | Module 9 |
+| Minor | קטין (katin) | legal term, under 18 | Module 9 |
+| ID document | תעודה מזהה (te'uda mezaha); identity card | תעודת זהות (te'udat zehut) | Module 9 |
+| Can I see ID, please? | אפשר לראות תעודה מזהה, בבקשה? (efshar lir'ot te'uda mezaha, bevakasha?) |  | Module 9 |
+| Intoxicating drink | משקה משכר (mashke meshaker) | legal term | Module 9 |
+| Drunk | שיכור (shikor) | legal term in Penal Law s. 193 | Module 9 |
+| I can't serve you more alcohol tonight | אני לא יכול / יכולה להגיש לך עוד אלכוהול הערב (ani lo yachol / yechola lehagish lecha od alkohol ha'erev) |  | Module 9 |
+| Bar (in law) | בית משקה (beit mashke) | smoking-law schedule | Module 9 |
+| Uniform specification | מפרט אחיד (mifrat achid) | licence conditions | Module 9 |
+| Training log | פנקס הדרכה (pinkas hadracha) |  | Module 9 |
+| Cost | עלות (alut) |  | Module 10 |
+| Costing | תמחיר (tamchir) | calculating cost per serving | Module 10 |
+| Pricing | תמחור (tamchur) | setting the price | Module 10 |
+| Yield | תפוקה (tfuka) |  | Module 10 |
+| VAT | מע"מ (ma'am) | value added tax | Module 10 |
+| VAT-registered business | עוסק מורשה (osek murshe) |  | Module 10 |
+| Net price | מחיר נטו (mechir neto) |  | Module 10 |
+| Total price | המחיר הכולל (ha-mechir ha-kolel) | the legal term for the all-inclusive price | Module 10 |
+| Gross profit | רווח גולמי (revach golmi) |  | Module 10 |
+| Pour cost | עלות משקה (alut mashke); many Israeli bartenders also say "food cost" or "beverage cost" in English (professional judgment) |  | Module 10 |
+| Standard recipe | מתכון סטנדרטי (matkon standarti); bartenders often say ספק (spek), "the spec" (professional judgment) |  | Module 10 |
+| Price list | מחירון (mechiron) |  | Module 10 |
+| Invoice | חשבונית (cheshbonit) |  | Module 10 |
+| Final assessment | הערכה מסכמת (ha'arakha mesakemet) | the closing evaluation of a course | Module 11 |
+| Exam | מבחן (mivchan) | a test | Module 11 |
+| Score | ציון (tziyun) | a mark or grade | Module 11 |
+| Feedback | משוב (mashov) | comments on performance | Module 11 |
