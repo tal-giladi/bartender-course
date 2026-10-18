@@ -32,7 +32,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] M06
 - [x] M07
 - [x] M08
-- [ ] M09
+- [x] M09
 - [x] M10
 - [ ] M11
 
@@ -70,3 +70,4 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - M08 done.
 - M09 + M10 agents spawned (2026-10-18).
 - M10 done.
+- M09 done.

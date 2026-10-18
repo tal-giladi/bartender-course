@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    A regular is slurring, swaying and holding the bar. He asks for another beer. What do you do?
+  options:
+    - Serve one last beer, then tell him it is the final one of the night.
+    - Serve him a light beer instead, since it has less alcohol in it.
+    - Refuse alcohol privately and calmly, and offer water, food and a taxi.
+    - Tell him loudly that he is drunk so the people around him understand.
+  correct: 2
+  explanation: >-
+    These are clear signs of intoxication. Under Penal Law s. 193(c) a worker may not supply alcohol to
+    a drunk person. Refuse privately, about the rule not the person, and offer alternatives.
+- id: q2
+  question: >-
+    Twenty minutes after you refused a guest, his friend orders "two gin and tonics". What is right?
+  options:
+    - Serve both, since the friend is sober and is the one paying.
+    - Ask who the drinks are for and serve only the friend's own drink.
+    - Serve both but make the refused guest's drink with less gin.
+    - Refuse the friend any service, since the whole group is now banned.
+  correct: 1
+  explanation: >-
+    Passing a drink through a friend is still supplying the refused guest. The sober friend can be served
+    his own drink; the refused guest gets no alcohol that night.
+- id: q3
+  question: >-
+    A Margarita has 50 ml tequila and 20 ml triple sec, both 40% ABV. About how many grams of alcohol
+    does it contain?
+  options:
+    - About 16 g, a little more than one 14 g standard drink.
+    - About 28 g, two standard drinks, since 28 ml of alcohol is in it.
+    - About 14 g, exactly one standard drink, like any single cocktail.
+    - About 22 g, roughly one and a half standard drinks.
+  correct: 3
+  explanation: >-
+    Alcohol = 50 × 0.4 + 20 × 0.4 = 28 ml; × 0.789 ≈ 22 g, about 1.6 standard drinks of 14 g.
+    Forgetting the 0.789 density gives the 28 g mistake.
+- id: q4
+  question: >-
+    A sober guest asks for "the strongest thing you have, triple everything". What is the best response?
+  options:
+    - Offer a spirit-forward classic at the house measure, or a charged double.
+    - Free-pour a triple measure so the guest feels the bar is generous.
+    - Refuse him alcohol, because asking for strong drinks shows intoxication.
+    - Make a round of shots for him and his friends to share the strength.
+  correct: 0
+  explanation: >-
+    A sober guest can have an honest strong drink at house measures, or a double where policy allows it.
+    Pouring above spec or encouraging fast drinking is not responsible service.
+- id: q5
+  question: >-
+    A guest's friend says she is pale, confused and has vomited, and now she is hard to wake. What comes
+    first?
+  options:
+    - Give her strong coffee and a cold glass of water to wake her up.
+    - Call 101, stay with her and place her in the recovery position.
+    - Ask her friends to take her home in a taxi as quickly as possible.
+    - Walk her around outside so the fresh air helps her sober up.
+  correct: 1
+  explanation: >-
+    These are signs of alcohol poisoning. Call Magen David Adom (101), do not leave her alone, put her in
+    the recovery position if she passes out and check her breathing. Coffee and walking do not help.

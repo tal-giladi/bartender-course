@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    A group of four arrives at 23:00. Two look about 25, two look younger. Only one of the younger pair
+    has ID, and it shows he turned 18 last month. The group orders four beers. What do you do?
+  options:
+    - Serve four beers, since one of the younger pair has shown a valid ID.
+    - Ask the other younger guest for ID; serve three beers if he has none.
+    - Serve four beers because the older two can take responsibility.
+    - Refuse the whole group, since one person could not show an ID.
+  correct: 1
+  explanation: >-
+    Each person who will drink and might be under 18 shows their own ID; the presumption in Penal Law
+    s. 193A(c1) protects you only for a document you saw. Watch that a beer is not passed to him.
+- id: q4
+  question: >-
+    It is 23:45. A guest finishing dinner at your bar asks to buy a bottle of the wine she liked to take
+    home. What applies?
+  options:
+    - The 23:00–06:00 ban applies; the bar's exemption covers only drinking on the premises.
+    - It is allowed, because bars and restaurants are exempt from the night ban.
+    - It is allowed if she opens the bottle before leaving the bar.
+    - It is allowed on Thursdays and before holidays, when wine may be sold until 02:00.
+  correct: 0
+  explanation: >-
+    Licensing of Businesses Law s. 2(a1) bans sales from 23:00 to 06:00; the First Schedule exempts bars
+    and restaurants for drinking on the premises. The late wine exception is for large food stores only.
+- id: q2
+  question: >-
+    A regular has had five beers and is now slurring and leaning on the bar. His sober friend orders "two
+    more beers". Which response follows Israeli law and good practice?
+  options:
+    - Serve both beers, since the friend is ordering and paying for them.
+    - Serve both, but tell the friend it is the last round for the regular.
+    - Serve the friend one beer for himself; privately refuse the regular and offer water.
+    - Refuse both men and ask them to leave the bar immediately.
+  correct: 2
+  explanation: >-
+    Penal Law s. 193(c) forbids supplying alcohol to a drunk person, and passing it through a friend is
+    still supply. The sober friend may be served his own drink.
+- id: q8
+  question: >-
+    A guest lights a cigarette at the bar indoors. The bar has a separate enclosed smoking room. A
+    colleague says "leave it, it's late". What is right?
+  options:
+    - Ask the guest at once to move to the smoking room; tell the manager if he refuses.
+    - Leave it until he finishes, then remind him of the rule for next time.
+    - Give him an ashtray so that at least no ash lands on the bar.
+    - Open a window, since ventilation makes indoor smoking acceptable.
+  correct: 0
+  explanation: >-
+    The Smoking Law requires the holder to prevent smoking outside the permitted room and forbids
+    ashtrays in non-smoking areas. Asking the smoker to stop is part of the legal defence.
+- id: q3
+  question: >-
+    A guest says she has coeliac disease and asks for a beer or "something similar". What is the best
+    answer?
+  options:
+    - Recommend a wheat beer, since wheat beers are lighter than lagers.
+    - Recommend any lager, since the brewing process removes the gluten.
+    - Recommend a spirit highball and tell her all spirits are gluten-free.
+    - Explain most beers contain gluten; offer a drink whose labels you can confirm.
+  correct: 3
+  explanation: >-
+    Beer is brewed from barley or wheat. Distilled grain spirits are exempt from declaring cereals, but
+    anything added after distillation is not; confirm labels or say you cannot confirm.
+- id: q6
+  question: >-
+    A guest declares a severe tree-nut allergy and orders a Daiquiri. You just made a Mai Tai with your
+    shaker. What do you do?
+  options:
+    - Use the same shaker after a thorough rinse in the dump sink.
+    - Use the same shaker, since a Daiquiri contains no nuts at all.
+    - Use a washed or fresh shaker, jigger and strainer, fresh ice and clean hands.
+    - Make the Daiquiri directly in the glass, so no shaker is used.
+  correct: 2
+  explanation: >-
+    The Mai Tai's orgeat is almond. Cross-contact through tools is invisible, so an allergy order gets a
+    clean set. Building a Daiquiri in the glass changes the drink and its dilution.
+- id: q5
+  question: >-
+    A guest sends back a Paloma, saying it is "way too bitter". You made it to spec. Which response is
+    best?
+  options:
+    - Explain that grapefruit is naturally bitter and the drink is correct.
+    - Apologise, offer to remake it a little sweeter or make something else.
+    - Add a splash of syrup to her glass and stir it in front of her.
+    - Offer her the drink for free so the complaint goes no further.
+  correct: 1
+  explanation: >-
+    Listen, apologise, solve, thank: remake into a clean glass with a small change, or replace it. Topping
+    up the returned glass is unhygienic, and comps are the manager's decision.
+- id: q10
+  question: >-
+    A sober guest asks for "something really strong, a triple, to get drunk fast before the party". What
+    is the best response?
+  options:
+    - Pour a triple, since he is sober and the customer decides.
+    - Refuse all alcohol, since wanting to get drunk is a sign of intoxication.
+    - Offer a spirit-forward drink at house measure, or a charged double, with water.
+    - Suggest a round of shots instead, since they are faster to drink.
+  correct: 2
+  explanation: >-
+    Serve house measures (a double only where policy allows), never encourage drinking fast, and offer
+    water. If signs of intoxication appear, Penal Law s. 193(c) means no more alcohol.
+- id: q7
+  question: >-
+    Which statement about a licensed Israeli bar (licensing item 4.8) is a licence condition rather than
+    a statutory rule from the Penal Law?
+  options:
+    - The seller is presumed to know a buyer was a minor without ID.
+    - Encouraging a minor to drink alcohol is an offence.
+    - Supplying alcohol to a drunk person is an offence.
+    - A lit 50 × 40 cm minors sign must hang above the entrances.
+  correct: 3
+  explanation: >-
+    The size, wording, height and lighting of the sign are set in the police uniform specification for
+    the licence. The other three come from Penal Law sections 193 and 193A.
+- id: q9
+  question: >-
+    At opening the juice fridge reads 9 °C and the temperature log has no entries for last week. What do
+    you do first?
+  options:
+    - Turn the fridge colder and use the juices once it reaches 5 °C.
+    - Tell the manager before using anything, and record today's reading.
+    - Use the juices today, since they were made only yesterday.
+    - Throw everything away and fill in last week's log from memory.
+  correct: 1
+  explanation: >-
+    Licence conditions require chilled food at 5 °C or below and kept temperature records. The manager
+    decides what can be used; you record the real reading and never invent past entries.

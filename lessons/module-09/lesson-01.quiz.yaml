@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    You are halfway through four Mojitos when two guests sit down at your bar. What do you do first?
+  options:
+    - Keep working with your head down so the Mojitos are not delayed.
+    - Stop muddling and take their order, since new guests come first.
+    - Make eye contact and say you will be with them in a minute.
+    - Ask a colleague to tell them the bar is busy right now.
+  correct: 2
+  explanation: >-
+    Acknowledging costs a second and does not interrupt the drinks in your hands. Guests wait happily
+    once they know they have been seen; you greet them properly when the round is served.
+- id: q2
+  question: >-
+    A guest says: "Gin and tonic, the pink gin, slimline tonic, no ice, on my tab." Which check-back is
+    complete?
+  options:
+    - "One pink-gin and slimline tonic, no ice, on your tab."
+    - "One gin and tonic coming up, on your tab."
+    - "Pink gin and tonic, no ice, got it."
+    - "Gin and slimline tonic on the tab, right?"
+  correct: 0
+  explanation: >-
+    A full check-back repeats number, drink, every modifier and where it goes. The others each drop at
+    least one detail (the gin, the tonic or the ice), which is exactly what gets drinks sent back.
+- id: q3
+  question: >-
+    A guest asks "What do you recommend?" What is the best first move?
+  options:
+    - Suggest the most popular cocktail on the menu so they can decide quickly.
+    - Ask whether they want something fresh or rich, then short or long.
+    - Offer the most premium drink, since recommendations are a chance to upsell.
+    - List the whole cocktail menu so they can see every option.
+  correct: 1
+  explanation: >-
+    Two questions (flavour direction, then strength or length) tell you what the guest wants. Then you
+    offer two drinks that fit, one line each, rather than a list or a blind upsell.
+- id: q4
+  question: >-
+    A guest orders a Tanqueray and tonic. You do not stock Tanqueray. What do you do?
+  options:
+    - Pour the house London dry gin, since most guests cannot tell the difference.
+    - Pour the house gin and mention it only if the guest asks later.
+    - Tell the guest you do not have it and offer the closest gin you do have.
+    - Refuse the order and suggest a different drink altogether.
+  correct: 2
+  explanation: >-
+    Never swap a named brand silently. Saying what you have before you pour keeps the guest's trust and
+    usually ends with a happy order.

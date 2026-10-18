@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    In the guest-scenarios simulation you score 7 of 8 points in the allergy scenario, but one choice
+    was flagged safety-critical. What is the result?
+  options:
+    - Pass, because 7 of 8 is above the 70% pass mark.
+    - Fail, because any safety-critical choice fails the scenario.
+    - Pass with a warning, since only one choice was flagged.
+    - Fail only if the flagged choice was the final decision point.
+  correct: 1
+  explanation: >-
+    A scenario passes only with at least 70% and no safety-critical choice. Points cannot buy back an
+    unsafe decision, just as in the final assessment.
+- id: q2
+  question: >-
+    A pregnant guest asks for "something festive without alcohol". Which drink fails the safety rule?
+  options:
+    - A 0.0% sparkling wine with elderflower syrup in a flute.
+    - A grapefruit and rosemary soda highball with a citrus garnish.
+    - A ginger-lime highball topped with two dashes of Angostura, not mentioned.
+    - A 0.0% beer, served after telling her the ABV on the label.
+  correct: 2
+  explanation: >-
+    Angostura is about 44.7% ABV, so two dashes add real alcohol. Serving it without telling her is the
+    safety-critical choice; the 0.0% options are fine.
+- id: q3
+  question: >-
+    Your written response to the intoxicated-guest situation refuses alcohol privately and offers water,
+    but does not involve the manager or mention a log. How does it score on the rubric's Team criterion?
+  options:
+    - 0, because the manager was not involved where needed.
+    - 2, because the refusal itself was safe and polite.
+    - 1, because water was offered as an alternative.
+    - It is not scored, since Team only applies to complaints.
+  correct: 0
+  explanation: >-
+    Team scores whether the manager was involved and the log written where needed; refusing an
+    intoxicated guest needs both. The safe refusal earns its points under Safety and law and Guest care.
+- id: q4
+  question: >-
+    Which situation's main rule is statutory in Israel rather than house policy or professional
+    judgment?
+  options:
+    - Remaking a drink a guest finds too sour.
+    - Asking a clarifying question about an unclear order.
+    - Refusing a "triple" pour for a sober guest.
+    - Refusing to serve a guest who is clearly drunk.
+  correct: 3
+  explanation: >-
+    Penal Law s. 193(c) forbids supplying alcohol to a drunk person. Remakes, clarifying questions and
+    measures for a sober guest are professional judgment or house policy.

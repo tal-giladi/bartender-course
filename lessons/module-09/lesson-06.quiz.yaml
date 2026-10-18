@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    At opening, the garnish fridge reads 8 °C. Under the Ministry of Health licence conditions for food
+    businesses, what is the limit and what do you do?
+  options:
+    - The limit is 10 °C, so the fridge is fine and you carry on.
+    - The limit is 5 °C; tell the manager before using what is inside.
+    - The limit is 8 °C exactly, so turn the dial down a little and carry on.
+    - The limit is 0 °C; throw away everything in the fridge at once.
+  correct: 1
+  explanation: >-
+    Chilled food is kept at +5 °C or below. A reading of 8 °C means the manager decides what can be used,
+    the contents move to a working fridge, and the reading goes in the log.
+- id: q2
+  question: >-
+    You woke up with vomiting and a fever and are due at the bar at 18:00. What do you do?
+  options:
+    - Work the shift, but avoid cutting garnish and wash your hands more often.
+    - Work the shift wearing gloves the whole time so nothing is passed on.
+    - Tell the manager before the shift; do not handle food or drink while ill.
+    - Come in, and leave early only if the symptoms get worse during service.
+  correct: 2
+  explanation: >-
+    The licence conditions forbid working with food while ill with an infectious disease; return after
+    such an illness needs a doctor's approval. Gloves do not make it safe.
+- id: q3
+  question: >-
+    It is your first week at a new bar. Under the 2026 amendment to the Israeli worker-training
+    regulations, how should your training about workplace risks normally be given?
+  options:
+    - Face to face, in a language you understand, and recorded in the training log.
+    - By reading the safety notices on the wall, which counts as training.
+    - By watching a colleague for one shift, with no record kept.
+    - By an online video in Hebrew only, which every employer may use.
+  correct: 0
+  explanation: >-
+    From 16 October 2026 the training is normally face to face, in a language the worker understands,
+    given by a qualified professional and recorded in the training log. Online is allowed only with a
+    safety officer's approval.
+- id: q4
+  question: >-
+    Where should the spray bottle of glass cleaner live behind the bar?
+  options:
+    - On the shelf above the ice well, where it is easy to reach.
+    - In an empty, rinsed syrup bottle in the speed rail.
+    - Next to the garnish tray, so you can wipe the board quickly.
+    - In its labelled container, below and away from ice, glass and garnish.
+  correct: 3
+  explanation: >-
+    Chemicals stay in labelled original containers, below and away from anything that touches food or
+    drink. A drink bottle or a spot above the ice invites a dangerous mistake.

@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A guest with a tree-nut allergy asks for a Mai Tai. What do you do?
+  options:
+    - Make it without the garnish, since the pineapple and mint are the risk.
+    - Make it as normal, since rum is distilled and exempt from nut labelling.
+    - Make it with half the usual orgeat so the amount of almond stays small.
+    - Explain that it contains orgeat, an almond syrup, and offer another drink.
+  correct: 3
+  explanation: >-
+    Orgeat is made from almonds, so the drink itself contains a tree nut. The distillation exemption
+    covers the spirit, not an almond syrup added to the drink, and any amount can matter.
+- id: q2
+  question: >-
+    You just shook a Pisco Sour with egg white. The next order is a Daiquiri for a guest with an egg
+    allergy. What do you use?
+  options:
+    - The same shaker after a quick rinse in the dump sink.
+    - A washed or fresh shaker, strainer and jigger, fresh ice and clean hands.
+    - The same shaker, but a dry shake first to clear any egg left behind.
+    - A different glass for the guest, since the shaker never touches their lips.
+  correct: 1
+  explanation: >-
+    Cross-contact through tools is invisible. An allergy order gets a clean set: washed tools, fresh
+    ice from a clean scoop, a garnish from a closed container and washed hands.
+- id: q3
+  question: >-
+    A guest avoiding gluten asks whether your house coffee liqueur is safe. The bottle has no ingredient
+    list and the producer's site does not say. What is the honest answer?
+  options:
+    - Say you cannot confirm it and offer a drink you can check.
+    - Say yes, because spirits are distilled and so never contain gluten.
+    - Say yes, because a product with gluten would have to list ingredients.
+    - Say it is probably fine because only beer contains gluten at a bar.
+  correct: 0
+  explanation: >-
+    Drinks above 1.2% ABV need not carry an ingredient list, and a liqueur has ingredients added after
+    distillation. If you cannot confirm, say so and offer an alternative.
+- id: q4
+  question: >-
+    In Israel today, what does the law require for allergen information on the cocktails a bar mixes?
+  options:
+    - A full allergen list for every cocktail printed on the menu.
+    - A sign at the bar listing the 14 allergens in Hebrew and English.
+    - The EU rule for non-prepacked food is deferred in Israel until 2032.
+    - Only drinks containing nuts or egg must be marked on the menu.
+  correct: 2
+  explanation: >-
+    Israel adopted the EU rules, but the allergen-information duty for non-prepacked food is deferred to
+    1 January 2032. That is no excuse to guess: venues still check, tell and make allergy orders clean.
+- id: q5
+  question: >-
+    Two minutes after his drink, a guest's lips are swelling and he is wheezing. He says he has an
+    auto-injector. What comes first?
+  options:
+    - Give him water and sit him in a quiet corner until he feels better.
+    - Call 101, help him use his auto-injector and keep him lying down.
+    - Ask the kitchen what was in the drink before deciding what to do.
+    - Walk him outside for fresh air while a colleague calls his family.
+  correct: 1
+  explanation: >-
+    These are signs of anaphylaxis. Emergency help (Magen David Adom, 101) and the guest's own adrenaline
+    come first; he should lie down, not walk. Checking the ingredients comes later.

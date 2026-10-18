@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    A guest sends back a Whiskey Sour you made exactly to spec, saying it is too sour. What is the best
+    response?
+  options:
+    - Explain that this is the classic spec and most guests enjoy it this way.
+    - Add 5 ml of syrup to the guest's glass and stir it in front of them.
+    - Apologise, offer to remake it a little sweeter or make something else.
+    - Offer the drink for free so the guest is not upset by the complaint.
+  correct: 2
+  explanation: >-
+    Apologise for the experience and offer a clear solution. Remake into a clean glass rather than
+    topping up the returned drink, and leave free drinks to the manager.
+- id: q2
+  question: >-
+    A guest finds a chip on the rim of his glass after a few sips. What comes first?
+  options:
+    - Take the glass away, check he is not cut, and tell the manager.
+    - Offer him a discount on the drink for the trouble it caused.
+    - Pour the drink into a new glass so he does not lose any of it.
+    - Apologise and suggest he drinks from the other side of the rim.
+  correct: 0
+  explanation: >-
+    The missing piece may be in the drink or the ice, so the drink is removed, the guest's safety is
+    checked and the manager told. Then a fresh drink goes into a checked glass.
+- id: q3
+  question: >-
+    The Aperol is finished for the night. A guest orders an Aperol Spritz. What do you do?
+  options:
+    - Make it with Campari, a similar bitter, and serve it as an Aperol Spritz.
+    - Tell the guest it is out and offer a named alternative before you pour.
+    - Make the spritz with extra Prosecco and an orange slice so it is close.
+    - Tell the guest the bar is busy and ask them to order something simple.
+  correct: 1
+  explanation: >-
+    Never substitute silently. Saying it is out and offering a named alternative (a Campari spritz, a
+    Hugo, a Negroni) lets the guest choose what they drink.
+- id: q4
+  question: >-
+    A guest orders "a Martini, sweet but very dry". What is the best next step?
+  options:
+    - Make a Dry Martini, since "dry" is the word that defines a Martini.
+    - Make a sweet vermouth Martini, since the guest said "sweet" first.
+    - Make half the drink dry and half sweet to cover both meanings.
+    - Name the conflict and offer two concrete versions, then check back.
+  correct: 3
+  explanation: >-
+    "Sweet" and "very dry" pull in opposite directions. Naming the conflict and offering two concrete
+    drinks turns a guess into a clear order the guest has chosen.

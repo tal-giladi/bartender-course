@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A guest who looks about 17 orders a beer and has no ID. His friend says he is 19. What does the law
+    mean for you if he is in fact 17?
+  options:
+    - You are protected because the friend confirmed his age out loud.
+    - You are protected if he looked over 18 to a reasonable person.
+    - Only the bar owner is responsible, not the worker who poured.
+    - You are presumed to have known, unless he showed you an ID saying 18+.
+  correct: 3
+  explanation: >-
+    Penal Law s. 193A(c1) presumes the owner or worker knew the buyer was a minor unless they prove the
+    minor showed a document saying otherwise. Without an ID in your hand there is no defence.
+- id: q2
+  question: >-
+    It is 23:30. Which of these is not allowed at a licensed bar?
+  options:
+    - Serving a glass of wine to a guest sitting at the bar.
+    - Selling a closed bottle of wine for a guest to take home.
+    - Serving a cocktail to a guest who arrived at 23:15.
+    - Serving a beer at a table on the bar's terrace.
+  correct: 1
+  explanation: >-
+    The 23:00–06:00 ban (Licensing of Businesses Law s. 2(a1)) exempts bars and restaurants only for
+    drinking on the premises. A takeaway sale is not covered by that exemption.
+- id: q3
+  question: >-
+    A mother at the bar orders a glass of wine for herself and one for her 16-year-old daughter, saying
+    she allows it. What do you do?
+  options:
+    - Serve the mother's wine and offer the daughter a soft drink.
+    - Serve both, since a parent is present and gives consent.
+    - Serve both, but give the daughter a smaller glass of wine.
+    - Refuse both glasses until the daughter shows her own ID.
+  correct: 0
+  explanation: >-
+    In a business serving alcohol for drinking on the premises, s. 193A(b) forbids serving a minor; the
+    family-circle exception belongs to a different subsection. The mother can be served.
+- id: q4
+  question: >-
+    Which of these is a licence condition for an Israeli bar (licensing item 4.8), rather than a rule in
+    the Penal Law itself?
+  options:
+    - Alcohol may not be supplied to a person who is drunk.
+    - The seller is presumed to know a buyer was a minor without ID.
+    - Nobody under 18 may be employed selling alcohol at the bar.
+    - Encouraging a minor to drink alcohol is a criminal offence.
+  correct: 2
+  explanation: >-
+    The police conditions in the uniform specification for item 4.8 (and 4.2) forbid employing under-18s
+    to sell alcohol. The other three are in Penal Law sections 193 and 193A.
+- id: q5
+  question: >-
+    A guest lights a cigarette at the bar inside. The bar has a separate smoking room. What is right?
+  options:
+    - Put an ashtray in front of him so the ash does not reach the bar.
+    - Leave it, since staff have no duty and only inspectors can act.
+    - Allow it if the guests near him do not object to the smoke.
+    - Ask him at once to move to the smoking room; tell the manager if he refuses.
+  correct: 3
+  explanation: >-
+    The Smoking Law requires the holder to prevent smoking outside the permitted room, bans ashtrays in
+    non-smoking areas, and treats asking the smoker to stop as part of the legal defence.
