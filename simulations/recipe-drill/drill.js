@@ -14,7 +14,7 @@
       task: "Pass the cards of the lesson you just finished (pick it under Deck), or pick your own twelve-drink menu with \"My own selection\". Target: 4 of 4 on each card." },
     families: { title: "Cocktail families", trains: "Sorting drinks into the course's ten families and naming the method from the ingredient pattern (lesson 06.1).",
       task: "Sort each drink by its family and method. One point for the family (or the accepted alternative), one for the method. Target: 80% or more; re-sort the misses after lesson 06.5." },
-    exam: { title: "Final exam: recipe recall", trains: "The recipe recall part of the final assessment (outline §6, lesson 11.2): 25% of the final grade, minimum 80%.",
+    exam: { title: "Final exam: recipe recall", trains: "The recipe recall part of the final assessment (lesson 11.2): 25% of the final grade, minimum 80%.",
       task: "20 cards drawn without repeats from all 30 specs, closed book, no hints, specs hidden until the end. 4 points per card (ingredients and ml ±5 ml, method, glass and ice, garnish), 80 points in all; pass = 64 points (80%). Write the seed down before you start. The first complete run counts." }
   };
   var presetKey = S.preset(Object.keys(PRESETS), "all");
@@ -399,7 +399,7 @@
     sm.appendChild(el("p", { class: "big " + (sum.pass ? "good" : "bad"), text: sum.points + " / " + sum.max + " points · " + S.fmt(sum.percent, 1) + "%" }));
     sm.appendChild(el("p", { text: (sum.pass ? "Minimum met" : "Minimum NOT met") + ": the recipe recall component needs 80% (" + sum.minPoints + " points). Seed " + exam.seed + ", " + exam.date + "." }));
     var w = el("table");
-    w.appendChild(el("tr", null, ["Component (outline §6)", "Weight", "Minimum", "Your score", "Weighted points"].map(function (h) { return el("th", { text: h }); })));
+    w.appendChild(el("tr", null, ["Component (lesson 11.1)", "Weight", "Minimum", "Your score", "Weighted points"].map(function (h) { return el("th", { text: h }); })));
     w.appendChild(el("tr", null, ["Recipe recall (11.2)", "25%", "80%", S.fmt(sum.percent, 1) + "%", S.fmt(sum.weighted, 1) + " of 25"].map(function (v) { return el("td", { text: v }); })));
     sm.appendChild(el("div", { class: "table-wrap" }, [w]));
     sm.appendChild(el("p", { class: "muted small", text: "Pass overall = weighted total of all five components ≥ 80%, every component minimum met, and no safety-critical failure (lesson 11.1)." }));
