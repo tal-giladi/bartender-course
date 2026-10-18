@@ -1,0 +1,11 @@
+item,bottle_ml,opening_count_bottles,received_bottles,closing_count_bottles,theoretical_ml_from_pos,logged_waste_ml,waste_reason
+London dry gin (Gordon's),700,2.4,7,2.0,5100,0,
+White rum (Bacardi Carta Blanca),750,1.6,6,1.6,4200,60,Daiquiri remade (sent back too sour)
+Vodka (Smirnoff Red),700,3.1,6,2.5,4650,0,
+Tequila 100% agave (Patrón Silver),700,1.2,3,0.6,2250,0,
+Arak (Elite),700,2.5,6,1.5,4800,0,
+Campari,700,1.3,2,0.7,1800,0,
+Sweet vermouth (Martini Rosso),750,1.4,2,0.9,1800,75,opened bottle discarded (8 weeks open)
+Elderflower liqueur,700,0.8,4,1.0,2600,0,
+Bourbon (Jim Beam White),700,1.7,2,0.9,1800,45,Old Fashioned dropped at the pass
+Coffee liqueur,700,1.5,3,1.2,2250,0,

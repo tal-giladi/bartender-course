@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A drink costs 12 ILS and is on the menu at 70.80 ILS. What is its pour cost?
+  options:
+    - 16.9%, because 12 ÷ 70.80 is the share of the price spent on ingredients.
+    - 20%, because the net price is 70.80 ÷ 1.18 = 60 ILS and 12 ÷ 60 = 0.20.
+    - 17%, because pour cost is the cost divided by the price minus 18%.
+    - 83%, because 58.80 of the 70.80 is left after the ingredients.
+  correct: 1
+  explanation: >-
+    Pour cost uses the net price: 70.80 ÷ 1.18 = 60, and 12 ÷ 60 = 20%. Dividing by the VAT-inclusive
+    price makes the drink look cheaper to make than it is; 83% is closer to a margin figure.
+- id: q2
+  question: >-
+    The owner says: "Our cocktails run at 80% margin." A drink costs 10 ILS. What net price does that
+    imply?
+  options:
+    - 18 ILS, because 10 plus 80% of 10 is 18.
+    - 12.50 ILS, because 10 ÷ 0.80 = 12.50.
+    - 50 ILS, because a margin of 80% means cost is 20% of the net price.
+    - 80 ILS, because an 80% margin means eight times the cost.
+  correct: 2
+  explanation: >-
+    Margin is out of the price: cost = 20% of net, so net = 10 ÷ 0.20 = 50 (a 400% markup). 18 ILS is an
+    80% markup, which is only a 44% margin.
+- id: q3
+  question: >-
+    A new drink costs 11 ILS. The bar's target pour cost is 20% and prices are rounded up to the next
+    2 ILS. What goes on the menu?
+  options:
+    - 56 ILS
+    - 64 ILS
+    - 66 ILS
+    - 54 ILS
+  correct: 2
+  explanation: >-
+    11 ÷ 0.20 = 55 net; × 1.18 = 64.90; rounded up to the next 2 ILS = 66 (real pour cost 19.7%). 56
+    forgets VAT; 64 rounds down and drifts above target.
+- id: q4
+  question: >-
+    Drink A costs 6 ILS and sells for 40 (pour cost 17.7%). Drink B costs 14 ILS and sells for 70
+    (pour cost 23.6%). The manager wants to promote the drink that earns the bar more per glass. Which
+    one, and why?
+  options:
+    - Drink A, because the lower pour cost always means the better drink.
+    - Drink B, because its gross profit is about 45 ILS against about 28 ILS for A.
+    - Drink A, because cheaper drinks sell more and pour cost is what counts.
+    - Neither, because both are inside the usual 18–24% range.
+  correct: 1
+  explanation: >-
+    Net prices are 33.90 and 59.32; gross profit is 27.90 for A and 45.32 for B. Percent shows
+    efficiency, shekels pay the bills; check both before choosing what to promote.
+- id: q5
+  question: >-
+    A new bar in Tel Aviv wants its menu to show "Negroni 54 + VAT" and add a compulsory 10% service
+    charge on every bill. What does the Consumer Protection Law require?
+  options:
+    - Both are fine as long as the menu has a note explaining them.
+    - The "+ VAT" is fine for drinks; only the service charge must be in the price.
+    - The service charge is fine if staff mention it when guests sit down.
+    - One total price in shekels, including VAT and any charge the guest cannot refuse.
+  correct: 3
+  explanation: >-
+    The law's "total price" includes VAT and any non-waivable payment, and only the total price may be
+    published or quoted (sections 1 and 17D). A voluntary tip is different.

@@ -1,0 +1,135 @@
+- id: q1
+  question: >-
+    You are costing a new gin drink. The gin is 94.40 ILS incl. VAT for 700 ml; the spec uses 50 ml and
+    the bar's waste allowance for spirits is 3%. What is the gin line cost?
+  options:
+    - 5.89 ILS
+    - 5.71 ILS
+    - 6.95 ILS
+    - 5.54 ILS
+  correct: 0
+  explanation: >-
+    94.40 ÷ 1.18 = 80 ex VAT; 80 ÷ 700 = 0.1143 per ml; 50 × 0.1143 ÷ 0.97 = 5.89. 5.71 skips the waste
+    allowance, 6.95 keeps VAT in, and 5.54 multiplies by 0.97 instead of dividing.
+- id: q2
+  question: >-
+    The manager asks how many 60 ml Aperol pours a 1-litre bottle gives with a 5% waste allowance, to
+    plan the weekend order. What do you answer?
+  options:
+    - 16, because 1,000 ÷ 60 is 16.7 and the bar rounds down.
+    - 17, because 16.7 rounds up to the nearest whole drink.
+    - 15, because only 950 ml is usable and 950 ÷ 60 is 15.8.
+    - 15.8, because the order needs the exact figure.
+  correct: 2
+  explanation: >-
+    Usable ml = 1,000 × 0.95 = 950; 950 ÷ 60 = 15.8, rounded down to 15 because a bar cannot sell part
+    of a drink. 16 forgets the waste allowance.
+- id: q3
+  question: >-
+    A drink costs 12.40 ILS. The bar targets a 22% pour cost and rounds menu prices up to the next
+    2 ILS. What goes on the menu?
+  options:
+    - 58 ILS
+    - 66 ILS
+    - 70 ILS
+    - 68 ILS
+  correct: 3
+  explanation: >-
+    12.40 ÷ 0.22 = 56.36 net; × 1.18 = 66.51; rounded up to the next 2 ILS = 68. 58 forgets VAT, and 66
+    rounds down, pushing the drink above the target.
+- id: q4
+  question: >-
+    A supplier's rep says "bars like yours work on a 300% markup on cocktails." What pour cost is that,
+    assuming the markup is on the net (ex-VAT) price?
+  options:
+    - 30%, because 300% means three tenths of the price.
+    - 25%, because net price = cost × 4, so cost is a quarter of it.
+    - 33%, because cost is one third of the price.
+    - 75%, because 300% markup leaves three quarters for the bar.
+  correct: 1
+  explanation: >-
+    Markup is out of the cost: net = cost × (1 + 3) = cost × 4, so pour cost = 25% and margin = 75%.
+    Confusing markup with margin is the classic pricing error.
+- id: q5
+  question: >-
+    The government announces a VAT rise from 18% to 19% starting Sunday. Your bar cannot reprint the
+    menu until Thursday. What does the Consumer Protection Law allow?
+  options:
+    - Nothing; the old prices must be honoured until the new menu is printed.
+    - Adding "+ 1% VAT" on each bill without any notice, since the rise is in the news.
+    - Up to seven days with the old prices, if a prominent notice says they do not include the rise.
+    - Charging the new VAT on top of menu prices for as long as reprinting takes.
+  correct: 2
+  explanation: >-
+    Section 17E gives seven days after a tax change, on condition that a prominent notice at the
+    business says the displayed price does not include the change. After that, menu prices must be the
+    new total price.
+- id: q6
+  question: >-
+    The POS shows 60 Moscow Mules (45 ml vodka) and 40 Espresso Martinis (50 ml vodka). Vodka count:
+    opening 2.0 bottles, received 6, closing 1.0 (700 ml bottles), no logged waste, 0.0846 ILS per ml.
+    What does the reconciliation show?
+  options:
+    - Variance 200 ml (about 4.3%), worth about 17 ILS, outside a 3% tolerance.
+    - Variance 200 ml (about 4.3%), worth about 20 ILS, outside a 3% tolerance.
+    - No variance, because 7 bottles were used and 7 were expected.
+    - Variance −200 ml, because the POS shows more than was used.
+  correct: 0
+  explanation: >-
+    Theoretical = 60 × 45 + 40 × 50 = 4,700 ml; actual = 2.0 + 6 − 1.0 = 7 bottles = 4,900 ml. Variance
+    = 200 ml, 4.3%, × 0.0846 = 16.92 ILS. About 20 ILS would value it at the price incl. VAT, but
+    costs are ex VAT.
+- id: q7
+  question: >-
+    Last month net sales were 50,000 ILS and the theoretical pour cost was 20%. The stock count put
+    the total variance at 750 ILS. What should the report to the owner say?
+  options:
+    - Pour cost was 20%, because the variance is already included in the theoretical figure.
+    - Pour cost was 18.5%, because the variance reduces the cost.
+    - Pour cost was 21.5% in theory and 20% in practice.
+    - Actual pour cost was 21.5%, 1.5 points above the 20% the prices promise.
+  correct: 3
+  explanation: >-
+    Theoretical cost = 10,000 ILS; actual = 10,750 ILS; 10,750 ÷ 50,000 = 21.5%. The 1.5-point gap is
+    the money value of over-pouring, waste and errors, in the owner's language.
+- id: q8
+  question: >-
+    Your menu has 12 drinks (average popularity 8.3%) and a sales-weighted average gross profit of 38
+    ILS. The Old Fashioned sells 4% of all drinks and earns 46 ILS per glass. What does menu engineering
+    suggest?
+  options:
+    - Remove it, because it sells less than half the average.
+    - It is a puzzle; move it up the menu, improve its description and recommend it.
+    - It is a plowhorse; raise its price because it is popular.
+    - It is a star; leave it exactly as it is.
+  correct: 1
+  explanation: >-
+    Low popularity with high gross profit is a puzzle: the drink earns well when it sells, so help
+    guests find it. Removal is for dogs, and even then only with a reason.
+- id: q9
+  question: >-
+    To cut costs, the owner switches the Margarita from fresh lime to bottled lime juice. The menu
+    still says "Margarita — tequila, triple sec, freshly squeezed lime." What should happen?
+  options:
+    - Nothing; guests cannot taste the difference in a shaken drink.
+    - Keep the menu, but tell guests about the change only if they ask.
+    - Only the costing needs updating, because the cost per serving changed.
+    - Change the description and the standard recipe, or keep squeezing fresh lime.
+  correct: 3
+  explanation: >-
+    The Consumer Protection Law forbids misleading guests about a product's components (section 2).
+    The menu, the standard recipe and the glass must say the same thing; update the costing too.
+- id: q10
+  question: >-
+    A small menu has two drinks. Drink A sells 300 a week at a net price of 50 ILS and costs 10 (20%).
+    Drink B sells 100 a week at a net price of 60 ILS and costs 18 (30%). What is the menu pour cost
+    for the week?
+  options:
+    - 25%, the average of the two pour costs.
+    - 20%, because most of the drinks sold are Drink A.
+    - About 22.9%, total cost ÷ total net sales.
+    - About 24%, because B's higher price raises the average.
+  correct: 2
+  explanation: >-
+    Total cost = 300 × 10 + 100 × 18 = 4,800; net sales = 300 × 50 + 100 × 60 = 21,000; 4,800 ÷ 21,000 =
+    22.9%. The simple average ignores the sales mix.

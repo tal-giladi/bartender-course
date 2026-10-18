@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    The menu says "Patrón Margarita". Patrón ran out last week, and since then the bar has used a
+    cheaper tequila without changing the menu. What is the problem?
+  options:
+    - None, because the drink is still a Margarita and guests rarely notice.
+    - Only a costing problem, because the cheaper tequila lowers the pour cost.
+    - The menu misleads guests about the producer, which the Consumer Protection Law forbids.
+    - It is fine as long as the price stays the same as before.
+  correct: 2
+  explanation: >-
+    Section 2 of the Consumer Protection Law lists the producer and trade name as material matters.
+    Change the menu, tell guests, or 86 the named version until the brand is back.
+- id: q2
+  question: >-
+    Over four weeks a drink sells 15% of all drinks (menu average 10%) and earns 31 ILS gross profit per
+    serving (sales-weighted average 37 ILS). Which class is it, and what is a sensible action?
+  options:
+    - A plowhorse; re-cost it and consider a small price rise or a cheaper product.
+    - A star; promote it harder because it sells well.
+    - A dog; remove it, because its gross profit is below average.
+    - A puzzle; move it on the menu so more guests notice it.
+  correct: 0
+  explanation: >-
+    High popularity with low gross profit is a plowhorse. Guests like it, so do not remove it; improve
+    its economics with a small price change or a better purchase price.
+- id: q3
+  question: >-
+    Which menu description is honest and useful for a drink of 60 ml bourbon, 15 ml sweet vermouth
+    and 2 dashes of bitters, stirred?
+  options:
+    - "Light and smooth, an easy sipper for any time of the night."
+    - "Our strongest drink: one is never enough."
+    - "A house classic you have to try, ask your bartender."
+    - "Bourbon, sweet vermouth and bitters, stirred. Rich, spirit-forward and strong."
+  correct: 3
+  explanation: >-
+    It names the ingredients and gives an honest strength cue. "Light" misleads, selling strength
+    encourages heavy drinking, and "a house classic" tells the guest nothing.
+- id: q4
+  question: >-
+    A guest on her fourth cocktail is laughing loudly and slurring a little. She asks what is good.
+    Which response fits responsible upselling?
+  options:
+    - Suggest a double of her favourite so she gets better value per round.
+    - Offer water and an alcohol-free drink you like, and tell her the price.
+    - Recommend a round of shots for her table, since the group is celebrating.
+    - Recommend the most expensive cocktail, because she is clearly enjoying herself.
+  correct: 1
+  explanation: >-
+    Signs of intoxication mean no upselling of alcohol (Module 9). Offering water and a real
+    alcohol-free option, with its price, looks after the guest and the bar.
+- id: q5
+  question: >-
+    A small Cornell study found guests spent more when menu prices were plain numbers rather than with
+    a currency sign. How should a bar in Israel use this?
+  options:
+    - As a proven rule: every menu worldwide should drop currency signs.
+    - As a reason to show prices before VAT, because smaller numbers sell more.
+    - As a hint from one restaurant; any format must still show the total price in shekels.
+    - As irrelevant, because Israeli law forbids plain numbers on menus.
+  correct: 2
+  explanation: >-
+    It was one US restaurant at lunch, and the authors warn against generalising. Whatever the format,
+    Israeli law requires the total price, including VAT, in Israeli currency (section 17D).

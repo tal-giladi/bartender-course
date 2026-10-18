@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A supplier's price list for consumers shows a 700 ml bottle of gin at 118 ILS including VAT. What
+    cost per ml should go into the bar's costing?
+  options:
+    - About 0.169 ILS per ml, because 118 ÷ 700 is what the bar pays.
+    - About 0.138 ILS per ml, after taking 18% off the price.
+    - About 0.143 ILS per ml, after dividing the price by 1.18.
+    - About 0.200 ILS per ml, after adding 18% VAT on top.
+  correct: 2
+  explanation: >-
+    118 ÷ 1.18 = 100 ILS ex VAT, and 100 ÷ 700 = 0.143 per ml. A VAT-registered bar gets the input VAT
+    back, so costs are ex VAT; taking 18% off (× 0.82) removes too much.
+- id: q2
+  question: >-
+    A drink uses 45 ml of vodka that costs 0.0846 ILS per ml ex VAT, with the course's 3% waste
+    allowance for spirits. What is the vodka line cost?
+  options:
+    - 3.81 ILS
+    - 3.93 ILS
+    - 3.70 ILS
+    - 4.06 ILS
+  correct: 1
+  explanation: >-
+    45 × 0.0846 = 3.81; divided by (1 − 0.03) = 0.97 gives 3.93. 3.81 forgets the waste allowance;
+    3.70 subtracts it instead of adding it.
+- id: q3
+  question: >-
+    Limes cost 15 ILS per kg ex VAT. Your test gives 250 ml of juice per kg; a colleague's machine
+    juicer gives 350 ml per kg. What does this mean for the bar's costing?
+  options:
+    - Nothing; juice cost per ml is the same whatever the juicer.
+    - Juice costs 0.060 per ml with your yield and about 0.043 per ml with the machine.
+    - Juice costs 0.043 per ml with your yield and about 0.060 per ml with the machine.
+    - Juice costs 3.75 per ml with your yield and 5.25 per ml with the machine.
+  correct: 1
+  explanation: >-
+    Cost per ml of juice = price per kg ÷ ml per kg: 15 ÷ 250 = 0.060 and 15 ÷ 350 = 0.043. More juice
+    from the same fruit means cheaper juice; multiplying instead of dividing gives impossible numbers.
+- id: q4
+  question: >-
+    How many 60 ml servings does a 750 ml bottle give with a 3% waste allowance?
+  options:
+    - 12 servings
+    - 13 servings
+    - 12.5 servings
+    - 11 servings
+  correct: 0
+  explanation: >-
+    750 × 0.97 = 727.5 usable ml; 727.5 ÷ 60 = 12.1, rounded down to 12. 12.5 ignores waste and a bar
+    cannot sell half a drink; 13 would need 780 ml.
+- id: q5
+  question: >-
+    A Penicillin costs 13.01 ILS: Scotch 7.86, Islay float 2.81, lemon 0.91, honey syrup 0.63, ginger
+    0.30, garnish 0.50. The manager wants to cut cost without changing the drink much. Where is the
+    most realistic saving?
+  options:
+    - Squeeze the lemons harder, because juice is the easiest line to change.
+    - Leave out the candied ginger garnish, since garnish is pure waste.
+    - Make the honey syrup thinner, because honey is the expensive part.
+    - Compare purchase prices for the Scotch and the Islay malt, the two biggest lines.
+  correct: 3
+  explanation: >-
+    The two spirits are over 80% of the cost, so a better purchase price there moves the total most.
+    Better juicing or thinner syrup saves agorot and can change the taste.

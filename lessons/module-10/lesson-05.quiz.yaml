@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    Your formula prices at a 20% target range from 16 ILS (an alcohol-free soda) to 98 ILS (a Mai Tai
+    with two premium rums). What is the best next step?
+  options:
+    - Publish them as they are, since every drink then has the same pour cost.
+    - Set price bands by section and give a written reason for each change.
+    - Raise the target to 30% for every drink so the expensive ones come down.
+    - Drop the Mai Tai and the alcohol-free drinks so the menu prices look even.
+  correct: 1
+  explanation: >-
+    Formula prices are a starting point. Bands make the menu readable; a premium drink can run a higher
+    pour cost if its gross profit is healthy, and alcohol-free drinks deserve real prices.
+- id: q2
+  question: >-
+    Eleven drinks run at about 20% pour cost and sell 40 a week each. One drink runs at 30% and sells
+    200 a week. Why is the menu pour cost not simply the average of the twelve percentages?
+  options:
+    - Because pour cost has to be calculated on the VAT-inclusive price instead.
+    - Because the 30% drink should be left out as an exception.
+    - Because the average of percentages always comes out higher than the real figure.
+    - Because the 30% drink makes up a large share of sales, so it weighs more in total cost ÷ net sales.
+  correct: 3
+  explanation: >-
+    Menu pour cost = theoretical cost ÷ net sales for the real sales mix. A high-selling drink with a
+    high pour cost moves the menu figure much more than a slow seller does.
+- id: q3
+  question: >-
+    For a week, net sales are 30,000 ILS and theoretical cost is 6,300 ILS. The stock count shows a
+    total variance worth 300 ILS. What are the theoretical and actual pour costs?
+  options:
+    - 21% theoretical, 22% actual.
+    - 21% theoretical, 20% actual.
+    - 20% theoretical, 21% actual.
+    - 22% theoretical, 21% actual.
+  correct: 0
+  explanation: >-
+    6,300 ÷ 30,000 = 21%; actual cost 6,600 ÷ 30,000 = 22%. The variance always adds cost when it is
+    positive, so actual is above theoretical.
+- id: q4
+  question: >-
+    In your reconciliation, tequila is 270 ml over the POS (12%) with nothing in the waste log. Which
+    report line is the most useful to the manager?
+  options:
+    - "Tequila is 12% over; someone is probably taking it."
+    - "270 ml over (about 65 ILS); I will recount, then check the POS and the pour."
+    - "Tequila is a bit high this week; let's just see what next week shows."
+    - "Tequila is over, so we should raise the Paloma price by 12%."
+  correct: 1
+  explanation: >-
+    It gives the size in ml and shekels and the next checks in order, cheapest first. Accusing someone
+    or changing the price before checking the count and the POS skips the likely causes.
+- id: q5
+  question: >-
+    A classmate finished the project with a menu pour cost of 17%. Checking her sheet, you see the price
+    list uses shelf prices including VAT. What is wrong?
+  options:
+    - Nothing; including VAT in costs is the safer, more careful choice.
+    - Her menu pour cost should be higher, because costs incl. VAT make it look lower.
+    - Her menu prices must also be shown without VAT to match the costs.
+    - Her costs are 18% too high, so her real pour costs are lower than her sheet shows.
+  correct: 3
+  explanation: >-
+    Costs are calculated ex VAT because a VAT-registered bar reclaims input VAT. With VAT left in, every
+    cost and every pour cost on her sheet is inflated by 18%; her real menu pour cost is about 14.4%.

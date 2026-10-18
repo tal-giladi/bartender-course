@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    The POS shows 35 Negronis (30 ml gin each) and 12 Dry Martinis (60 ml gin each) for the week. What
+    is the theoretical gin usage?
+  options:
+    - 1,050 ml, from the Negronis, since gin is their first ingredient.
+    - 1,770 ml, from both drinks added together.
+    - 2,820 ml, because each drink is counted with 60 ml of gin.
+    - 47 drinks, because the POS counts drinks, not ml.
+  correct: 1
+  explanation: >-
+    Theoretical usage sums every drink that uses the product: 35 × 30 + 12 × 60 = 1,050 + 720 = 1,770
+    ml. Forgetting a shared product is the commonest slip.
+- id: q2
+  question: >-
+    White rum: theoretical usage 4,500 ml, actual usage 4,800 ml, logged waste 45 ml, cost 0.1355 ILS
+    per ml. What is the unexplained variance and the total variance value?
+  options:
+    - 255 ml unexplained; total variance worth about 40.65 ILS.
+    - 300 ml unexplained; total variance worth about 34.55 ILS.
+    - 345 ml unexplained; total variance worth about 46.75 ILS.
+    - 255 ml unexplained; total variance worth about 650 ILS.
+  correct: 0
+  explanation: >-
+    Variance = 4,800 − 4,500 = 300 ml (worth 300 × 0.1355 = 40.65 ILS); minus 45 ml logged waste leaves
+    255 ml unexplained. 650 ILS is the value of all rum used, not the variance.
+- id: q3
+  question: >-
+    This week Aperol shows a variance of −200 ml (less left the bottles than the POS says was sold).
+    What is the most sensible first step?
+  options:
+    - Nothing; using less than expected means the team is saving money.
+    - Raise the price of the Aperol Spritz to recover the difference.
+    - Recount the Aperol and check last week's closing against this opening.
+    - Lower the Spritz spec to 50 ml so the numbers match next week.
+  correct: 2
+  explanation: >-
+    A negative variance usually means a counting error, a drink rung twice or under-pouring. Recount
+    first; changing the spec to fit the numbers hides the problem and misleads guests.
+- id: q4
+  question: >-
+    Net sales for the month are 80,000 ILS. Theoretical cost is 16,000 ILS and the stock shows actual
+    cost of 17,600 ILS. What are the theoretical and actual pour costs?
+  options:
+    - 20% theoretical and 18% actual, because 16,000 out of 80,000 is 20%.
+    - 2% for both, because the difference is 1,600 ILS.
+    - 20% theoretical and 22% actual, a 2-point gap worth 1,600 ILS.
+    - 22% theoretical and 20% actual, because actual is always lower.
+  correct: 2
+  explanation: >-
+    16,000 ÷ 80,000 = 20% and 17,600 ÷ 80,000 = 22%. The 2-point gap is the money value of the variance;
+    it shows the owner what over-pouring, waste and errors cost.
+- id: q5
+  question: >-
+    The rum variance is 6.7% over. A colleague wants to tell the manager that someone is stealing rum.
+    What should come first?
+  options:
+    - Recount, check delivery notes, POS buttons, spec changes and the waste log.
+    - Report it at once, because anything over 5% can only be theft.
+    - Lock the rum away and let only the manager pour it from now on.
+    - Wait a month; variances usually sort themselves out.
+  correct: 0
+  explanation: >-
+    Most variances come from counts, deliveries, missing POS buttons, spec changes or unlogged waste.
+    Running the cheap checks first protects the team and usually finds the cause.

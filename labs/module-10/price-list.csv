@@ -1,0 +1,33 @@
+key,item,package,package_size,package_unit,price_inc_vat_ils,price_ex_vat_ils,waste_pct,yield_ml_per_kg,cost_ex_vat_ils,cost_per,source
+gin,London dry gin (Gordon's),bottle,700,ml,105.90,89.75,3,,0.1282,ml,"Shufersal online, regular price, checked 2026-10-18"
+rum,White rum (Bacardi Carta Blanca),bottle,750,ml,119.90,101.61,3,,0.1355,ml,"Shufersal online, regular price, checked 2026-10-18"
+vodka,Vodka (Smirnoff Red),bottle,700,ml,69.90,59.24,3,,0.0846,ml,"Shufersal online, regular price, checked 2026-10-18"
+bourbon,Bourbon (Jim Beam White),bottle,700,ml,110.90,93.98,3,,0.1343,ml,"Shufersal online, regular price, checked 2026-10-18"
+scotch,Blended Scotch (Grant's),bottle,700,ml,104.90,88.90,3,,0.1270,ml,"Shufersal online, regular price, checked 2026-10-18"
+tequila,Tequila 100% agave (Patrón Silver),bottle,700,ml,199.90,169.41,3,,0.2420,ml,"Shufersal online, regular price, checked 2026-10-18"
+arak,Arak (Elite),bottle,700,ml,64.90,55.00,3,,0.0786,ml,"Shufersal online, regular price, checked 2026-10-18"
+campari,Campari,bottle,700,ml,105.90,89.75,3,,0.1282,ml,"Shufersal online, regular price, checked 2026-10-18"
+vermouth,Sweet vermouth (Martini Rosso),bottle,750,ml,64.90,55.00,3,,0.0733,ml,"Shufersal online, regular price, checked 2026-10-18"
+cointreau,Cointreau (triple sec),bottle,700,ml,144.90,122.80,3,,0.1754,ml,"Shufersal online, regular price, checked 2026-10-18"
+aperol,Aperol,bottle,1000,ml,110.90,93.98,3,,0.0940,ml,"Shufersal online, regular price, checked 2026-10-18"
+oldtom,Old Tom gin,bottle,700,ml,150.00,127.12,3,,0.1816,ml,course assumption
+islay,Islay single malt,bottle,700,ml,300.00,254.24,3,,0.3632,ml,course assumption
+jamaica,Amber Jamaican rum,bottle,700,ml,130.00,110.17,3,,0.1574,ml,course assumption
+martinique,Martinique rum,bottle,700,ml,160.00,135.59,3,,0.1937,ml,course assumption
+curacao,Orange curaçao,bottle,700,ml,90.00,76.27,3,,0.1090,ml,course assumption
+coffeeliq,Coffee liqueur,bottle,700,ml,95.00,80.51,3,,0.1150,ml,course assumption
+elder,Elderflower liqueur,bottle,700,ml,150.00,127.12,3,,0.1816,ml,course assumption
+prosecco,Prosecco,bottle,750,ml,50.00,42.37,10,,0.0565,ml,course assumption
+orgeat,Orgeat syrup,bottle,700,ml,60.00,50.85,3,,0.0726,ml,course assumption
+bitters,Angostura bitters,bottle,200,ml,90.00,76.27,0,,0.3814,ml,course assumption
+soda,Soda water (Schweppes),bottle,1000,ml,4.90,4.15,5,,0.0042,ml,"Shufersal online, regular price, checked 2026-10-18"
+gfsoda,Pink grapefruit soda (Nordic Mist),bottle,1000,ml,6.90,5.85,5,,0.0058,ml,"Shufersal online, regular price, checked 2026-10-18"
+tomato,Tomato juice,bottle,1000,ml,12.00,10.17,5,,0.0102,ml,course assumption
+lemon,Lemons (juice),1 kg,1,kg,12.90,10.93,10,300,0.0364,ml of juice,"Shufersal online, regular price, checked 2026-10-18"
+lime,Limes (juice),350 g pack,0.35,kg,6.90,5.85,10,300,0.0557,ml of juice,"Shufersal online, regular price, checked 2026-10-18"
+grapefruit,White grapefruit (juice),1 kg,1,kg,7.90,6.69,10,400,0.0167,ml of juice,"Shufersal online, regular price, checked 2026-10-18"
+sugar,"1:1 syrup (from 1 kg sugar, makes about 1,626 ml)",1 kg sugar,1626,ml of syrup,5.50,4.66,0,,0.0029,ml,"Shufersal online, regular price, checked 2026-10-18"
+honey,"Honey syrup 2:1 (from 1 kg honey, makes about 1,200 ml)",1 kg honey,1200,ml of syrup,39.90,33.81,0,,0.0282,ml,"Shufersal online, regular price, checked 2026-10-18"
+basil,Basil (about 100 leaves per 50 g),50 g,100,pieces,7.90,6.69,20,,0.0669,piece,"Shufersal online, regular price, checked 2026-10-18"
+mint,Mint (about 40 leaves per bunch),bunch,40,pieces,4.90,4.15,20,,0.1038,piece,"Shufersal online, regular price, checked 2026-10-18"
+ginger,Fresh ginger (about 330 slices per kg),1 kg,330,pieces,34.90,29.58,10,,0.0896,piece,"Shufersal online, regular price, checked 2026-10-18"

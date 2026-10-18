@@ -1,0 +1,51 @@
+# Glossary inbox — Module 10
+
+- **Cost per serving** — the total cost of every ingredient and garnish in one drink, ex VAT, including waste allowances (lessons/module-10/lesson-01.md)
+- **Costing** — working out the cost per serving of a drink from a price list and its spec (lessons/module-10/lesson-01.md)
+- **Ex VAT / net of VAT** — a price with VAT removed: price incl. VAT ÷ 1.18 in Israel at the 18% rate (lessons/module-10/lesson-01.md)
+- **Input VAT** — VAT a business pays on its purchases; a VAT-registered business deducts it from the VAT it collects on sales (lessons/module-10/lesson-01.md)
+- **Cost per ml** — package price ex VAT divided by package size in ml (lessons/module-10/lesson-01.md)
+- **Yield** — the usable amount from a package: juice per kg of fruit, servings per bottle (lessons/module-10/lesson-01.md)
+- **Waste allowance (spillage allowance)** — a planned percentage of each package that never reaches a guest; line cost is divided by (1 − allowance) (lessons/module-10/lesson-01.md)
+- **Servings per bottle (bottle yield)** — usable ml ÷ pour, rounded down (lessons/module-10/lesson-01.md)
+- **Net price** — the menu price without VAT: menu price ÷ 1.18 (lessons/module-10/lesson-02.md)
+- **Pour cost %** — cost per serving ÷ net price × 100; the share of the net price spent on ingredients (lessons/module-10/lesson-02.md)
+- **Gross profit** — net price minus cost per serving, in shekels; it pays wages, rent and all other costs (lessons/module-10/lesson-02.md)
+- **Margin (gross margin)** — gross profit as a share of the net price; 100% minus pour cost (lessons/module-10/lesson-02.md)
+- **Markup** — gross profit as a share of the cost (lessons/module-10/lesson-02.md)
+- **Target pour cost** — the pour cost a bar aims for when setting prices; 20% is the course's starting point (lessons/module-10/lesson-02.md)
+- **Total price** — under Israel's Consumer Protection Law, the price including VAT and any payment the consumer cannot practically refuse; the only price a business may publish or quote (lessons/module-10/lesson-02.md)
+- **Standard recipe** — the bar's single official, dated version of a drink, with spec, method, allergens, cost, price and pour cost (lessons/module-10/lesson-03.md)
+- **Theoretical usage (ideal usage)** — the ml a product should have lost for what the POS sold: drinks sold × ml per drink, summed (lessons/module-10/lesson-03.md)
+- **Variance value** — variance in ml multiplied by cost per ml, in shekels (lessons/module-10/lesson-03.md)
+- **Theoretical pour cost** — theoretical cost ÷ net sales; what the menu prices promise (lessons/module-10/lesson-03.md)
+- **Actual pour cost** — cost of actual usage ÷ net sales; what really happened (lessons/module-10/lesson-03.md)
+- **Net sales** — sales without VAT for a period (lessons/module-10/lesson-03.md)
+- **Menu engineering** — classifying menu items by popularity and gross profit against the menu averages (Kasavana and Smith) (lessons/module-10/lesson-04.md)
+- **Star** — a drink above average in both popularity and gross profit (lessons/module-10/lesson-04.md)
+- **Plowhorse** — a popular drink with below-average gross profit (lessons/module-10/lesson-04.md)
+- **Puzzle** — a drink with above-average gross profit that sells below average (lessons/module-10/lesson-04.md)
+- **Dog** — a drink below average in both popularity and gross profit (lessons/module-10/lesson-04.md)
+- **Upselling** — offering a better or bigger option (premium spirit, food) with its price (lessons/module-10/lesson-04.md)
+- **Suggestive selling** — recommending a specific drink to a guest (lessons/module-10/lesson-04.md)
+- **Sales mix** — how many of each drink sell in a period; it decides the menu pour cost (lessons/module-10/lesson-05.md)
+- **Menu pour cost** — total theoretical cost ÷ total net sales for a sales mix (lessons/module-10/lesson-05.md)
+- **Price band** — a narrow price range for drinks of one menu section (lessons/module-10/lesson-05.md)
+
+## Hebrew
+
+- Cost — עלות (alut)
+- Costing — תמחיר (tamchir) — calculating cost per serving
+- Pricing — תמחור (tamchur) — setting the price
+- Yield — תפוקה (tfuka)
+- VAT — מע"מ (ma'am) — value added tax
+- VAT-registered business — עוסק מורשה (osek murshe)
+- Net price — מחיר נטו (mechir neto)
+- Total price — המחיר הכולל (ha-mechir ha-kolel) — the legal term for the all-inclusive price
+- Gross profit — רווח גולמי (revach golmi)
+- Pour cost — עלות משקה (alut mashke); many Israeli bartenders also say "food cost" or "beverage cost" in English (professional judgment)
+- Standard recipe — מתכון סטנדרטי (matkon standarti); bartenders often say ספק (spek), "the spec" (professional judgment)
+- Menu — תפריט (tafrit)
+- Price list — מחירון (mechiron)
+- Invoice — חשבונית (cheshbonit)
+- Supplier — ספק (sapak)
