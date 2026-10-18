@@ -2,7 +2,7 @@
 
 - Suggested slug: `bartending`
 - GitHub repo: `tal-giladi/bartender-course` (public)
-- Free or paid: suggestion — paid (job-oriented vocational course with calculators and simulations). Tal decides.
+- Free or paid: free (Tal, 2026-10-18).
 - Risk notice: For adults 18+. Involves alcohol, glass, knives and raw egg; practise mostly with water and alcohol-free ingredients, taste only small amounts, never drink and drive, and follow Israeli law on alcohol sale and service.
 - One-line summary: Learn to work behind a bar — tools, spirits, technique, the classic cocktails, speed, costing and responsible service under Israeli law — practising at home.
 - Who it is for: adults with no bar experience who want an entry-level bartending job in Israel, or who want to make proper drinks at home.
