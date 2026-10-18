@@ -16,7 +16,7 @@ Read first: `C:\Users\TalGiladi\OneDrive\repos\tals-academy\docs\new-course-inst
 - Every visible control works. No decorative buttons.
 
 ## Tests
-Add `scripts/tests/<name>.test.js` with `node:test` covering every `bar-math.js` function you use (conversions, scaling, dilution model, cost per serving, pour cost, margin vs markup, VAT, yield, variance; service-sim scoring). Run `node --test scripts/tests/`.
+Add `scripts/tests/<name>.test.js` with `node:test` covering every `bar-math.js` function you use (conversions, scaling, dilution model, cost per serving, pour cost, margin vs markup, VAT, yield, variance; service-sim scoring). Run `node --test "scripts/tests/**/*.test.js"`.
 
 ## Also
 - Add your rows to `simulations/README.md` (re-read right before writing; only add): one line per simulation with a relative link, the lessons that use it, and its presets.

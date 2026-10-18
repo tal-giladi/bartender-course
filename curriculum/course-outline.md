@@ -117,7 +117,7 @@ Simulation names are fixed (`simulations/<name>/`). Lesson writers link them wit
 
 ## 8. Simulations (built after the modules that link them)
 
-All follow Academy §7 and `curriculum/SIM-BRIEF.md`. Calculation logic goes in `simulations/common/bar-math.js` (pure functions: unit conversion, scaling, dilution estimate, cost per serving, pour cost, margin, markup, yield, variance), tested with `node --test scripts/tests/`.
+All follow Academy §7 and `curriculum/SIM-BRIEF.md`. Calculation logic goes in `simulations/common/bar-math.js` (pure functions: unit conversion, scaling, dilution estimate, cost per serving, pour cost, margin, markup, yield, variance), tested with `node --test "scripts/tests/**/*.test.js"`.
 
 | Name | What it does |
 |---|---|

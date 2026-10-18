@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dilution lab</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="lab.css">
+</head>
+<body>
+<main>
+  <h1>Dilution lab</h1>
+  <div id="label-slot"></div>
+  <p class="muted">Ice chills mainly by melting, so chilling always adds water. This model draws dilution and temperature over time for each method, fitted to Dave Arnold's measurements of real cocktails (shaken sour about 63%, stirred Manhattan about 50%; about 20–25% at 0% ABV). Predict first, then compare with the model and with your own scale.</p>
+
+  <section class="card task" id="task-card">
+    <h2 id="task-title"></h2>
+    <p id="task-trains"></p>
+    <div class="row">
+      <div><label for="task-select">Task</label><select id="task-select"></select></div>
+    </div>
+    <p id="task-text"></p>
+    <div class="table-wrap"><table id="task-table"></table></div>
+    <div class="row">
+      <div><button type="button" id="task-compare">Compare with the model</button></div>
+      <div><button type="button" class="secondary" id="task-clear">Clear my predictions</button></div>
+    </div>
+    <p id="task-result" aria-live="polite"></p>
+  </section>
+
+  <section class="card">
+    <h2>Set up a drink</h2>
+    <div class="row">
+      <div class="wide"><label for="drink">Drink</label><select id="drink"></select></div>
+    </div>
+    <div class="row">
+      <div><label for="vol">Volume before ice (ml)</label><input id="vol" type="number" min="10" max="400" step="1"></div>
+      <div><label for="abv">Starting ABV (%)</label><input id="abv" type="number" min="0" max="60" step="0.1"></div>
+      <div><label for="method">Method</label>
+        <select id="method"><option value="shake">Shake</option><option value="stir">Stir</option><option value="build">Build on ice</option><option value="throw">Throw</option></select></div>
+    </div>
+    <div class="row">
+      <div><label for="ice">Ice size</label><select id="ice"><option value="cubes">Cubes</option><option value="crushed">Crushed</option></select></div>
+      <div><label for="ice-state">Ice condition</label>
+        <select id="ice-state"><option value="machine">Machine ice, 0 °C, dry</option><option value="wet">Wet ice from the well</option><option value="freezer">Freezer ice, −18 °C, dry</option></select></div>
+      <div><label for="start">Ingredients start at (°C)</label><input id="start" type="number" min="0" max="35" step="1" value="20"></div>
+    </div>
+    <div class="row">
+      <div class="wide"><label for="time">Time: <span id="time-out"></span></label><input id="time" type="range" min="0" max="60" step="1" value="12"></div>
+      <div><label for="time-num">Seconds</label><input id="time-num" type="number" min="0" max="900" step="1" value="12"></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Model result</h2>
+    <div class="stats" id="stats" aria-live="polite"></div>
+    <div class="row chart-controls">
+      <div><label for="metric">Chart</label><select id="metric"><option value="dilution">Dilution (% of starting volume)</option><option value="temp">Temperature (°C)</option></select></div>
+      <label class="inline"><input type="checkbox" id="compare-all"> Compare all four methods</label>
+    </div>
+    <div class="chart" id="chart" role="img" aria-label="Chart of the model over time"></div>
+    <p class="formula">dilution % = water added ÷ volume before × 100 · ABV after = ABV before ÷ (1 + dilution)</p>
+    <p class="muted small" id="model-note"></p>
+  </section>
+
+  <section class="card">
+    <h2>My home measurement</h2>
+    <p class="muted">Weigh the mix before ice and the strained drink after (lesson 03.5). For water-based mixes 1 g ≈ 1 ml. The comparison uses the method, ice and starting ABV set above. Some liquid always stays on the ice, so your number usually reads a few points low.</p>
+    <div class="row">
+      <div><label for="m-before">Weight before (g)</label><input id="m-before" type="number" min="1" step="1" value="111"></div>
+      <div><label for="m-after">Weight after (g)</label><input id="m-after" type="number" min="1" step="1"></div>
+      <div><label for="m-time">Time (s)</label><input id="m-time" type="number" min="0" step="1" value="15"></div>
+      <div><label for="m-temp">Temperature, optional (°C)</label><input id="m-temp" type="number" step="0.5"></div>
+    </div>
+    <div class="row">
+      <div><button type="button" id="m-add">Add to my log</button></div>
+      <div><button type="button" class="secondary" id="m-clear">Clear log</button></div>
+      <div id="m-csv"></div>
+    </div>
+    <p id="m-result" aria-live="polite"></p>
+    <div class="table-wrap"><table id="m-table"></table></div>
+  </section>
+</main>
+<script src="../common/sim.js"></script>
+<script src="../common/bar-math.js"></script>
+<script src="../common/recipes.js"></script>
+<script src="lab-core.js"></script>
+<script src="lab.js"></script>
+</body>
+</html>

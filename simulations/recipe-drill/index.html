@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recipe drill</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="drill.css">
+</head>
+<body>
+<main>
+  <h1>Recipe drill</h1>
+  <div id="label-slot"></div>
+  <p class="muted">Recall course specs from memory, in the fixed order: ingredients with ml, method, glass and ice, garnish. A card scores one point per part; ml must be within ±5 ml, and dashes, cubes, sprigs and "to top" as the spec says. Specs are the course cards (IBA unless the card says otherwise).</p>
+
+  <section class="card task" id="task-card"></section>
+
+  <section class="card" id="setup"></section>
+
+  <section class="card" id="stage" aria-live="polite" hidden></section>
+
+  <section class="card" id="summary" hidden></section>
+</main>
+<script src="../common/sim.js"></script>
+<script src="../common/bar-math.js"></script>
+<script src="../common/recipes.js"></script>
+<script src="drill-core.js"></script>
+<script src="drill.js"></script>
+</body>
+</html>

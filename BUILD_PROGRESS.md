@@ -37,13 +37,13 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] M11
 
 ## Simulations (after the modules that link them)
-- [ ] recipe-scaler (M3, M8)
-- [ ] dilution-lab (M3, M4)
-- [ ] recipe-drill (M5, M6, M11)
+- [x] recipe-scaler (M3, M8)
+- [x] dilution-lab (M3, M4)
+- [x] recipe-drill (M5, M6, M11)
 - [ ] service-sim (M8, M11)
 - [ ] guest-scenarios (M9, M11)
 - [ ] costing-calculator (M10, M11)
-- [ ] `node --test scripts/tests/` passes
+- [ ] `node --test "scripts/tests/**/*.test.js"` passes
 
 ## After modules
 - [ ] merge inboxes: glossary-inbox → glossary.md + hebrew-bar-terms.md; research-inbox → references/research-log.md; recipe-inbox → curriculum/recipes.yaml → `py scripts/build_recipes.py`; template-inbox → templates/
