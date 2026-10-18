@@ -46,9 +46,9 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] `node --test "scripts/tests/**/*.test.js"` passes
 
 ## After modules
-- [ ] merge inboxes: glossary-inbox → glossary.md + hebrew-bar-terms.md; research-inbox → references/research-log.md; recipe-inbox → curriculum/recipes.yaml → `py scripts/build_recipes.py`; template-inbox → templates/
-- [ ] projects/ briefs if any (capstone lives in Module 11)
-- [ ] final QA: `py scripts/check.py` clean, `npm run check-course` 0 problems, external links checked, git clean, TODO_FOR_TAL.md ready
+- [x] merge inboxes: glossary-inbox → glossary.md + hebrew-bar-terms.md; research-inbox → references/research-log.md; recipe-inbox → curriculum/recipes.yaml → `py scripts/build_recipes.py`; template-inbox → templates/
+- [x] projects/ briefs if any (capstone lives in Module 11)
+- [x] final QA: `py scripts/check.py` clean, `npm run check-course` 0 problems, external links checked, git clean, TODO_FOR_TAL.md ready
 
 ## Decisions
 - Final assessment is Module 11 (plan §0); Module 10 = costing and menu design.
@@ -73,3 +73,4 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - M10 done.
 - M09 done.
 - M11 done.
+- All modules and simulations done; final QA passed 2026-10-18 (check.py 0, check-course 0 problems, 64 tests pass).
