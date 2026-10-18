@@ -1,0 +1,6 @@
+item,price_list_key,bottle_ml,par_bottles,opening_count_bottles,received_bottles,closing_count_bottles,logged_waste_ml,waste_reason
+Tequila 100% agave (Patrón Silver),tequila,700,3,1.5,3,1.4,50,Margarita remade (wrong glass)
+Cointreau (triple sec),cointreau,700,2,1.3,1,1.2,0,
+Bourbon (Jim Beam White),bourbon,700,3,1.6,2,1.7,0,
+Aperol,aperol,1000,6,1.4,5,1.4,120,two Aperol Spritzes knocked over
+Vodka (Smirnoff Red),vodka,700,4,2.0,3,1.7,0,

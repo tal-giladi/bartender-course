@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A candidate scores written 90%, recall 76%, technique 92%, service 90% and costing 95%, with no
+    safety-critical failure. Their weighted total is 87.5. What is the result?
+  options:
+    - Pass, because the weighted total is well above 80.0.
+    - Pass, because only one component is below its minimum.
+    - Not passed, because recall is below its 80% minimum.
+    - Not passed, because technique and service must both reach 95%.
+  correct: 2
+  explanation: >-
+    Passing needs all three conditions: total at least 80.0, every minimum met, no safety failure.
+    Recall needs 80%, so the candidate retakes the recall exam; a high total does not compensate.
+- id: q2
+  question: >-
+    Your Module 11 quiz is 80%, your lesson-quiz average 72% and your guest scenarios exam 60%. What is
+    your written knowledge score?
+  options:
+    - 70.7%, the simple average of the three results.
+    - 73.0%, using the 50/25/25 blend.
+    - 80.0%, because only the Module 11 quiz counts.
+    - 76.0%, the average of the quiz and the lesson quizzes.
+  correct: 1
+  explanation: >-
+    Written = 0.50 × 80 + 0.25 × 72 + 0.25 × 60 = 40 + 18 + 15 = 73.0%, which meets the 70% minimum.
+    The quiz carries half the weight, so a simple average gives the wrong number.
+- id: q3
+  question: >-
+    During the filmed technique exam you scoop ice once with a rocks glass. Your rubric total is still
+    18 / 20 and your weighted total would be 87. What happens?
+  options:
+    - Nothing, because one scoop is a minor fault worth a single point.
+    - You lose the technique component but still pass overall on the total.
+    - You redo the whole final assessment from the recipe recall exam onwards.
+    - You remediate and retake the technique exam, whatever the total.
+  correct: 3
+  explanation: >-
+    Scooping ice with a glass is a safety-critical failure: that part needs remediation and a retest,
+    whatever the score. Only the affected part is retaken.
+- id: q4
+  question: >-
+    Your first service exam run goes badly in the first wave. A friend suggests restarting until a run
+    reaches 85. What does the course's exam rule say?
+  options:
+    - The first complete run counts; retake later with a new seed after remediation.
+    - Restart as often as needed, because only the best run is recorded.
+    - Restart once, then the second run counts whatever the score.
+    - Finish the run, then average it with the next three practice runs.
+  correct: 0
+  explanation: >-
+    Restarting measures luck, not skill. The first complete run under exam conditions counts; after a
+    logged remediation session you may retake with a new seed, and the latest attempt counts.

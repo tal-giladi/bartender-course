@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You score 52 of 56 in the guest scenarios exam, but in the possible-minor situation you chose to serve
+    after seeing a photo of an ID on a phone. What is the result of this part?
+  options:
+    - Passed with 92.9%, since one weak choice is outweighed by the rest.
+    - Not passed: a safety-critical choice means remediation and a retest.
+    - Passed, but the score is reduced to the 70% minimum.
+    - Not passed, and the whole final assessment must be redone.
+  correct: 1
+  explanation: >-
+    Serving a possible minor without a physical ID is safety-critical. The part is pass or fail on safety,
+    so it is remediated and retaken; the other parts of the assessment stand.
+- id: q2
+  question: >-
+    A guest who is slurring and swaying asks for "a small one for the road" and his car keys are on the
+    bar. Which response scores 2 in Safety and law?
+  options:
+    - Pour a single measure instead of a double, and suggest he waits an hour before driving.
+    - Serve a beer with low alcohol, since it is not a spirit.
+    - No more alcohol; water, food, a taxi, and the manager told; keep an eye on him.
+    - Tell him loudly that he is drunk so the other guests understand the refusal.
+  correct: 2
+  explanation: >-
+    Penal Law s. 193(c) forbids supplying alcohol to a drunk person, whatever the size or strength. The
+    safe response is also private and calm; shouting would cost Guest care points.
+- id: q3
+  question: >-
+    A guest with an egg allergy orders a Pisco Sour. Your aquafaba was made in the same kitchen as the
+    bar's egg-white drinks. What do you do first?
+  options:
+    - Ask whether traces matter and tell her where the aquafaba was made before offering it.
+    - Make it with aquafaba straight away, since aquafaba contains no egg.
+    - Make the usual Pisco Sour, because pasteurised egg white is safe.
+    - Refuse to serve her anything, since the bar handles egg.
+  correct: 0
+  explanation: >-
+    Never guess: a possible cross-contact source must be disclosed. If traces matter, offer a drink
+    without foam or another drink, with a freshly washed shaker; refusing everything is unnecessary.
+- id: q4
+  question: >-
+    Your simulation score is 68% with no safety-critical choice. How does this affect your final
+    assessment?
+  options:
+    - The guest part fails because it is below 70%.
+    - It has no effect, because the guest part is only pass or fail.
+    - The guest part must be retaken until it reaches 80%.
+    - The part is passed, and 68% counts for 25% of the written knowledge score.
+  correct: 3
+  explanation: >-
+    The guest part is pass or fail on safety only. Its percentage feeds the written component (0.25 of
+    it), so a low safe score lowers that component and becomes an area to improve.

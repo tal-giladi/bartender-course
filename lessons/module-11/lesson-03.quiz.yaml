@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    In the exam you weigh eight jigger pours. Seven are in tolerance; one 15 ml pour reads 13.9 g. What do
+    you score on the measuring line?
+  options:
+    - 2, because 13.9 g rounds to 14 g, which is close enough.
+    - 1, because 6–7 of 8 pours in tolerance scores 1.
+    - 0, because any pour out of tolerance scores zero.
+    - 2, because 15 ml pours have a wider tolerance than 30 ml pours.
+  correct: 1
+  explanation: >-
+    ±5% of 15 ml is 14.3–15.7 g, so 13.9 g is out. Eight of eight scores 2, six or seven scores 1, five
+    or fewer scores 0.
+- id: q2
+  question: >-
+    Your rubric total is 17 / 20, but in round 2 you dipped a rocks glass into the ice bowl to fill it
+    quickly. What is the result of this part?
+  options:
+    - Passed with 85%, minus one point on the safety line.
+    - Passed, because the fault happened in only one of two rounds.
+    - Not passed: remediation and a full retake of the exam set.
+    - Not passed, but only the round 2 film is reshot.
+  correct: 2
+  explanation: >-
+    Scooping ice with a glass is a safety-critical failure: it fails the part whatever the score. After
+    remediation you retake the whole exam set.
+- id: q3
+  question: >-
+    You score yourself 18 / 20. A working bartender watches the films and scores 15 / 20. What do you
+    record?
+  options:
+    - 15 / 20, because the course records the lower of the two scores.
+    - 18 / 20, because the candidate knows what they intended.
+    - 16.5 / 20, the average of the two scores.
+    - Nothing, until a second reviewer breaks the tie.
+  correct: 0
+  explanation: >-
+    Self-scoring tends to be generous; the course records the lower score. 15 / 20 is exactly 75%, so the
+    part is still passed.
+- id: q4
+  question: >-
+    In round 1 a spill makes you lose the order on the build. What should you do while filming?
+  options:
+    - Stop the camera, clean up and restart round 1 from the beginning.
+    - Skip the build and go straight to the stirred drink.
+    - End the session and try another day.
+    - Keep filming, recover, finish the round and score what happened.
+  correct: 3
+  explanation: >-
+    One continuous take per round is the rule, and recovering from a mistake is part of real service. The
+    build scores 1 if round 2 meets the standard.

@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    Which line belongs in the "areas to improve" section of your performance report?
+  options:
+    - I need to be faster behind the bar in general, on every kind of ticket.
+    - Customer service, because it is always important for any bartender.
+    - Service exam: two dead drinks in wave 1; I build before I shake.
+    - Measuring, since every bartender can always improve their pours.
+  correct: 2
+  explanation: >-
+    A useful area names specific evidence from your results, so it points to one practice. The others are
+    true for everyone and tell you nothing to do.
+- id: q2
+  question: >-
+    A bar manager asks about your training. Which answer is honest and still strong?
+  options:
+    - I am a certified bartender: I passed the course's final exam with 86%.
+    - 60 hours of self-study, filmed and simulated; self-assessed 86%; no shifts yet.
+    - I have a bartending diploma from an online academy I studied with.
+    - I passed a licensed course, so I can work any station from day one.
+  correct: 1
+  explanation: >-
+    The course grants no certificate, diploma or licence, and the scores are self-assessed. Saying what you
+    practised and how you measured it is honest and specific.
+- id: q3
+  question: >-
+    Your report shows a weighted total of 82.4, every minimum met, but your 11.5 written case B scored 0 in
+    Safety and law. What do you write as the result?
+  options:
+    - Remediation needed: retake the guest scenarios part after targeted practice.
+    - Pass, because the total and every minimum meet the rule.
+    - Pass with a note, because written cases do not count towards the result.
+    - Remediation needed: retake every part of the final assessment.
+  correct: 0
+  explanation: >-
+    A 0 in Safety and law is a safety-critical failure: that part is remediated and retaken whatever the
+    total. Only the failed part is retaken.
+- id: q4
+  question: >-
+    Which remediation line is most likely to work?
+  options:
+    - Practise recipes more often until they feel solid.
+    - Watch some videos about service when I have time.
+    - Retake the recall exam every day until I pass.
+    - 20 weighed 15 ml pours, four times a week, re-film on 8 November.
+  correct: 3
+  explanation: >-
+    A good line names a specific practice, a frequency and a retest date. Retaking daily without targeted
+    practice measures the same gaps again.

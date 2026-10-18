@@ -1,0 +1,127 @@
+- id: q1
+  question: >-
+    Mid-shift, a glass chips against the rim of the ice well and you cannot see whether any glass went in.
+    The bar is busy. What do you do?
+  options:
+    - Scoop carefully from the far side of the well, away from where the glass hit.
+    - Pick out any visible pieces with tongs and carry on serving.
+    - Stop using the well, warn the team, empty and burn the ice, clean and refill.
+    - Keep serving and ask the barback to change the ice at closing time.
+  correct: 2
+  explanation: >-
+    Glass in ice is nearly invisible, so the whole well is treated as contaminated: burn the ice (melt it
+    with hot water), clean the well and refill it. Five minutes of ice is cheaper than an injured guest.
+- id: q2
+  question: >-
+    A guest asks for a Margarita "with something smoky instead of the tequila". Which choice makes sense
+    and what do you tell the guest?
+  options:
+    - Use mezcal and say it is a smoky agave spirit, so the drink tastes different from the menu version.
+    - Use Islay whisky, since a Margarita works with any smoky spirit and needs no comment.
+    - Use the same tequila with a few drops of liquid smoke and call it a Margarita.
+    - Refuse, because changing a classic spec is never acceptable behind a bar.
+  correct: 0
+  explanation: >-
+    Mezcal is the agave spirit with a smoky character, so it keeps the drink's family. Telling the guest
+    the swap is honest; a silent or far-off substitution misleads them.
+- id: q3
+  question: >-
+    For an event you batch 10 Negronis (900 ml of gin, Campari and vermouth) into a bottle. Each serving
+    will be stirred to order on ice. How much water do you add to the batch?
+  options:
+    - 180 ml, the 20% a freezer batch needs.
+    - 450 ml, because a stirred drink gains about 50% water.
+    - 90 ml, one serving's worth, as a safety margin.
+    - None, because the ice adds the water when each drink is stirred.
+  correct: 3
+  explanation: >-
+    Add batch water only when servings will not be mixed on ice. A pre-mix stirred to order gets its water
+    from the ice; adding more would dilute it twice.
+- id: q4
+  question: >-
+    A new house recipe has gin, fresh lemon juice and honey syrup. How should it be mixed?
+  options:
+    - Stirred, because gin drinks are stirred to keep them clear.
+    - Shaken, because citrus and syrup need hard mixing, chilling and aeration.
+    - Built in the glass, because three ingredients mix easily.
+    - Thrown, because honey needs the long pour to dissolve.
+  correct: 1
+  explanation: >-
+    Drinks with citrus juice, syrups that need mixing, cream or egg are shaken; spirit-only drinks are
+    stirred. This is a Bee's Knees-style sour, so it is shaken.
+- id: q5
+  question: >-
+    A guest orders "a Manhattan, but with bourbon". What is the right response?
+  options:
+    - Refuse, because the IBA spec uses rye and nothing else.
+    - Make it with bourbon in the same amounts: a very common variation.
+    - Make it with rye anyway, since the guest cannot taste the difference.
+    - Add extra vermouth, because bourbon is stronger than rye.
+  correct: 1
+  explanation: >-
+    The IBA Manhattan uses 50 ml rye, but bourbon Manhattans are very common. Swap the base and keep the
+    amounts; the drink will be rounder and sweeter.
+- id: q6
+  question: >-
+    You are writing a new sour with 60 ml of base spirit. A colleague's draft has 45 ml lemon juice and
+    10 ml syrup. What does the course's sour pattern suggest?
+  options:
+    - Nothing unusual, because sours can have any ratio.
+    - Double the syrup and keep the lemon, so the drink gets sweeter.
+    - Remove the syrup completely, because lemon already balances the spirit.
+    - Check it: a common start is about 22.5 ml citrus and 22.5 ml 1:1 syrup.
+  correct: 3
+  explanation: >-
+    The sour family's usual starting point is about 60 : 22.5 : 22.5 ml, adjusted by taste. Twice the
+    citrus and half the syrup is very sour and worth questioning before service.
+- id: q7
+  question: >-
+    A table orders a bottle of cava. How do you open it safely?
+  options:
+    - Thumb on the cork, bottle at about 45° pointing away from people, turn the bottle, ease the cork out.
+    - Remove the cage, point the bottle up and let the pressure push the cork out for the table.
+    - Shake it gently first so the bubbles are fresh, then twist the cork.
+    - Point the bottle at the floor and pull the cork straight out by force.
+  correct: 0
+  explanation: >-
+    A flying cork can injure an eye. Keep a thumb on the cork once the cage is loose, point the bottle away
+    from people and turn the bottle, not the cork, for a quiet release.
+- id: q8
+  question: >-
+    One ticket has a Mojito, a Daiquiri and a bottle of beer. In what order do you work so that every
+    drink reaches the guest at its best?
+  options:
+    - Open the beer first, then the Mojito, then the Daiquiri.
+    - Daiquiri shaken and strained first, then the Mojito, then the beer last.
+    - Glasses first, then the drink that takes longest, with ice and bubbles added late.
+    - Each drink fully finished before starting the next, in ticket order.
+  correct: 2
+  explanation: >-
+    Set the glasses, start the longest drink, add ice late and the carbonated parts last, then open the
+    beer as the ticket goes out. Finishing drinks early leaves them dying on the bar.
+- id: q9
+  question: >-
+    On 18 October 2026 a guest who looks young orders a beer and shows an Israeli ID card with a date of
+    birth of 20 October 2008. What do you do?
+  options:
+    - Serve, since the guest turns 18 in two days.
+    - Serve a low-alcohol beer instead, as a compromise.
+    - Ask a friend at the table to confirm the guest's age, then serve.
+    - Refuse alcohol politely and offer a soft drink.
+  correct: 3
+  explanation: >-
+    The cut-off is today minus 18 years: born on or before 18 October 2008. This guest is a minor, and
+    Penal Law s. 193A forbids selling or serving any alcohol to a minor.
+- id: q10
+  question: >-
+    A drink costs 9.00 ILS and sells for 59 ILS incl. VAT (18%). The owner asks for its pour cost and
+    markup. What do you answer?
+  options:
+    - Pour cost 18.0% and markup 456%, both on the net price of 50 ILS.
+    - Pour cost 15.3% and markup 556%, using the menu price as it is.
+    - Pour cost 18.0% and markup 82%, because markup is the share of price kept.
+    - Pour cost 82.0% and markup 18%, because the two always add up to 100%.
+  correct: 0
+  explanation: >-
+    Net = 59 ÷ 1.18 = 50. Pour cost = 9 ÷ 50 = 18.0%. Markup = (50 − 9) ÷ 9 = 456%. 82% is the margin, and
+    15.3% leaves VAT in the price.

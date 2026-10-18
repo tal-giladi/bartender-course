@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    For a Margarita card you write tequila 50 ml, triple sec 20 ml, lime 25 ml, shake and strain, chilled
+    cocktail glass with no ice, half salt rim. How many points does the card score?
+  options:
+    - 4, because every ml is close to the spec.
+    - 2, because the lime is wrong and the garnish is optional.
+    - 3, because the lime is 10 ml off the spec.
+    - 1, because one wrong amount voids the whole card.
+  correct: 2
+  explanation: >-
+    The IBA Margarita has 15 ml lime; 25 ml is outside ±5 ml, so the ingredients cell scores 0. Method,
+    glass and ice, and garnish are right, so the card scores 3 of 4.
+- id: q2
+  question: >-
+    Your first exam run scores 61 of 80 points. Most misses are garnishes on Module 6 drinks. What is the
+    best next step?
+  options:
+    - Retake the exam tomorrow with the same seed to see the same cards again.
+    - Restart now and keep the best of the two runs.
+    - Re-read all thirty cards once tonight and retake in the morning.
+    - A week of daily recall aimed at Module 6 garnishes, then a retake with a new seed.
+  correct: 3
+  explanation: >-
+    61 / 80 is 76%, below the 80% minimum. Targeted, spaced practice on the dominant error type fixes the
+    gap; a new seed tests the whole pool, not memorised cards.
+- id: q3
+  question: >-
+    You know the ml of a drink only roughly but remember its method and glass. What should you do with the
+    card in the exam?
+  options:
+    - Fill in every cell with your best answer, because method and glass can still score.
+    - Leave it blank, because a wrong answer is worse than no answer.
+    - Look up the spec quickly, since only the ml cell is in doubt.
+    - Skip it and come back after the timer, when marking starts.
+  correct: 0
+  explanation: >-
+    Each cell is marked separately and a blank always scores zero. Looking anything up breaks the
+    closed-book condition.
+- id: q4
+  question: >-
+    Why does the recall exam draw 20 drinks at random instead of using a fixed list?
+  options:
+    - Because a random list is shorter and quicker to mark.
+    - Because a shift asks for any drink at any moment, and a fixed order can be memorised.
+    - Because the IBA requires bartending exams to use random cards.
+    - Because a random draw always contains the easier drinks first.
+  correct: 1
+  explanation: >-
+    A fixed list rewards memorising the order. A random draw from the whole pool tests what a shift tests,
+    and every retrieval also strengthens memory (the testing effect).

@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your exam run ends at 86% accuracy, an average ticket time of 345 s and 8% waste. What is your service
+    score?
+  options:
+    - 86, because accuracy is the only number that counts.
+    - 77, after a 3-point time penalty and a 6-point waste penalty.
+    - 80, after a 3-point time penalty and a 3-point waste penalty.
+    - 71, after a 9-point time penalty and a 6-point waste penalty.
+  correct: 1
+  explanation: >-
+    Time penalty = (345 − 300) ÷ 15 = 3. Waste penalty = (8 − 5) × 2 = 6. Score = 86 − 3 − 6 = 77, above
+    the 70 minimum.
+- id: q2
+  question: >-
+    In wave 1 you could either rush a four-drink ticket and risk two dead drinks, or build it in passes and
+    add about 30 seconds to that ticket. Which choice does the score formula favour?
+  options:
+    - Rushing, because ticket time is the biggest penalty in the formula.
+    - Either, because the formula weighs time and accuracy equally.
+    - Building in passes, because each wrong drink costs about two points and 30 s costs far less.
+    - Rushing, because dead drinks count as waste, not as accuracy errors.
+  correct: 2
+  explanation: >-
+    In a shift of about 45 drinks, each incorrect drink costs about 2 accuracy points; 30 extra seconds on
+    one ticket raises the average by under 2 s, a tiny fraction of a point. Dead drinks are incorrect drinks.
+- id: q3
+  question: >-
+    Halfway through the exam shift a low-stock warning for lime juice appears. What is the best move?
+  options:
+    - Ask the barback at once, then carry on with the queue.
+    - Finish every open ticket first, then fetch the lime juice yourself.
+    - Restart the shift, since a stock-out makes the run unfair.
+    - Swap lime for lemon in every drink without telling the guests.
+  correct: 0
+  explanation: >-
+    Asking early costs 3 seconds; fetching yourself later costs 45 and may stall a ticket. Silent
+    substitution makes drinks incorrect and is dishonest to guests.
+- id: q4
+  question: >-
+    A guest sends back a Sidecar that was made exactly to spec. You remake it. How does the simulation
+    count it?
+  options:
+    - As an incorrect drink, lowering accuracy.
+    - As neither waste nor error, because the guest changed their mind.
+    - As an incorrect drink and as waste, both together.
+    - As waste only, because the first drink was correct.
+  correct: 3
+  explanation: >-
+    The model counts a correct drink that is sent back and remade as waste (its ml are binned), not as an
+    accuracy error, as in lesson 08.8.

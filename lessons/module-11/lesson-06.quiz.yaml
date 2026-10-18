@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A drink costs 11.99 ILS. The bar targets 20% pour cost, VAT is 18% and prices are rounded up to the
+    next 2 ILS. What is the formula price?
+  options:
+    - 60 ILS
+    - 70 ILS
+    - 72 ILS
+    - 71 ILS
+  correct: 2
+  explanation: >-
+    11.99 ÷ 0.20 = 59.95 net; × 1.18 = 70.74; rounded up to the next 2 ILS = 72. 60 forgets VAT, 70 rounds
+    down, and 71 rounds to the nearest shekel instead of up to the next 2.
+- id: q2
+  question: >-
+    The Whiskey Sour costs 8.50 ILS and sells for 54 ILS incl. VAT. A colleague reports its pour cost as
+    15.7%. What went wrong?
+  options:
+    - Nothing; 8.50 ÷ 54 is the correct pour cost.
+    - VAT was left in the price; on the net price of 45.76 the pour cost is 18.6%.
+    - The waste allowance was forgotten; with it the pour cost is 16.2%.
+    - Markup was calculated instead; the pour cost is 438%.
+  correct: 1
+  explanation: >-
+    Pour cost is cost ÷ net price. 54 ÷ 1.18 = 45.76, and 8.50 ÷ 45.76 = 18.6%. Dividing by the
+    VAT-inclusive price understates it.
+- id: q3
+  question: >-
+    Cointreau shows 770 ml used against 800 ml theoretical, a variance of −3.8%, with nothing in the waste
+    log. What do you write in the flag column?
+  options:
+    - Investigate, because under-use can mean short pours or a miscount.
+    - None, because the bar used less than expected and so saved money.
+    - Explained, because negative variances cancel out the positive ones here.
+    - None, because only variances above +3% ever need a flag at all.
+  correct: 0
+  explanation: >-
+    The tolerance works in both directions. Under-use can mean guests got weaker drinks than the menu
+    promises, a counting error, or drinks rung up but not made.
+- id: q4
+  question: >-
+    Aperol par is 6 bottles and the closing count is 1.4 bottles. How many do you order?
+  options:
+    - 4 bottles, rounding 4.6 to the nearest whole bottle downwards.
+    - 6 bottles, to refill to par from empty.
+    - 4.6 bottles, the exact difference.
+    - 5 bottles, because par minus closing is rounded up.
+  correct: 3
+  explanation: >-
+    Order = par − closing = 6 − 1.4 = 4.6, rounded up to 5 whole bottles so the bar starts the next week
+    at or just above par.

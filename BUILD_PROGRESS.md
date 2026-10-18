@@ -34,7 +34,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - [x] M08
 - [x] M09
 - [x] M10
-- [ ] M11
+- [x] M11
 
 ## Simulations (after the modules that link them)
 - [ ] recipe-scaler (M3, M8)
@@ -54,6 +54,7 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - Final assessment is Module 11 (plan §0); Module 10 = costing and menu design.
 - Lesson sections: Why it matters · Core ideas · Step by step · Hands-on · Common mistakes · Key takeaways · Sources.
 - Recipes: IBA spec is default; variations shown with sources; single data source `curriculum/recipes.yaml`.
+- Written score (11.1) = 0.5 × Module 11 quiz + 0.25 × lesson-quiz average + 0.25 × guest-scenarios exam. Service score = accuracy minus penalties for average ticket time over 300 s and waste over 5%.
 - Dilution model in bar-math.js refit to Arnold anchors (shaken sour ~63%, stirred Manhattan ~50%, water ~20–25%); outline "20–30%" applies only to near-0% ABV mixes.
 
 ## Open questions
@@ -71,3 +72,4 @@ Titles/paths: `scripts/manifest.py` (regenerates `_sidebar.md`).
 - M09, M10 done; M11 + simulations (recipe-scaler, dilution-lab, recipe-drill) spawned.
 - M10 done.
 - M09 done.
+- M11 done.
